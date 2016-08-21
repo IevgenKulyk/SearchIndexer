@@ -1,0 +1,7318 @@
+"Ah!" test1.txt 
+"All test1.txt 
+"Among test1.txt 
+"Darling". test1.txt 
+"I test1.txt 
+"Is test1.txt 
+"It test1.txt 
+"Let test1.txt 
+"Oh! test1.txt 
+"Oh!"' test1.txt 
+"On test1.txt 
+"Perhaps test1.txt 
+"That test1.txt 
+"The test1.txt 
+"What test1.txt 
+"Where test1.txt 
+"With test1.txt 
+"accidents" test1.txt 
+"accidents". test1.txt 
+"all test1.txt 
+"felt test1.txt 
+"good test1.txt 
+"great test1.txt 
+"impossible". test1.txt 
+"the test1.txt 
+$1 test3.txt 
+$10 test3.txt 
+$20 test3.txt 
+$200,000 test3.txt 
+$30 test3.txt 
+$35 test3.txt 
+$39 test3.txt 
+$5 test3.txt 
+$50. test3.txt 
+$60 test3.txt 
+$750 test3.txt 
+& test1.txt 
+'"My test1.txt 
+'"Oh!" test1.txt 
+'... test1.txt 
+'A test1.txt test2.txt test3.txt 
+'About test1.txt 
+'Ah! test1.txt test2.txt 
+'Ah!' test1.txt test2.txt 
+'Ah, test1.txt test2.txt 
+'Aha!' test1.txt 
+'Ahh!' test1.txt 
+'All test1.txt 
+'Always test1.txt 
+'Am test1.txt test2.txt 
+'An test1.txt 
+'And test1.txt test2.txt test3.txt 
+'And. test1.txt 
+'Another test1.txt test2.txt 
+'Anything test1.txt 
+'Anyway,' test2.txt 
+'Are test1.txt test2.txt 
+'Aren't test1.txt 
+'Arrive test1.txt 
+'Art test3.txt 
+'Art?' test3.txt 
+'As test1.txt 
+'At test1.txt test2.txt 
+'Be test2.txt 
+'Because test2.txt 
+'Because, test1.txt 
+'Before test1.txt 
+'Belgian. test1.txt 
+'Big test1.txt 
+'Bring test1.txt 
+'But test1.txt test2.txt test3.txt 
+'But, test1.txt test2.txt 
+'But...' test1.txt 
+'By test1.txt 
+'Can test2.txt 
+'Can't test1.txt 
+'Careful test1.txt 
+'Carefully, test2.txt 
+'Certainly. test1.txt 
+'Chanel' test3.txt 
+'Charles test1.txt 
+'Charles? test1.txt 
+'Cocaine test1.txt 
+'Coco test3.txt 
+'Coco' test3.txt 
+'Coco'. test3.txt 
+'Come test1.txt test2.txt 
+'Come, test1.txt 
+'Consider, test1.txt 
+'Could test1.txt test3.txt 
+'Courage, test1.txt 
+'Darling, test1.txt 
+'Dated test1.txt 
+'Dear test1.txt 
+'Dearest test1.txt 
+'Dearest, test1.txt 
+'Did test1.txt test2.txt 
+'Didn't test1.txt 
+'Do test1.txt test2.txt 
+'Does test2.txt 
+'Doesn't test3.txt 
+'Don't test1.txt test2.txt test3.txt 
+'Dress test3.txt 
+'During test2.txt 
+'Eh?' test2.txt 
+'Ellen?' test1.txt 
+'End test1.txt 
+'Escapes test1.txt 
+'Especially test2.txt 
+'Every test2.txt 
+'Everybody' test3.txt 
+'Everybody'! test3.txt 
+'Everyone test2.txt 
+'Evil. test1.txt 
+'Exactly, test1.txt 
+'Exactly. test1.txt 
+'Except test1.txt 
+'Excuse test2.txt 
+'Extraordinary,' test1.txt 
+'Fashion test3.txt 
+'Fifty test1.txt 
+'First-floor test2.txt 
+'Follow test2.txt 
+'Following test2.txt 
+'For test1.txt test3.txt 
+'Freddie test1.txt 
+'Freddie's test1.txt 
+'Freddie, test1.txt 
+'From test1.txt 
+'Gentlemen,' test2.txt 
+'George test1.txt 
+'George? test1.txt 
+'Get test2.txt 
+'Give test1.txt test2.txt 
+'Glad test1.txt 
+'Go test2.txt 
+'Good test1.txt test2.txt 
+'Good!' test2.txt 
+'Good. test1.txt 
+'Good.' test1.txt 
+'Goodness test2.txt 
+'Goodnight, test2.txt 
+'Grandfather test2.txt 
+'Grandfather!' test2.txt 
+'Grandfather,' test2.txt 
+'Had test1.txt 
+'Has test1.txt 
+'Hastings, test1.txt 
+'Have test1.txt test2.txt test3.txt 
+'He test1.txt test2.txt 
+'He's test1.txt 
+'Hello, test1.txt 
+'Hello,' test1.txt 
+'Her test1.txt 
+'Here test2.txt 
+'Here's test2.txt 
+'His test1.txt 
+'Holiday', test3.txt 
+'Hope test2.txt 
+'House test3.txt 
+'How test1.txt test2.txt test3.txt 
+'How?' test1.txt 
+'However, test1.txt 
+'Humph!' test2.txt 
+'Hush test1.txt 
+'I test1.txt test2.txt test3.txt 
+'I'll test1.txt test2.txt test3.txt 
+'I'm test1.txt test2.txt test3.txt 
+'I've test1.txt test2.txt 
+'I, test1.txt 
+'I... test2.txt 
+'If test1.txt test2.txt test3.txt 
+'Imagine, test1.txt 
+'Impossible test1.txt 
+'Impossible, test1.txt 
+'Impossible,' test1.txt 
+'In test1.txt 
+'Indeed! test1.txt 
+'Indeed?' test1.txt 
+'Is test1.txt test2.txt 
+'Isn't test1.txt test2.txt 
+'It test1.txt test2.txt test3.txt 
+'It'll test1.txt 
+'It's test1.txt test2.txt test3.txt 
+'J,' test1.txt 
+'Jarley's test2.txt 
+'Jealousy? test1.txt 
+'Just test1.txt test3.txt 
+'Kit test2.txt 
+'Kit's test2.txt 
+'Kit,' test2.txt 
+'Lastly test1.txt 
+'Lazarus!' test1.txt 
+'Lazarus,' test1.txt 
+'Lazarus? test1.txt 
+'Let's test1.txt test2.txt 
+'Life test3.txt 
+'Like test3.txt 
+'Listen test2.txt 
+'Listen, test1.txt 
+'London?' test1.txt 
+'Look test1.txt test2.txt 
+'Look!' test2.txt 
+'Look,' test2.txt 
+'Madame, test1.txt 
+'Mademoiselle test1.txt 
+'Mademoiselle, test1.txt 
+'Mademoiselle,' test1.txt 
+'Mademoiselle.' test1.txt 
+'Many test1.txt 
+'Martini?' test1.txt 
+'Master!' test2.txt 
+'May test1.txt 
+'Me test1.txt 
+'Me, test1.txt 
+'Michael test1.txt 
+'Miss test1.txt test2.txt 
+'Mon test1.txt 
+'Monday test1.txt 
+'Money?' test3.txt 
+'Monsieur test1.txt 
+'Most test1.txt 
+'Mother's.' test1.txt 
+'Motive! test1.txt 
+'Motive!' test1.txt 
+'Mr test1.txt test2.txt 
+'My test1.txt test2.txt test3.txt 
+'Nearly test1.txt 
+'Nell test2.txt 
+'Nell, test2.txt 
+'Never test1.txt 
+'New test3.txt 
+'Nice test1.txt 
+'Nick test1.txt 
+'Nick,' test1.txt 
+'No test1.txt test2.txt test3.txt 
+'No! test1.txt 
+'No!' test1.txt test2.txt 
+'No', test1.txt 
+'No, test1.txt test2.txt 
+'No,' test1.txt 
+'No. test1.txt 
+'No.' test1.txt 
+'No...' test1.txt 
+'Nobody test1.txt 
+'Not test1.txt 
+'Nothing test1.txt 
+'Nothing, test1.txt 
+'Nothing. test1.txt 
+'Now test1.txt test2.txt 
+'Now, test1.txt test2.txt 
+'Number test1.txt 
+'Of test1.txt test2.txt 
+'Oh test2.txt 
+'Oh! test1.txt 
+'Oh!' test1.txt test2.txt 
+'Oh, test1.txt test2.txt test3.txt 
+'Oh,' test1.txt test2.txt 
+'On test1.txt 
+'One test1.txt test2.txt test3.txt 
+'Oprah test3.txt 
+'Oprah' test3.txt 
+'Or, test2.txt 
+'Our test1.txt 
+'Ours!' test2.txt 
+'Pah! test1.txt 
+'People test1.txt 
+'Perfect! test1.txt 
+'Perhaps. test1.txt 
+'Perhaps...' test1.txt 
+'Philip test1.txt 
+'Please test2.txt 
+'Poirot,' test1.txt 
+'Poor test1.txt 
+'Prettier test1.txt 
+'Quilp test2.txt 
+'Quilp's test2.txt 
+'Richard!' test2.txt 
+'Richard,' test2.txt 
+'Round test1.txt 
+'School'. test2.txt 
+'See!' test1.txt 
+'See, test2.txt 
+'Seven test1.txt 
+'She test1.txt test2.txt test3.txt 
+'She'll test1.txt 
+'She's test1.txt test2.txt 
+'Should test1.txt 
+'Since test2.txt 
+'Sir test1.txt 
+'Sir,' test1.txt 
+'Sit test1.txt 
+'Six test1.txt test2.txt 
+'Sleep test2.txt 
+'So test1.txt 
+'So!' test1.txt 
+'So,' test2.txt 
+'So... test2.txt 
+'Some test1.txt test2.txt 
+'Someone test1.txt 
+'Something test2.txt 
+'Sorry test1.txt 
+'Still test1.txt 
+'Surely test1.txt 
+'Surely, test1.txt 
+'Swiveller test2.txt 
+'TO test1.txt 
+'Take test2.txt 
+'Tears test1.txt 
+'Tell test1.txt 
+'Thank test1.txt test2.txt 
+'Thanks test1.txt 
+'Thanks,' test1.txt 
+'Thanks. test1.txt 
+'That test1.txt test2.txt test3.txt 
+'That's test1.txt test2.txt 
+'The test1.txt test2.txt test3.txt 
+'Then test1.txt test2.txt 
+'Then,' test2.txt 
+'There test1.txt test2.txt 
+'There! test2.txt 
+'There's test1.txt 
+'There, test2.txt 
+'There,' test1.txt test2.txt 
+'These test3.txt 
+'They test1.txt test2.txt 
+'They're test2.txt 
+'Things test2.txt 
+'This test1.txt test2.txt test3.txt 
+'Those test1.txt 
+'Three?' test1.txt 
+'To test1.txt 
+'Too test1.txt 
+'True. test1.txt 
+'Two test1.txt 
+'Until test1.txt 
+'Very test1.txt 
+'Video test3.txt 
+'Was test1.txt 
+'We test1.txt test2.txt test3.txt 
+'We're test1.txt 
+'We're... test2.txt 
+'We've test2.txt 
+'Welcome test2.txt 
+'Well test1.txt 
+'Well, test1.txt test2.txt 
+'Well,' test1.txt test2.txt test3.txt 
+'Well?' test1.txt 
+'Were test1.txt 
+'What test1.txt test2.txt test3.txt 
+'What!' test2.txt 
+'What? test1.txt test2.txt 
+'What?' test1.txt test2.txt 
+'When test1.txt test2.txt 
+'Where test1.txt test2.txt test3.txt 
+'Where's test1.txt 
+'Which test2.txt 
+'Who test1.txt test2.txt 
+'Who? test1.txt 
+'Why test1.txt test2.txt 
+'Why, test1.txt 
+'Why?' test1.txt 
+'Will test1.txt test2.txt 
+'With test1.txt test2.txt 
+'Work test3.txt 
+'Would test1.txt test2.txt test3.txt 
+'Yes test1.txt 
+'Yes! test2.txt 
+'Yes!' test2.txt 
+'Yes, test1.txt test2.txt 
+'Yes,' test1.txt test2.txt 
+'Yes. test1.txt 
+'Yes.' test1.txt 
+'Yes?' test1.txt test2.txt 
+'Yesterday test1.txt 
+'You test1.txt test2.txt test3.txt 
+'You'd test1.txt 
+'You're test1.txt test2.txt 
+'You've test2.txt 
+'Your test1.txt test2.txt 
+'accidents'. test1.txt 
+'and test2.txt test3.txt 
+'and, test2.txt 
+'are test1.txt 
+'aren't test1.txt 
+'because test2.txt 
+'but test1.txt test2.txt 
+'by test1.txt 
+'could test2.txt 
+'did test1.txt test2.txt 
+'he test2.txt 
+'how test1.txt 
+'is test1.txt test2.txt 
+'it test2.txt 
+'my test2.txt 
+'not test1.txt 
+'of test2.txt 
+'she test1.txt test2.txt 
+'that test1.txt test2.txt test3.txt 
+'the test1.txt 
+'there test1.txt 
+'there's test2.txt 
+'these test3.txt 
+'this test1.txt 
+'those test1.txt 
+'to test1.txt test2.txt 
+'unknown test2.txt 
+'von test3.txt 
+'we test2.txt 
+'we' test1.txt 
+'with test1.txt 
+'yes' test3.txt 
+'yes, test2.txt 
+'you test1.txt test2.txt 
+('Harpo' test3.txt 
+(1) test1.txt 
+(2) test1.txt 
+(3) test1.txt 
+(I test1.txt 
+(Music test3.txt 
+(and test1.txt test2.txt 
+(or test1.txt 
+(she test1.txt 
+(which test1.txt 
+(who test2.txt 
+*** test1.txt test3.txt 
+- test1.txt test2.txt test3.txt 
+1.' test1.txt 
+18th test1.txt 
+1910, test3.txt 
+1910. test3.txt 
+1913, test3.txt 
+1914 test3.txt 
+1915, test3.txt 
+1916, test3.txt 
+1918, test3.txt 
+1919 test1.txt 
+1920s test3.txt 
+1920s, test3.txt 
+1929, test3.txt 
+1930s, test3.txt 
+1936, test3.txt 
+1936. test3.txt 
+1938, test3.txt 
+1939 test3.txt 
+1940, test3.txt 
+1940s, test3.txt 
+1944, test3.txt 
+1946, test3.txt 
+1947, test3.txt 
+1947. test3.txt 
+1950s, test3.txt 
+1951, test3.txt 
+1953, test3.txt 
+1954, test3.txt 
+1960s test3.txt 
+1960s, test3.txt 
+1961, test3.txt 
+1965, test3.txt 
+1970s test3.txt 
+1970s. test3.txt 
+1971. test3.txt 
+1976 test3.txt 
+1978, test3.txt 
+1980s test3.txt 
+1980s, test3.txt 
+1980s. test3.txt 
+1981, test3.txt 
+1982, test3.txt 
+1983 test3.txt 
+1983, test3.txt 
+1984, test3.txt 
+1985 test3.txt 
+1985, test3.txt 
+1986 test3.txt 
+1988, test3.txt 
+1989, test3.txt 
+1990, test3.txt 
+1992, test3.txt 
+1993. test3.txt 
+1995, test3.txt 
+1998 test3.txt 
+1999, test3.txt 
+2 test3.txt 
+2's test1.txt 
+2004, test3.txt 
+250 test3.txt 
+25th.' test1.txt 
+27 test3.txt 
+27th test1.txt 
+2nd test1.txt 
+2nd, test1.txt 
+3 test3.txt 
+4,000 test3.txt 
+5 test3.txt 
+5, test3.txt 
+5.30 test1.txt 
+500,000 test3.txt 
+A test1.txt test2.txt test3.txt 
+A. test1.txt 
+A.M. test3.txt 
+Aaron test1.txt 
+Abel test2.txt 
+Abel, test2.txt 
+About test1.txt test2.txt 
+Accidents? test1.txt 
+After test1.txt test2.txt test3.txt 
+Again, test3.txt 
+Ah! test1.txt 
+Ah!' test1.txt 
+Ah, test1.txt 
+Alanis test3.txt 
+Albatross, test1.txt 
+Alfred, test1.txt 
+Alice test3.txt 
+All test1.txt test2.txt 
+Almost test1.txt 
+Although test3.txt 
+Am test1.txt 
+America test3.txt 
+America's test3.txt 
+America; test3.txt 
+American test1.txt test3.txt 
+Americans test3.txt 
+Americans, test3.txt 
+An test1.txt test3.txt 
+And test1.txt test2.txt test3.txt 
+Another test1.txt 
+Any test1.txt 
+Anyone test1.txt test2.txt 
+Anyway, test1.txt 
+April test1.txt 
+Archduke test3.txt 
+Are test1.txt test2.txt test3.txt 
+Armstrong test3.txt 
+As test1.txt test2.txt test3.txt 
+At test1.txt test2.txt test3.txt 
+Atlantic, test3.txt 
+August test1.txt test3.txt 
+Austin test3.txt 
+Australia test1.txt 
+Australia, test1.txt 
+Australia. test1.txt 
+Australian test1.txt 
+Australians test1.txt 
+Australians. test1.txt 
+Australians.' test1.txt 
+Austrian test3.txt 
+B test1.txt 
+BUCKLEY test1.txt 
+BUCKLEY.' test1.txt 
+Back test2.txt test3.txt 
+Baltimore test3.txt 
+Baltimore. test3.txt 
+Bang! test1.txt 
+Barbara test2.txt 
+Barbara! test2.txt 
+Barbara, test2.txt 
+Barbara. test2.txt 
+Barbara.' test2.txt 
+Be test1.txt 
+Beatles test3.txt 
+Because test1.txt test3.txt 
+Before test2.txt test3.txt 
+Beginning test2.txt 
+Begins test2.txt 
+Behaviour test1.txt 
+Belgium test3.txt 
+Bert,' test1.txt 
+Bert. test1.txt 
+Bert?' test1.txt 
+Best test3.txt 
+Better test1.txt 
+Between test1.txt 
+Biarritz test3.txt 
+Biarritz, test3.txt 
+Biarritz. test3.txt 
+Biarritz: test3.txt 
+Blue test1.txt 
+Body test3.txt 
+Bosnia, test3.txt 
+Bosses test3.txt 
+Both test1.txt test2.txt test3.txt 
+Box test1.txt 
+Boy test3.txt 
+Boy. test3.txt 
+Boys test1.txt 
+Brass test2.txt 
+Brass's test2.txt 
+Brass, test2.txt 
+Brass,' test2.txt 
+Brass. test2.txt 
+Brass?' test2.txt 
+Brewster test3.txt 
+Britain's test3.txt 
+Britain. test1.txt 
+British test3.txt 
+Bruce test3.txt 
+Buchanan test1.txt 
+Buckley test1.txt 
+Buckley's test1.txt 
+Buckley, test1.txt 
+Buckley,' test1.txt 
+Buckley. test1.txt 
+Buckley.' test1.txt 
+Buckley... test1.txt 
+Buckley? test1.txt 
+Buckley?' test1.txt 
+Buckleys test1.txt 
+Buckleys.' test1.txt 
+Buggies. test3.txt 
+But test1.txt test2.txt test3.txt 
+But, test1.txt test2.txt 
+By test1.txt test2.txt test3.txt 
+C test1.txt 
+CD test3.txt 
+Call test1.txt 
+Canadian test3.txt 
+Capel test3.txt 
+Capel, test3.txt 
+Capel. test3.txt 
+Captain test1.txt 
+Challenger test1.txt 
+Challenger's test1.txt 
+Challenger, test1.txt 
+Challenger. test1.txt 
+Challenger...' test1.txt 
+Challenger...?' test1.txt 
+Challenger; test1.txt 
+Challenger?' test1.txt 
+Chance test2.txt 
+Chanel test3.txt 
+Chanel' test3.txt 
+Chanel's test3.txt 
+Chanel, test3.txt 
+Chanel. test3.txt 
+Chanels test3.txt 
+Changes test2.txt 
+Chaplin test3.txt 
+Chapter test1.txt test2.txt test3.txt 
+Charles test1.txt 
+Charles, test1.txt 
+Charlie test3.txt 
+Chicago test3.txt 
+Chicago. test3.txt 
+Chief test1.txt 
+China's test3.txt 
+Chinese test1.txt 
+Chocolates test1.txt 
+Christian test3.txt 
+Christmas, test1.txt 
+Christmas. test1.txt 
+Christmas.' test3.txt 
+Churchill. test3.txt 
+Ciccone test3.txt 
+City test3.txt 
+Clearly test2.txt 
+Cleverest test1.txt 
+Clinton. test3.txt 
+Coats test1.txt 
+Coco test3.txt 
+Coco's test3.txt 
+Coco, test3.txt 
+Coco. test3.txt 
+Coco? test3.txt 
+Cocteau, test3.txt 
+Cocteau. test3.txt 
+Codlin test2.txt 
+Codlin's test2.txt 
+Codlin, test2.txt 
+Colonel test1.txt 
+Color test3.txt 
+Come test1.txt test2.txt test3.txt 
+Come, test1.txt 
+Commander test1.txt 
+Complicated? test1.txt 
+Constable, test1.txt 
+Continue test1.txt 
+Cornwall, test1.txt 
+Could test1.txt 
+Croft test1.txt 
+Croft, test1.txt 
+Croft. test1.txt 
+Croft.' test1.txt 
+Croft? test1.txt 
+Crofts test1.txt 
+Curiosity test2.txt 
+Czechoslovakia. test3.txt 
+D test1.txt test3.txt 
+D'. test3.txt 
+Dad test1.txt 
+Daniel test2.txt 
+Day test1.txt 
+Dear test2.txt 
+Deauville test3.txt 
+Deauville, test3.txt 
+Deauville. test3.txt 
+Deceived! test1.txt 
+Demann test3.txt 
+Demann's test3.txt 
+Demann. test3.txt 
+Despite test2.txt 
+Devonport test1.txt 
+Devonport. test1.txt 
+Diaghilev. test3.txt 
+Did test1.txt test2.txt 
+Differences test1.txt 
+Dincklage. test3.txt 
+Dior's test3.txt 
+Dior. test3.txt 
+Directory, test1.txt 
+Do test1.txt test2.txt 
+Does test1.txt 
+Don't test1.txt test2.txt 
+Down test1.txt 
+Dr test1.txt 
+Dress test3.txt 
+During test3.txt 
+E test1.txt 
+E. test3.txt 
+ELLEN test1.txt 
+END test1.txt test2.txt test3.txt 
+Early test2.txt 
+East test3.txt 
+Eastern test3.txt 
+Ellen test1.txt 
+Ellen's test1.txt 
+Ellen, test1.txt 
+Ellen,' test1.txt 
+Ellen. test1.txt 
+Ellen?' test1.txt 
+Elvis test3.txt 
+End test1.txt test2.txt 
+England test1.txt test3.txt 
+England, test1.txt test2.txt 
+England.' test1.txt 
+English test1.txt test3.txt 
+Englishman test3.txt 
+Englishman. test1.txt 
+Englishman.' test1.txt 
+Europe test1.txt test3.txt 
+Europe, test3.txt 
+Europe. test3.txt 
+European test3.txt 
+Europeans test3.txt 
+Even test1.txt test2.txt 
+Evening test2.txt 
+Every test1.txt test2.txt test3.txt 
+Everybody test1.txt 
+Everybody's test1.txt 
+Everyone test3.txt 
+Everything test1.txt test2.txt 
+Exeter. test1.txt 
+F test1.txt 
+FR test1.txt 
+FREDDIE.' test1.txt 
+Face test1.txt 
+Fashion test3.txt 
+Fashionable test3.txt 
+Fatal test1.txt 
+February test1.txt test3.txt 
+February, test1.txt 
+February,' test1.txt 
+Feeling test1.txt 
+Ferdinand, test3.txt 
+Finally, test1.txt 
+Find test2.txt 
+Finish test1.txt 
+First test3.txt 
+First, test3.txt 
+For test1.txt test2.txt test3.txt 
+Forbes test3.txt 
+Ford test3.txt 
+Found test2.txt 
+Four test2.txt 
+France test3.txt 
+France. test1.txt test3.txt 
+Franz test3.txt 
+Fred test2.txt 
+Fred's test2.txt 
+Fred, test2.txt 
+Fred. test2.txt 
+Fred.' test2.txt 
+Fred?' test2.txt 
+Freddie test1.txt 
+Freddie, test1.txt 
+Freddie,' test1.txt 
+Freddie. test1.txt 
+Freddie.' test1.txt 
+Freddie? test1.txt 
+Freddy test3.txt 
+Frederica test1.txt 
+Frederica!' test1.txt 
+Frederica's test1.txt 
+Frederica, test1.txt 
+Frederica,' test1.txt 
+Frederica. test1.txt 
+French test1.txt test3.txt 
+French, test1.txt 
+Frenchman test3.txt 
+Frenchwoman test3.txt 
+Frenchwomen test3.txt 
+Friday. test1.txt 
+From test1.txt test2.txt 
+G test1.txt 
+Gabrielle test3.txt 
+Gain test1.txt 
+Garage. test1.txt 
+Garage.' test1.txt 
+Garbo. test3.txt 
+Garland test2.txt 
+Garland's test2.txt 
+Garland, test2.txt 
+Garland. test2.txt 
+Garland.' test2.txt 
+Garlands test2.txt 
+Garlands' test2.txt 
+Gavrilo test3.txt 
+Gentleman test2.txt 
+George test1.txt test2.txt 
+George, test1.txt test2.txt 
+George. test1.txt 
+George.' test1.txt 
+Gerald test1.txt 
+Gerald, test1.txt 
+German test3.txt 
+Germans test3.txt 
+Germans, test3.txt 
+Germany's test3.txt 
+Gets test2.txt 
+Giles test1.txt 
+Give test2.txt 
+Given test2.txt 
+Gloria test3.txt 
+Go test2.txt 
+Go, test1.txt 
+God test1.txt 
+Goldwyn test3.txt 
+Goldwyn. test3.txt 
+Good test1.txt 
+Good! test1.txt 
+Goodbye test1.txt 
+Goodbye!' test2.txt 
+Goodbye, test2.txt 
+Government test1.txt 
+Grace test3.txt 
+Graham test1.txt 
+Graham. test1.txt 
+Graham...' test1.txt 
+Grandfather test1.txt test2.txt 
+Greta test3.txt 
+Gunther test3.txt 
+H test1.txt 
+HOUSE test1.txt 
+Had test2.txt 
+Half test1.txt 
+Hanae test3.txt 
+Hanae's test3.txt 
+Hanae. test3.txt 
+Hans test3.txt 
+Happily, test1.txt test2.txt 
+Happy test1.txt 
+Harpo test3.txt 
+Harris test2.txt 
+Harris, test2.txt 
+Harris. test2.txt 
+Harvey test3.txt 
+Hastings test1.txt 
+Hastings! test1.txt 
+Hastings, test1.txt 
+Hastings,' test1.txt 
+Hastings. test1.txt 
+Hastings." test1.txt 
+Hastings.' test1.txt 
+Hastings...' test1.txt 
+Hastings? test1.txt 
+Hastings?' test1.txt 
+Hate test1.txt 
+He test1.txt test2.txt test3.txt 
+He'll test1.txt 
+He's test1.txt test2.txt 
+Hearing test2.txt 
+Help test2.txt 
+Her test1.txt test2.txt test3.txt 
+Herald test1.txt 
+Hercule test1.txt 
+Here test1.txt 
+Here, test2.txt 
+Hill, test2.txt 
+Hillary test3.txt 
+His test1.txt test2.txt test3.txt 
+Hitler's test3.txt 
+Hollywood test3.txt 
+Hollywood, test3.txt 
+Hollywood. test3.txt 
+Home test1.txt 
+Honest.' test1.txt 
+Hope test1.txt test2.txt test3.txt 
+Hotel test1.txt test3.txt 
+Hotel' test1.txt 
+Hotel. test1.txt test3.txt 
+House test1.txt 
+House,' test1.txt 
+House. test1.txt 
+House.' test1.txt 
+House? test1.txt 
+House?' test1.txt 
+How test1.txt test2.txt test3.txt 
+However, test1.txt test2.txt 
+I test1.txt test2.txt test3.txt 
+I'd test1.txt test2.txt 
+I'll test1.txt test2.txt 
+I'm test1.txt test2.txt test3.txt 
+I'm...' test1.txt 
+I've test1.txt test2.txt test3.txt 
+I, test1.txt test3.txt 
+I. test1.txt 
+I... test2.txt 
+I...' test1.txt test2.txt 
+I?' test2.txt 
+If test1.txt test2.txt test3.txt 
+Imagine test2.txt 
+Immediately test1.txt 
+Immediately, test2.txt 
+In test1.txt test2.txt test3.txt 
+Indians,' test1.txt 
+Inside test1.txt 
+Inside, test2.txt 
+Inspector test1.txt 
+Instead test1.txt test3.txt 
+Instead, test2.txt 
+Intelligent test3.txt 
+Internet test3.txt 
+Internet. test3.txt 
+Interview test1.txt 
+Is test1.txt 
+Issey test3.txt 
+It test1.txt test2.txt test3.txt 
+It's test1.txt test2.txt 
+Italy test1.txt 
+Italy. test3.txt 
+Its test3.txt 
+J test1.txt 
+J, test1.txt 
+J. test1.txt 
+J.' test1.txt 
+JEAN test1.txt 
+Jackson test3.txt 
+Jackson, test3.txt 
+Jacobs test3.txt 
+Jacobs, test3.txt 
+January test3.txt 
+Japan test3.txt 
+Japan's test3.txt 
+Japan, test3.txt 
+Japan. test3.txt 
+Japanese test3.txt 
+Japp test1.txt 
+Japp, test1.txt 
+Japp. test1.txt 
+Japp.' test1.txt 
+Jarley test2.txt 
+Jarley's test2.txt 
+Jarley, test2.txt 
+Jarley. test2.txt 
+Jarley.' test2.txt 
+Jean test3.txt 
+Jeffrey test3.txt 
+Jelly test3.txt 
+Jim test1.txt 
+Jim's test1.txt 
+Jim.' test1.txt 
+Jim? test1.txt 
+Job test2.txt 
+Journey test2.txt 
+June test3.txt 
+June, test2.txt 
+Just test1.txt test2.txt test3.txt 
+K test1.txt 
+K! test1.txt 
+K. test1.txt 
+K.?' test1.txt 
+Karl test3.txt 
+Kawakubo test3.txt 
+Kelly test3.txt 
+Ken test3.txt 
+Ken, test3.txt 
+Killed test3.txt 
+King test3.txt 
+Kit test2.txt 
+Kit! test2.txt 
+Kit!' test2.txt 
+Kit's test2.txt 
+Kit, test2.txt 
+Kit,' test2.txt 
+Kit. test2.txt 
+Kit? test2.txt 
+Kit?' test2.txt 
+Lagerfeld, test3.txt 
+Large test1.txt 
+Last test1.txt 
+Later test2.txt test3.txt 
+Later, test1.txt test2.txt 
+Lawyer,' test2.txt 
+Lazarus test1.txt 
+Lazarus, test1.txt 
+Lazarus,' test1.txt 
+Lazarus. test1.txt 
+Lazarus.' test1.txt 
+Lazarus; test1.txt 
+Le test1.txt 
+Leave test2.txt 
+Let test1.txt 
+Let's test1.txt test2.txt 
+Letters test1.txt 
+Life test2.txt 
+Like test3.txt 
+Listen, test1.txt 
+Little test1.txt test3.txt 
+London test1.txt test2.txt 
+London, test2.txt 
+London. test2.txt test3.txt 
+London.' test1.txt 
+Long test2.txt 
+Loo test1.txt 
+Loo, test1.txt 
+Loo. test1.txt 
+Look test1.txt test2.txt 
+Look' test3.txt 
+Look'. test3.txt 
+Look, test1.txt 
+Lots test3.txt 
+Loud test1.txt 
+Louis test3.txt 
+Love, test1.txt 
+Luck test2.txt 
+Luckily test2.txt 
+MAGDALA test1.txt 
+MAGGIE.' test1.txt 
+MICHAEL' test1.txt 
+MICHAEL.' test1.txt 
+MTV test3.txt 
+MTV. test3.txt 
+MTV; test3.txt 
+Mad test1.txt 
+Madame test1.txt 
+Madame!' test1.txt 
+Madame's test1.txt 
+Madame, test1.txt 
+Madame,' test1.txt 
+Madame. test1.txt 
+Madame.' test1.txt 
+Madame?' test1.txt 
+Mademoiselle test1.txt 
+Mademoiselle!' test1.txt 
+Mademoiselle's test1.txt 
+Mademoiselle, test1.txt 
+Mademoiselle,' test1.txt 
+Mademoiselle. test1.txt 
+Mademoiselle.' test1.txt 
+Mademoiselle: test1.txt 
+Mademoiselle? test1.txt 
+Mademoiselle?' test1.txt 
+Madge, test1.txt 
+Madonna test3.txt 
+Madonna's test3.txt 
+Madonna, test3.txt 
+Madonna. test3.txt 
+Madrid test3.txt 
+Magdala test1.txt 
+Magdala! test1.txt 
+Magdala's test1.txt 
+Magdala, test1.txt 
+Magdala. test1.txt 
+Maggie test1.txt 
+Maggie! test1.txt 
+Maggie', test1.txt 
+Maggie's test1.txt 
+Maggie, test1.txt 
+Maggie,' test1.txt 
+Maggie. test1.txt 
+Maggie.' test1.txt 
+Maggie...' test1.txt 
+Maggie? test1.txt 
+Maggie?' test1.txt 
+Majestic test1.txt 
+Majestic, test1.txt 
+Make test2.txt 
+Makes test2.txt 
+Many test2.txt test3.txt 
+Mao test3.txt 
+March test1.txt test3.txt 
+March, test3.txt 
+Marchioness test2.txt 
+Marchioness! test2.txt 
+Marchioness. test2.txt 
+Marchioness.' test2.txt 
+Margaret test1.txt 
+Margot, test1.txt 
+Marjie, test1.txt 
+Marton test2.txt 
+Marton, test2.txt 
+Marton,' test2.txt 
+Marton. test2.txt 
+Masako test3.txt 
+Matthew test1.txt 
+Matthew, test1.txt 
+Matthew. test1.txt 
+Mauser test1.txt 
+Mauser?' test1.txt 
+Maverick test3.txt 
+Maverick's test3.txt 
+Maverick. test3.txt 
+May test1.txt 
+Maybe test1.txt 
+McKay test3.txt 
+McKay. test3.txt 
+Meanwhile test2.txt 
+Media, test3.txt 
+Meetings test2.txt 
+Meg, test1.txt 
+Melbourne test1.txt 
+Melbourne, test1.txt 
+Merton! test1.txt 
+Merton. test1.txt 
+Michael test1.txt test3.txt 
+Michael's test1.txt 
+Michael.' test1.txt 
+Michigan, test3.txt 
+Mildred test1.txt 
+Millions test3.txt 
+Milly test1.txt 
+Milly,' test1.txt 
+Miss test1.txt test2.txt 
+Miss. test1.txt 
+Missing test1.txt 
+Miyake, test3.txt 
+Monday test1.txt test2.txt 
+Monday, test1.txt 
+Monday. test1.txt test2.txt 
+Monday.' test1.txt 
+Monday?' test1.txt 
+Monsieur test1.txt 
+Monsieur, test1.txt 
+More test1.txt test3.txt 
+Mori test3.txt 
+Mori's test3.txt 
+Mori, test3.txt 
+Morisette. test3.txt 
+Morton. test3.txt 
+Most test3.txt 
+Mother", test1.txt 
+Mother, test1.txt 
+Motive test1.txt 
+Mott's test1.txt 
+Mr test1.txt test2.txt 
+Mr...' test2.txt 
+Mrs test1.txt test2.txt 
+Must test1.txt 
+My test1.txt test2.txt test3.txt 
+Mystery test1.txt 
+Nagisa test3.txt 
+Nancy test3.txt 
+Naruhito test3.txt 
+Navy.' test1.txt 
+Navy? test1.txt 
+Nazi test3.txt 
+Nearby test2.txt 
+Nearly test2.txt 
+Neither test1.txt 
+Nell test2.txt 
+Nell!' test2.txt 
+Nell's test2.txt 
+Nell, test2.txt 
+Nell,' test2.txt 
+Nell. test2.txt 
+Nell.' test2.txt 
+Nell? test2.txt 
+Nell?' test2.txt 
+Nelly test2.txt 
+Nelly!' test2.txt 
+Nelly's test2.txt 
+Nelly,' test2.txt 
+Nelly.' test2.txt 
+Never test3.txt 
+Never!' test1.txt 
+New test1.txt test2.txt test3.txt 
+Next test2.txt test3.txt 
+Nice test1.txt 
+Nicholas test1.txt 
+Nicholas. test1.txt 
+Nicholas.' test1.txt 
+Nick test1.txt 
+Nick! test1.txt 
+Nick!' test1.txt 
+Nick's test1.txt 
+Nick, test1.txt 
+Nick,' test1.txt 
+Nick. test1.txt 
+Nick.' test1.txt 
+Nick? test1.txt 
+Nick?' test1.txt 
+No test1.txt test2.txt 
+No, test1.txt 
+No. test1.txt test3.txt 
+Nobody test1.txt test3.txt 
+None test1.txt 
+Nor test1.txt 
+Not test1.txt test2.txt 
+Nothing test1.txt 
+Nothing. test1.txt 
+November test3.txt 
+Now test1.txt test2.txt test3.txt 
+Now, test1.txt test2.txt 
+Nowhere test1.txt 
+Number test1.txt 
+ONLY.' test1.txt 
+October test3.txt 
+Of test1.txt test2.txt test3.txt 
+Oh test2.txt 
+Oh! test1.txt test2.txt 
+Oh, test1.txt test2.txt 
+Old test1.txt test2.txt 
+On test1.txt test2.txt test3.txt 
+One test1.txt test2.txt test3.txt 
+Only test1.txt 
+Oprah test3.txt 
+Oprah's test3.txt 
+Or test1.txt test2.txt test3.txt 
+Order test1.txt 
+Ordinary test3.txt 
+Oshima. test3.txt 
+Other test1.txt test2.txt 
+Others test2.txt 
+Our test1.txt 
+Ours test2.txt 
+Outside test1.txt 
+Over test2.txt test3.txt 
+Owada test3.txt 
+Oxygen test3.txt 
+Ozu test3.txt 
+Pablo test3.txt 
+Pacific.' test1.txt 
+Painful test1.txt 
+Pargiter test1.txt 
+Paris test1.txt test3.txt 
+Paris, test3.txt 
+Paris. test3.txt 
+Party test1.txt 
+Peggie.' test1.txt 
+Penn test3.txt 
+People test1.txt test3.txt 
+Pepsi test3.txt 
+Pepsi-Cola test3.txt 
+Perhaps test1.txt test2.txt test3.txt 
+Person test1.txt 
+Philip test1.txt 
+Phillip test1.txt 
+Picasso test3.txt 
+Picking test1.txt 
+Pierre test3.txt 
+Place, test3.txt 
+Plan test2.txt 
+Play test1.txt 
+Playing test1.txt 
+Please test2.txt 
+Please, test1.txt 
+Plymouth test1.txt 
+Poirot test1.txt 
+Poirot! test1.txt 
+Poirot".' test1.txt 
+Poirot', test1.txt 
+Poirot's test1.txt 
+Poirot, test1.txt 
+Poirot,' test1.txt 
+Poirot. test1.txt 
+Poirot." test1.txt 
+Poirot.' test1.txt 
+Poirot?' test1.txt 
+Poland test3.txt 
+Pontiac test3.txt 
+Poor test1.txt test2.txt 
+Pop test3.txt 
+Pope test3.txt 
+Powers test3.txt 
+Prayer' test3.txt 
+Prayer', test3.txt 
+Prayer'. test3.txt 
+Presently test1.txt 
+President test3.txt 
+Presley, test3.txt 
+Prince test3.txt 
+Prince. test3.txt 
+Princep test3.txt 
+Private.' test1.txt 
+Problems test2.txt 
+Produces test1.txt 
+Productions test3.txt 
+Productions, test3.txt 
+Productions. test3.txt 
+Purple test3.txt 
+Purple. test3.txt 
+Put test2.txt 
+Quick, test1.txt 
+Quilp test2.txt 
+Quilp! test2.txt 
+Quilp's test2.txt 
+Quilp, test2.txt 
+Quilp,' test2.txt 
+Quilp. test2.txt 
+Quilp.' test2.txt 
+Quilp?' test2.txt 
+Quite test1.txt 
+Radio test3.txt 
+Reagan test3.txt 
+Realizing test2.txt 
+Record test3.txt 
+Rei test3.txt 
+Religious test3.txt 
+Reverend test1.txt 
+Rice test1.txt 
+Rice's test1.txt 
+Rice, test1.txt 
+Rice,' test1.txt 
+Rice. test1.txt 
+Rice.' test1.txt 
+Rice...' test1.txt 
+Richard test2.txt 
+Richard's test2.txt 
+Richard, test2.txt 
+Richard. test2.txt 
+Richard.' test2.txt 
+Right test1.txt 
+Ritz test3.txt 
+Riviera. test1.txt 
+Roll test3.txt 
+Rolling test3.txt 
+Ronald test3.txt 
+Russian test3.txt 
+Sadly, test2.txt test3.txt 
+Sally test2.txt 
+Sally! test2.txt 
+Sally, test2.txt 
+Sally. test2.txt 
+Sam test3.txt 
+Sampson test2.txt 
+Sarajevo, test3.txt 
+Saturday test1.txt 
+Saturday. test1.txt 
+Saturday.' test1.txt 
+Say test1.txt test2.txt 
+Scarborough test1.txt 
+Scarborough, test1.txt 
+Scarborough. test1.txt 
+Scotland test1.txt 
+Sean test3.txt 
+Sean's test3.txt 
+Sean; test3.txt 
+Second test3.txt 
+Secret test1.txt test2.txt 
+Secretary test1.txt 
+See, test1.txt 
+September.' test1.txt 
+Sergei test3.txt 
+Seton test1.txt 
+Seton! test1.txt 
+Seton!' test1.txt 
+Seton's test1.txt 
+Seton, test1.txt 
+Seton. test1.txt 
+Seton.' test1.txt 
+Seton? test1.txt 
+Seton?' test1.txt 
+Several test1.txt test2.txt 
+Sex test3.txt 
+Sex. test3.txt 
+Share test3.txt 
+Shares test2.txt 
+Sharon test3.txt 
+Shawl test1.txt 
+She test1.txt test2.txt test3.txt 
+She'll test1.txt 
+She's test1.txt 
+Shellacombe.' test1.txt 
+Shimane test3.txt 
+Shock test2.txt 
+Shop test2.txt 
+Shop! test2.txt 
+Shop, test2.txt 
+Shop. test2.txt 
+Shops, test3.txt 
+Show test3.txt 
+Show, test3.txt 
+Show. test3.txt 
+Signed: test1.txt 
+Silently, test2.txt 
+Simple, test1.txt 
+Since test1.txt test2.txt 
+Single test2.txt 
+Sir test1.txt 
+Sir! test1.txt 
+Sir, test1.txt 
+Sir,' test1.txt 
+Sir. test1.txt 
+Sir.' test1.txt 
+Sir? test1.txt 
+Sit test1.txt 
+Slowly test1.txt 
+So test1.txt test2.txt test3.txt 
+So, test1.txt test2.txt 
+Some test1.txt test2.txt test3.txt 
+Somebody test1.txt 
+Somebody's test1.txt 
+Someone test1.txt 
+Someone, test2.txt 
+Something test1.txt 
+Something! test1.txt 
+Sometime test2.txt 
+Sometimes test3.txt 
+Somewhere test1.txt 
+Son, test1.txt 
+Son. test1.txt 
+Soon test1.txt test2.txt test3.txt 
+Soon, test2.txt test3.txt 
+South test1.txt 
+Spain, test3.txt 
+Spielberg test3.txt 
+Spielberg. test3.txt 
+Springsteen test3.txt 
+St test1.txt 
+Standing test1.txt 
+Star' test3.txt 
+Steven test3.txt 
+Still, test1.txt 
+Stone test3.txt 
+Stones, test3.txt 
+Story test1.txt test2.txt 
+Strange test1.txt 
+Street test3.txt 
+Street, test3.txt 
+Studios test3.txt 
+Such test1.txt 
+Suddenly test1.txt 
+Suddenly, test2.txt 
+Sunday test1.txt 
+Sunday, test1.txt 
+Sundays? test1.txt 
+Suppose, test1.txt 
+Supposing test1.txt 
+Supposing...' test1.txt 
+Suspect test1.txt 
+Swanson. test3.txt 
+Sweet, test2.txt 
+Swiss test3.txt 
+Switzerland test3.txt 
+Switzerland. test3.txt 
+Swiv'eller test2.txt 
+Swiveller test2.txt 
+Swiveller, test2.txt 
+Swiveller,' test2.txt 
+Swiveller. test2.txt 
+T. test3.txt 
+THE test1.txt test2.txt test3.txt 
+TV test3.txt 
+TV, test3.txt 
+TV. test3.txt 
+Take test1.txt test2.txt 
+Talking. test3.txt 
+Tavistock test1.txt 
+Tavistock. test1.txt 
+Television) test3.txt 
+Tell test1.txt 
+Ten test1.txt 
+Terrible test2.txt 
+Testament test1.txt 
+Thames, test2.txt 
+Thames. test2.txt 
+Thank test1.txt 
+Thanking test1.txt 
+Thanks test1.txt 
+That test1.txt test2.txt test3.txt 
+That's test1.txt 
+That, test1.txt 
+The test1.txt test2.txt test3.txt 
+Their test2.txt test3.txt 
+Then test1.txt test2.txt test3.txt 
+Then, test1.txt test2.txt 
+There test1.txt test2.txt test3.txt 
+There's test1.txt 
+These test2.txt test3.txt 
+They test1.txt test2.txt test3.txt 
+They're test1.txt 
+They've test1.txt 
+They, test2.txt 
+Thing. test3.txt 
+Things test1.txt test2.txt 
+Think test1.txt 
+Think, test1.txt 
+This test1.txt test2.txt test3.txt 
+This...' test1.txt 
+Those test1.txt 
+Though test1.txt 
+Thousands test3.txt 
+Three test1.txt 
+Through test3.txt 
+Time test3.txt 
+Tired test1.txt 
+To test1.txt test3.txt 
+Today test1.txt test2.txt 
+Today, test1.txt test3.txt 
+Together test3.txt 
+Tokyo test3.txt 
+Tokyo. test3.txt 
+Tommy test2.txt 
+Tommy. test2.txt 
+Tonight test1.txt test3.txt 
+Tonight, test1.txt 
+Touquet test1.txt 
+Touquet, test1.txt 
+Tower test2.txt 
+Tragedy test1.txt 
+Train test1.txt 
+Train, test1.txt 
+Travelling test2.txt 
+Trent, test2.txt 
+Trust test1.txt 
+Tuesday test1.txt 
+Tuesday, test1.txt 
+Two test3.txt 
+Typical test1.txt 
+US test3.txt 
+US, test3.txt 
+US. test3.txt 
+Uncle test1.txt 
+Uncovers test2.txt 
+Unfortunately, test1.txt 
+Until test1.txt test3.txt 
+Unwanted test2.txt 
+Upon test1.txt 
+Us test3.txt 
+Use test1.txt 
+Very test1.txt 
+Very, test1.txt 
+Victorian test1.txt 
+Village test2.txt 
+Visitors test2.txt 
+Vyse test1.txt 
+Vyse's test1.txt 
+Vyse, test1.txt 
+Vyse,' test1.txt 
+Vyse. test1.txt 
+Vyse.' test1.txt 
+Vyse? test1.txt 
+Vyse?' test1.txt 
+WILLIAM test1.txt 
+WILSON test1.txt 
+WILSON.' test1.txt 
+Wales test3.txt 
+Walker, test3.txt 
+Wall test3.txt 
+War test3.txt 
+War, test3.txt 
+War. test1.txt 
+Warner. test3.txt 
+Was test1.txt test2.txt 
+Wasn't test2.txt 
+Watson, test1.txt 
+Waxworks.' test2.txt 
+We test1.txt test2.txt test3.txt 
+We're test1.txt test2.txt 
+Wednesday test1.txt 
+Weekly test1.txt 
+Well! test1.txt 
+Well, test1.txt test2.txt 
+Were test1.txt 
+Wertheimer test3.txt 
+Wertheimer, test3.txt 
+West, test3.txt 
+Western test3.txt 
+Weston, test1.txt 
+Wharf' test2.txt 
+What test1.txt test2.txt test3.txt 
+What's test1.txt 
+When test1.txt test2.txt test3.txt 
+Where test1.txt 
+Where's test2.txt 
+While test2.txt test3.txt 
+Whisker test2.txt 
+Whisker's test2.txt 
+Whitfield test1.txt 
+Whitfield, test1.txt 
+Whitfield. test1.txt 
+Who test1.txt test2.txt 
+Whoever test1.txt 
+Why test1.txt test2.txt test3.txt 
+Why? test1.txt 
+Why?' test1.txt test2.txt 
+Will test1.txt test2.txt 
+William test1.txt 
+William's test1.txt 
+Wilson test1.txt 
+Window test1.txt 
+Winfrey test3.txt 
+Winston test3.txt 
+With test1.txt 
+Within test3.txt 
+Without test2.txt 
+Witnesses: test1.txt 
+Women test1.txt test3.txt 
+Women's test3.txt 
+Wondering test1.txt 
+World test3.txt 
+Would test2.txt test3.txt 
+X test1.txt 
+Yamamoto. test3.txt 
+Yard test1.txt 
+Yard. test1.txt 
+Yasujiro test3.txt 
+Year test1.txt 
+Year's test1.txt 
+Year, test1.txt 
+Yes, test1.txt test2.txt 
+Yes. test1.txt 
+Yohji test3.txt 
+York test3.txt 
+York, test3.txt 
+York. test3.txt 
+Yorkshire test1.txt 
+Yorkshire. test1.txt 
+You test1.txt test2.txt test3.txt 
+You're test1.txt 
+You've test1.txt test2.txt 
+Young test1.txt 
+Your test1.txt test2.txt 
+Yours test1.txt 
+Yours, test1.txt 
+Zedong. test3.txt 
+a test1.txt test2.txt test3.txt 
+ability. test1.txt 
+able test1.txt test2.txt test3.txt 
+about test1.txt test2.txt test3.txt 
+about). test1.txt 
+about, test1.txt 
+about. test1.txt 
+about.' test1.txt 
+about?' test1.txt 
+above test1.txt test2.txt test3.txt 
+above. test1.txt 
+abroad test2.txt 
+abroad. test2.txt test3.txt 
+abrupt test1.txt 
+abruptly. test1.txt 
+absent test1.txt 
+absolute test1.txt 
+absolutely test1.txt 
+accept test2.txt test3.txt 
+accepted test1.txt 
+access test1.txt 
+accident test1.txt 
+accident, test1.txt 
+accident. test1.txt 
+accident.' test1.txt 
+accidents test1.txt 
+accidents. test1.txt 
+accidents.' test1.txt 
+accidents?' test1.txt 
+accomplice! test1.txt 
+according test3.txt 
+accounts test1.txt 
+accusing test1.txt 
+ache, test1.txt 
+across test1.txt test2.txt test3.txt 
+act test1.txt test3.txt 
+act.' test1.txt 
+acted test1.txt test3.txt 
+acting test2.txt 
+action test1.txt 
+action. test1.txt 
+acts test1.txt 
+actually test1.txt test2.txt 
+add test2.txt 
+added test1.txt test2.txt test3.txt 
+added, test2.txt 
+added. test2.txt 
+addict. test1.txt 
+adding test1.txt 
+address test2.txt 
+address, test3.txt 
+addressed test1.txt 
+admirable test1.txt 
+admiration test1.txt 
+admiration. test1.txt 
+admire test1.txt test3.txt 
+admired test1.txt test3.txt 
+admit test2.txt 
+admitted test1.txt 
+advance.' test2.txt 
+advertisement test3.txt 
+advertisements test3.txt 
+advertisements, test3.txt 
+advertising test3.txt 
+advice test1.txt test3.txt 
+advice. test1.txt 
+advise test1.txt 
+affair, test1.txt 
+affectionate test1.txt 
+afraid test1.txt test2.txt 
+afraid! test1.txt 
+afraid, test1.txt test2.txt 
+afraid. test1.txt test2.txt 
+afraid.' test1.txt 
+after test1.txt test2.txt test3.txt 
+after, test1.txt test2.txt 
+afternoon test1.txt test2.txt test3.txt 
+afternoon,' test1.txt 
+afternoon. test2.txt 
+afterwards?' test1.txt 
+again test1.txt test2.txt test3.txt 
+again! test1.txt 
+again!" test1.txt 
+again!' test2.txt test3.txt 
+again, test1.txt test2.txt test3.txt 
+again. test1.txt test2.txt test3.txt 
+again.' test2.txt 
+again?' test1.txt 
+against test1.txt 
+age test2.txt 
+age. test1.txt 
+aged, test1.txt 
+ago test1.txt 
+ago, test1.txt 
+ago,' test2.txt 
+ago. test1.txt test2.txt 
+ago.' test1.txt 
+agree test2.txt test3.txt 
+agree, test1.txt 
+agree,' test1.txt 
+agree. test1.txt 
+agree?' test1.txt 
+agreed test1.txt test2.txt test3.txt 
+agreed, test2.txt 
+agreed. test1.txt 
+agreeing test2.txt 
+agreement. test1.txt 
+agrees test3.txt 
+agrees. test1.txt 
+ahead test1.txt test2.txt 
+ahead, test1.txt 
+aim? test1.txt 
+air. test3.txt 
+airman test1.txt 
+airman, test1.txt 
+airman,' test1.txt 
+alarmed, test1.txt 
+alcohol. test3.txt 
+alibi test1.txt 
+alibi, test1.txt 
+alibis test1.txt 
+alibis. test1.txt 
+alike test1.txt 
+alive test3.txt 
+alive! test1.txt 
+all test1.txt test2.txt test3.txt 
+all!' test1.txt 
+all, test1.txt test2.txt 
+all. test1.txt test2.txt test3.txt 
+all.' test1.txt test2.txt 
+allow test3.txt 
+allowed test1.txt test2.txt test3.txt 
+almost test1.txt test2.txt test3.txt 
+alone test1.txt test2.txt test3.txt 
+alone, test1.txt test2.txt 
+alone. test2.txt 
+along test1.txt test2.txt 
+aloud. test1.txt test2.txt 
+alphabet test1.txt 
+already test1.txt test2.txt test3.txt 
+already? test2.txt 
+alright,' test1.txt 
+also test1.txt test2.txt test3.txt 
+although test1.txt test3.txt 
+altogether. test1.txt 
+always test1.txt test2.txt test3.txt 
+am test1.txt test2.txt test3.txt 
+am!' test1.txt 
+am, test1.txt 
+am,' test2.txt 
+am. test1.txt 
+am.' test1.txt 
+amazed test2.txt 
+amazed. test1.txt 
+amazing test1.txt 
+ami! test1.txt 
+ami, test1.txt 
+ami. test1.txt 
+ami.' test1.txt 
+ami? test1.txt 
+ami?' test1.txt 
+among test1.txt 
+amount test1.txt test2.txt 
+amount.' test1.txt 
+amused. test1.txt 
+amusement.' test1.txt 
+an test1.txt test2.txt test3.txt 
+and test1.txt test2.txt test3.txt 
+and, test1.txt test2.txt test3.txt 
+and... test2.txt 
+angel! test1.txt 
+anger test1.txt test2.txt 
+anger. test2.txt 
+angrily, test2.txt 
+angrily. test1.txt test2.txt 
+angry test2.txt test3.txt 
+angry! test1.txt 
+angry, test3.txt 
+angry. test2.txt test3.txt 
+ankle test1.txt 
+ankle, test1.txt 
+announced test1.txt 
+annoying test1.txt test2.txt 
+another test1.txt test2.txt test3.txt 
+another! test1.txt 
+another. test1.txt test3.txt 
+another? test1.txt 
+answer test1.txt test2.txt test3.txt 
+answer, test2.txt 
+answer. test1.txt test2.txt 
+answered test1.txt test2.txt 
+answered, test1.txt test2.txt 
+answered. test2.txt 
+answers test1.txt test3.txt 
+answers; test3.txt 
+anxiety, test1.txt 
+anxious test1.txt 
+any test1.txt test2.txt test3.txt 
+any. test2.txt 
+any?' test1.txt 
+anybody test2.txt 
+anymore test2.txt 
+anymore. test1.txt test2.txt 
+anymore.' test1.txt 
+anyone test1.txt test2.txt 
+anyone. test2.txt 
+anyone.' test1.txt 
+anything test1.txt test2.txt 
+anything! test2.txt 
+anything's test1.txt 
+anything, test1.txt test2.txt 
+anything,' test2.txt 
+anything. test1.txt 
+anything.' test1.txt 
+anything?' test1.txt 
+anyway,' test1.txt 
+anyway. test1.txt 
+anyway.' test1.txt 
+anywhere test2.txt 
+apart test1.txt test2.txt 
+apartment test2.txt 
+apartments test2.txt 
+apologetically. test1.txt 
+apologised. test1.txt 
+appeal?' test1.txt 
+appear test3.txt 
+appear, test2.txt 
+appeared test1.txt test2.txt 
+appeared. test1.txt test2.txt 
+appears test1.txt 
+appendicitis test1.txt 
+appendicitis. test1.txt 
+appendix test1.txt 
+appoint test1.txt 
+appointment test1.txt 
+appointment,' test2.txt 
+approve test1.txt 
+approvingly. test1.txt 
+are test1.txt test2.txt test3.txt 
+are!' test1.txt 
+are, test1.txt 
+are,' test2.txt 
+are. test1.txt 
+are.' test1.txt test2.txt 
+are?' test1.txt 
+area test1.txt test2.txt 
+area, test3.txt 
+area. test3.txt 
+areas test2.txt test3.txt 
+areas, test3.txt 
+areas. test3.txt 
+areas? test3.txt 
+aren't test1.txt test2.txt test3.txt 
+argue test3.txt 
+argued test3.txt 
+argued, test3.txt 
+arm test1.txt test2.txt test3.txt 
+arm. test1.txt 
+armchair test1.txt 
+arms test2.txt 
+arms. test1.txt test2.txt 
+army test3.txt 
+army, test3.txt 
+army. test3.txt 
+around test1.txt test2.txt test3.txt 
+around, test2.txt 
+around. test3.txt 
+arrange test1.txt test3.txt 
+arranged test1.txt 
+arranged. test1.txt 
+arranges test1.txt 
+arranging test1.txt 
+arrest test2.txt 
+arrest.' test1.txt 
+arrested test2.txt 
+arrive test2.txt 
+arrive. test1.txt 
+arrived test1.txt test2.txt test3.txt 
+arrived, test2.txt 
+arrived. test1.txt 
+arrived?' test1.txt 
+arrives test1.txt 
+arrives, test1.txt 
+arriving test1.txt 
+arrogant test2.txt 
+arrows test1.txt 
+art test1.txt test3.txt 
+art. test3.txt 
+artist's test3.txt 
+artists test3.txt 
+artists,' test3.txt 
+artists. test3.txt 
+as test1.txt test2.txt test3.txt 
+ashamed. test1.txt 
+aside. test1.txt 
+ask test1.txt test2.txt test3.txt 
+ask. test1.txt 
+asked test1.txt test2.txt test3.txt 
+asked, test1.txt test2.txt test3.txt 
+asked. test1.txt test2.txt test3.txt 
+asking test1.txt test2.txt test3.txt 
+asking, test2.txt 
+asks test1.txt 
+asleep test2.txt 
+asleep, test2.txt 
+asleep. test2.txt 
+assistant test1.txt 
+at test1.txt test2.txt test3.txt 
+ate test1.txt test2.txt test3.txt 
+atmosphere test1.txt 
+attached test1.txt 
+attacked test1.txt 
+attacks test1.txt 
+attempted test1.txt 
+attempts test1.txt 
+attend test1.txt 
+attention test1.txt test3.txt 
+attention. test3.txt 
+attitude test1.txt 
+attracted test1.txt 
+attractive test1.txt test2.txt test3.txt 
+attractive. test1.txt 
+aunt test2.txt 
+autumn test1.txt 
+autumn. test1.txt 
+available test2.txt 
+awake test2.txt 
+awake. test2.txt 
+awakened test1.txt 
+aware test1.txt 
+away test1.txt test2.txt test3.txt 
+away, test1.txt test2.txt test3.txt 
+away. test1.txt test2.txt test3.txt 
+away.' test1.txt test2.txt 
+away? test1.txt 
+away?' test1.txt 
+awful test1.txt 
+baby test2.txt 
+baby. test1.txt 
+back test1.txt test2.txt test3.txt 
+back! test1.txt 
+back, test1.txt test2.txt 
+back. test1.txt test2.txt test3.txt 
+background test3.txt 
+backwards test1.txt test2.txt 
+backwards.) test3.txt 
+bad test1.txt test2.txt test3.txt 
+bad. test1.txt test2.txt 
+bad.' test1.txt 
+badly test1.txt test3.txt 
+badly,' test3.txt 
+badly. test1.txt 
+bag test1.txt 
+bags test3.txt 
+bakery. test1.txt 
+bald, test2.txt 
+balls, test1.txt 
+banging test1.txt 
+bank test1.txt test2.txt 
+banker test3.txt 
+bark test1.txt 
+bars. test3.txt 
+based test1.txt 
+basket test1.txt 
+basket, test1.txt 
+basket. test1.txt 
+bat test2.txt 
+bay test1.txt 
+bay. test1.txt 
+be test1.txt test2.txt test3.txt 
+be, test1.txt test3.txt 
+be. test1.txt 
+be?' test1.txt 
+beach test1.txt test3.txt 
+beach, test3.txt 
+beaches test3.txt 
+bear test2.txt 
+beard; test2.txt 
+beaten test3.txt 
+beating test2.txt 
+beautiful test1.txt test2.txt test3.txt 
+beautiful, test1.txt test2.txt test3.txt 
+beautiful,' test1.txt 
+beautiful. test1.txt 
+became test1.txt test2.txt test3.txt 
+because test1.txt test2.txt test3.txt 
+because, test3.txt 
+become test1.txt test2.txt test3.txt 
+becomes test1.txt 
+becoming test1.txt test2.txt test3.txt 
+bed test1.txt test2.txt test3.txt 
+bed, test1.txt test2.txt 
+bed. test1.txt test2.txt 
+bed.' test1.txt 
+bedroom test1.txt 
+bedroom. test1.txt 
+bedroom.' test1.txt 
+bee test1.txt 
+been test1.txt test2.txt test3.txt 
+been! test1.txt 
+been, test1.txt 
+been. test2.txt 
+bees test1.txt 
+before test1.txt test2.txt test3.txt 
+before, test1.txt test2.txt test3.txt 
+before. test1.txt test2.txt test3.txt 
+before.' test2.txt 
+before?' test1.txt 
+beg test1.txt test2.txt 
+beg. test2.txt 
+began test1.txt test2.txt test3.txt 
+began! test2.txt 
+began. test1.txt test2.txt test3.txt 
+beggar! test2.txt 
+beggar, test2.txt 
+beggar.' test2.txt 
+beggars test2.txt 
+begged test2.txt 
+begging, test2.txt 
+begin test1.txt 
+begin. test1.txt 
+beginning test1.txt test2.txt 
+beginning. test1.txt 
+begs test1.txt 
+begun test2.txt 
+behave test1.txt 
+behaved test3.txt 
+behaving test1.txt 
+behaviour. test3.txt 
+behind test1.txt test2.txt 
+behind, test1.txt 
+behind. test1.txt test2.txt 
+being test1.txt test2.txt 
+beliefs. test3.txt 
+believe test1.txt test2.txt 
+believe, test1.txt 
+believe.' test1.txt 
+believed test1.txt test2.txt test3.txt 
+believed. test1.txt 
+bell test1.txt 
+belong test1.txt 
+belonged test3.txt 
+belongs test1.txt test2.txt 
+below test1.txt test3.txt 
+below. test1.txt test2.txt 
+belts, test3.txt 
+benefit test1.txt 
+bent test1.txt 
+bequests, test1.txt 
+beside test1.txt test2.txt 
+besides test1.txt 
+best test1.txt test2.txt test3.txt 
+best-seller test3.txt 
+better test1.txt test2.txt test3.txt 
+better, test1.txt test2.txt 
+better,' test1.txt 
+better. test2.txt test3.txt 
+better.' test2.txt 
+better?' test2.txt 
+between test1.txt test2.txt test3.txt 
+big test2.txt test3.txt 
+big, test2.txt 
+bigger test1.txt test2.txt test3.txt 
+biggest test1.txt test2.txt test3.txt 
+billion test3.txt 
+billionaire. test3.txt 
+bills test1.txt 
+birds test2.txt 
+birds. test3.txt 
+birthday, test3.txt 
+bit test1.txt 
+black test1.txt test2.txt test3.txt 
+black, test2.txt test3.txt 
+black. test1.txt 
+black.' test1.txt 
+black? test1.txt 
+blackmail! test1.txt 
+blanket test1.txt 
+bless test1.txt 
+blew test2.txt 
+blind test1.txt 
+blind. test1.txt 
+blood test1.txt 
+blood. test1.txt 
+blouses test3.txt 
+blowing test2.txt 
+blue test1.txt test2.txt 
+blue, test1.txt 
+boats test1.txt test2.txt 
+boatyard test2.txt 
+boatyard, test2.txt 
+boatyard. test2.txt 
+body test1.txt test2.txt 
+body. test1.txt 
+boldness test1.txt 
+bombs test3.txt 
+bombs, test1.txt 
+bones test1.txt 
+book test3.txt 
+book. test3.txt 
+book?' test3.txt 
+books test1.txt test3.txt 
+books, test3.txt 
+bookshops, test3.txt 
+border test3.txt 
+bored test1.txt test3.txt 
+bored. test3.txt 
+boring test3.txt 
+boring, test1.txt 
+boring. test1.txt 
+borrow,' test2.txt 
+borrowed. test3.txt 
+boss test2.txt test3.txt 
+boss, test3.txt 
+boss.' test3.txt 
+bosses test3.txt 
+bosses. test3.txt 
+both test1.txt test2.txt 
+both,' test2.txt 
+both. test1.txt test2.txt 
+bottle test3.txt 
+bottle. test3.txt 
+bottles. test1.txt 
+bottom test2.txt test3.txt 
+bottom. test3.txt 
+bought test1.txt test2.txt test3.txt 
+bow test1.txt 
+bow, test1.txt 
+bow. test1.txt 
+bowed, test1.txt 
+box test1.txt test2.txt 
+box. test1.txt 
+box.' test1.txt 
+box?' test1.txt 
+boxes,' test1.txt 
+boy test1.txt test2.txt 
+boy, test1.txt test2.txt 
+boy,' test2.txt 
+boy. test1.txt test2.txt 
+boy.' test1.txt test2.txt 
+boyfriend test1.txt test3.txt 
+boyfriend, test3.txt 
+boyfriends test3.txt 
+boys test2.txt 
+brain, test1.txt 
+brakes test1.txt 
+branches test2.txt 
+brandy,' test1.txt 
+brave test1.txt 
+brave, test1.txt 
+brave,' test1.txt 
+brave. test1.txt 
+brave.' test1.txt 
+bravery test1.txt 
+bravery!' test1.txt 
+bread test2.txt 
+bread. test2.txt 
+break test3.txt 
+breakfast test1.txt test2.txt 
+breakfast, test1.txt test2.txt 
+breaking. test1.txt 
+breaks test2.txt test3.txt 
+breath test2.txt 
+breath. test1.txt 
+breathe test3.txt 
+breathe. test3.txt 
+breathing test2.txt 
+breaths test1.txt 
+bright test1.txt test2.txt 
+bright, test3.txt 
+bright-blue test1.txt 
+bright-red test1.txt 
+bright. test1.txt test2.txt 
+brightly test2.txt 
+brightly, test2.txt 
+brightly. test2.txt 
+brilliant test1.txt 
+bring test1.txt test2.txt test3.txt 
+bringing test1.txt 
+brings test1.txt 
+broadcast test3.txt 
+broke test1.txt 
+broke. test1.txt 
+broken test1.txt 
+broken-down test1.txt 
+broken. test1.txt 
+brother test1.txt test2.txt 
+brother's test2.txt 
+brother, test1.txt test2.txt 
+brother. test2.txt 
+brother? test2.txt 
+brother?' test2.txt 
+brothers test2.txt 
+brothers. test2.txt 
+brought test1.txt test2.txt 
+brought. test2.txt 
+brown test2.txt 
+brown. test3.txt 
+brushed test1.txt 
+brushing test1.txt 
+bucket test3.txt 
+build test3.txt 
+building test2.txt test3.txt 
+building. test1.txt 
+bullet test1.txt 
+bullet, test1.txt 
+bullet.' test1.txt 
+buried test2.txt 
+buried. test2.txt 
+burning test1.txt test2.txt 
+bushes test1.txt 
+business test1.txt test2.txt test3.txt 
+business! test3.txt 
+business, test1.txt test2.txt test3.txt 
+business-woman test3.txt 
+business. test1.txt test3.txt 
+business.' test1.txt 
+business?' test3.txt 
+businesses test3.txt 
+businesses. test3.txt 
+businessmen, test3.txt 
+businessperson; test3.txt 
+businesswoman test3.txt 
+businesswoman: test3.txt 
+businesswomen test3.txt 
+businesswomen, test3.txt 
+businesswomen. test3.txt 
+busy test2.txt test3.txt 
+busy, test3.txt 
+busy. test3.txt 
+but test1.txt test2.txt test3.txt 
+but...' test1.txt 
+buy test1.txt test2.txt test3.txt 
+buying test3.txt 
+by test1.txt test2.txt test3.txt 
+cakes test1.txt 
+call test1.txt test2.txt test3.txt 
+called test1.txt test2.txt test3.txt 
+called, test1.txt test2.txt 
+calling test1.txt test2.txt 
+calm test2.txt 
+calm, test2.txt 
+calm. test1.txt 
+calmer, test2.txt 
+calmly test1.txt 
+calmly, test2.txt 
+calmly. test2.txt 
+came test1.txt test2.txt test3.txt 
+campaign test3.txt 
+can test1.txt test2.txt test3.txt 
+can!' test2.txt 
+can't test1.txt test2.txt 
+can't,' test1.txt 
+can,' test1.txt 
+can. test1.txt 
+cancer. test1.txt 
+candle test2.txt 
+candlelit test2.txt 
+cannot test1.txt 
+car test1.txt test3.txt 
+car!' test1.txt 
+car, test1.txt test3.txt 
+car. test1.txt test3.txt 
+car.' test1.txt 
+car? test1.txt 
+caravan test2.txt 
+caravan. test2.txt 
+caravans test2.txt 
+caravans, test2.txt 
+card test1.txt test2.txt 
+card! test1.txt 
+card, test1.txt 
+cards test2.txt 
+cards, test2.txt 
+cards. test2.txt 
+cards?' test2.txt 
+care test1.txt test2.txt test3.txt 
+care. test2.txt 
+cared test2.txt 
+career. test1.txt 
+careful test1.txt test3.txt 
+careful.' test1.txt 
+careful? test1.txt 
+carefully test1.txt test2.txt test3.txt 
+carefully, test2.txt 
+carefully. test1.txt test2.txt test3.txt 
+carelessly test1.txt 
+cares test2.txt 
+caring test1.txt 
+carriage test1.txt test2.txt 
+carriage, test2.txt 
+carriage. test2.txt 
+carried test1.txt test2.txt 
+carry test1.txt test3.txt 
+carrying test1.txt test2.txt 
+cars test1.txt test3.txt 
+cars. test1.txt test3.txt 
+cars.' test1.txt 
+case test1.txt 
+case, test1.txt 
+case. test1.txt 
+case.' test1.txt 
+case... test1.txt 
+cases test1.txt 
+cases. test1.txt 
+cat-like test1.txt 
+catch test1.txt test2.txt 
+catching test2.txt 
+caught test1.txt test2.txt test3.txt 
+cause test2.txt 
+caused test1.txt test3.txt 
+causing test2.txt 
+cellar test2.txt 
+cellar, test2.txt 
+cells test1.txt 
+cells! test1.txt 
+cells!' test1.txt 
+cells. test1.txt 
+cent test3.txt 
+centre test1.txt test2.txt test3.txt 
+centres test3.txt 
+century, test3.txt 
+century. test3.txt 
+certain test1.txt test2.txt 
+certain, test1.txt 
+certainly test1.txt test2.txt test3.txt 
+certainly. test1.txt 
+chair test1.txt test2.txt 
+chair, test1.txt test2.txt 
+chair. test1.txt test2.txt 
+chair.' test1.txt 
+champagne, test1.txt 
+chance test1.txt test2.txt test3.txt 
+chance. test1.txt 
+chance?' test1.txt 
+chances. test1.txt 
+chances.' test1.txt 
+change test1.txt test2.txt test3.txt 
+change! test2.txt 
+change, test3.txt 
+change. test1.txt test2.txt test3.txt 
+change?' test1.txt 
+changeable test1.txt 
+changed test1.txt test2.txt test3.txt 
+changed: test2.txt 
+changed?' test3.txt 
+changes test2.txt 
+changing test1.txt test2.txt test3.txt 
+changing. test3.txt 
+chapter test2.txt 
+character test3.txt 
+character. test3.txt 
+characters test1.txt 
+charge test1.txt 
+charming test1.txt 
+charming, test1.txt 
+chased test2.txt 
+chat test1.txt 
+chatted test2.txt 
+cheap test2.txt test3.txt 
+cheap.' test2.txt 
+cheaper, test3.txt 
+check test2.txt 
+cheek test2.txt 
+cheek. test2.txt 
+cheeks test1.txt 
+cheeks, test2.txt 
+cheerful test2.txt 
+cheerful! test2.txt 
+cheerful. test1.txt 
+cheerfully, test2.txt 
+cheerfully. test1.txt test2.txt 
+cheese test2.txt 
+cheque test3.txt 
+chief test1.txt 
+child test1.txt test2.txt test3.txt 
+child! test1.txt 
+child's test2.txt 
+child's, test1.txt 
+child, test1.txt test2.txt 
+child,' test1.txt test2.txt 
+child. test1.txt test2.txt 
+childhood test2.txt 
+childhood. test3.txt 
+childhood.' test1.txt 
+children test1.txt test2.txt test3.txt 
+children's test3.txt 
+children, test2.txt test3.txt 
+children. test2.txt 
+chin test2.txt 
+chocolates test1.txt 
+chocolates, test1.txt 
+chocolates. test1.txt 
+chocolates.' test1.txt 
+chocolates...' test1.txt 
+chocolates?' test1.txt 
+choice test1.txt test2.txt test3.txt 
+choice; test3.txt 
+choosing test2.txt 
+chose test1.txt 
+chosen test2.txt 
+church test2.txt 
+church, test2.txt 
+church. test2.txt test3.txt 
+churchyard test2.txt 
+churchyard. test2.txt 
+cigarette. test1.txt 
+cigarettes test3.txt 
+cinema test3.txt 
+cinemas, test3.txt 
+circumstance test1.txt 
+circumstances test1.txt 
+circumstances.' test1.txt 
+cities test3.txt 
+city test2.txt test3.txt 
+city. test3.txt 
+class test2.txt 
+clean test2.txt 
+clean.' test2.txt 
+cleaned test1.txt test2.txt 
+cleaning test1.txt test2.txt 
+cleans test1.txt 
+clear test1.txt test2.txt test3.txt 
+clear. test1.txt 
+clear: test1.txt test3.txt 
+cleared test1.txt 
+clearing test1.txt 
+clearly test1.txt test2.txt test3.txt 
+clearly.' test1.txt 
+clergyman, test1.txt 
+clergyman. test2.txt 
+clerk test2.txt 
+clerk, test2.txt 
+clerk. test2.txt 
+clerk?' test2.txt 
+clever test1.txt test2.txt 
+clever! test1.txt 
+clever, test1.txt test3.txt 
+cleverest test3.txt 
+cleverly test1.txt test3.txt 
+client test2.txt 
+client. test2.txt 
+cliff test1.txt 
+cliff. test1.txt 
+cliff.' test1.txt 
+climb test2.txt 
+climbed test2.txt 
+cloak test2.txt 
+cloak.' test2.txt 
+clock test2.txt 
+close test1.txt test2.txt 
+closed test1.txt test2.txt test3.txt 
+closed, test1.txt test3.txt 
+closely test1.txt test2.txt 
+closely. test2.txt 
+closely?' test1.txt 
+closer test2.txt test3.txt 
+closest test1.txt 
+cloth test3.txt 
+cloth, test3.txt 
+cloth. test1.txt test3.txt 
+clothes test2.txt test3.txt 
+clothes, test1.txt test2.txt test3.txt 
+clothes,' test2.txt 
+clothes. test3.txt 
+clothes?' test3.txt 
+clothing test2.txt 
+clouds test2.txt 
+clue test1.txt 
+clue, test1.txt 
+coach test2.txt 
+coach. test2.txt 
+coast test1.txt 
+coat test1.txt 
+coat, test1.txt test2.txt 
+coat,' test1.txt 
+coat. test1.txt test2.txt 
+coat... test1.txt 
+coat?' test1.txt 
+coats test1.txt 
+cocaine test1.txt 
+cocaine, test1.txt 
+cocaine. test1.txt 
+cocktail test1.txt 
+cocktail?' test1.txt 
+cocktails test1.txt 
+cocktails?' test1.txt 
+coffee-house. test2.txt 
+coffeehouse. test2.txt 
+coin test2.txt 
+coin, test2.txt 
+coin. test2.txt 
+coincidence. test1.txt 
+coincidence?" test1.txt 
+coins test2.txt 
+coins, test2.txt 
+cold test1.txt test2.txt test3.txt 
+cold, test2.txt 
+colder! test1.txt 
+coldly test2.txt 
+coldly. test1.txt test2.txt 
+collars test3.txt 
+colleagues, test3.txt 
+collect test2.txt 
+collected test2.txt 
+collection test2.txt 
+collection.' test2.txt 
+color test1.txt 
+colorless test1.txt 
+colour test2.txt 
+colours.' test3.txt 
+come test1.txt test2.txt test3.txt 
+come!' test1.txt 
+come, test2.txt 
+come,' test1.txt 
+come. test1.txt test2.txt 
+comedy test1.txt 
+comedy! test1.txt 
+comedy!' test1.txt 
+comedy.' test1.txt 
+comer test2.txt 
+comer, test2.txt 
+comers test2.txt 
+comes test1.txt test2.txt 
+comfortable test1.txt test2.txt test3.txt 
+comfortable, test2.txt 
+comfortingly. test1.txt 
+coming test1.txt test2.txt 
+coming, test2.txt 
+comment test1.txt 
+comment. test2.txt 
+commented, test2.txt 
+commit test1.txt 
+committed test1.txt 
+committed. test1.txt 
+committing test1.txt 
+communications test3.txt 
+companies test3.txt 
+companies, test3.txt 
+company test1.txt test3.txt 
+company, test3.txt 
+company. test2.txt test3.txt 
+compared test3.txt 
+complained test1.txt test2.txt 
+complaining test1.txt 
+complains test1.txt 
+complete test1.txt test3.txt 
+completely test1.txt test2.txt test3.txt 
+completely. test1.txt 
+computers, test3.txt 
+conceals test1.txt 
+concerned. test1.txt 
+condition. test1.txt 
+conditions test1.txt 
+confess test1.txt 
+confidence, test1.txt 
+confident, test3.txt 
+confident. test1.txt test3.txt 
+confidently test2.txt 
+confirmation test1.txt 
+confused test2.txt 
+confused. test1.txt test2.txt 
+confusion test1.txt 
+confusion.' test1.txt 
+connect test3.txt 
+connected test1.txt 
+connected.' test1.txt 
+consider test1.txt 
+constable test1.txt 
+constantly test2.txt 
+contained test3.txt 
+contents. test1.txt 
+contest test1.txt 
+contesting test1.txt 
+continue test2.txt 
+continued test1.txt test2.txt test3.txt 
+continued, test1.txt test2.txt 
+continued. test2.txt 
+contract test3.txt 
+contract. test3.txt 
+control test1.txt test2.txt test3.txt 
+control. test3.txt 
+controlling test3.txt 
+conveniently test1.txt 
+conversation test1.txt test2.txt 
+conversation, test2.txt 
+conversation. test1.txt test2.txt 
+conversations test3.txt 
+convinced test1.txt 
+convincing test1.txt 
+convincing. test1.txt 
+cook test1.txt test2.txt 
+cook?' test2.txt 
+cooking test1.txt test3.txt 
+cooks test1.txt 
+cool. test1.txt 
+copies test3.txt 
+copy test2.txt 
+cord test1.txt 
+cord, test1.txt 
+cord. test1.txt 
+corner test1.txt 
+correct test1.txt test2.txt 
+correct, test1.txt 
+cosmetics test3.txt 
+cosmetics, test3.txt 
+cosmetics. test3.txt 
+cost test3.txt 
+cost?' test2.txt 
+cottage test1.txt test2.txt 
+cottage. test1.txt test2.txt 
+cottage.' test1.txt 
+cottage; test1.txt 
+cottages test2.txt 
+cottages, test2.txt 
+cottages. test2.txt 
+could test1.txt test2.txt test3.txt 
+could! test1.txt 
+could, test2.txt 
+could. test2.txt 
+couldn't test1.txt test2.txt test3.txt 
+count test2.txt 
+count. test1.txt 
+counting test2.txt 
+counting-house test2.txt 
+counting-house. test2.txt 
+countries test2.txt test3.txt 
+countries, test3.txt 
+countries. test3.txt 
+country test2.txt test3.txt 
+country. test2.txt test3.txt 
+country.' test1.txt 
+countryside test2.txt 
+countryside, test2.txt 
+couple test1.txt test2.txt 
+courage test1.txt 
+courage, test1.txt 
+courage.' test1.txt 
+course test1.txt test2.txt test3.txt 
+course! test1.txt 
+course!' test2.txt 
+course, test1.txt test2.txt test3.txt 
+course,' test1.txt test2.txt 
+course. test1.txt 
+cousin test1.txt 
+cousin's test1.txt 
+cousin, test1.txt 
+cousins test1.txt 
+cover test3.txt 
+covered test1.txt test2.txt test3.txt 
+crash test3.txt 
+crash, test3.txt 
+crashed test1.txt 
+crashed. test1.txt test3.txt 
+crashing test1.txt 
+crazy,' test3.txt 
+crazy. test3.txt 
+crazy... test1.txt 
+create test3.txt 
+created test3.txt 
+credible.' test1.txt 
+cried test1.txt test2.txt 
+cried, test2.txt 
+cried. test1.txt test2.txt 
+cries test1.txt 
+crime test1.txt test2.txt 
+crime! test1.txt 
+crime!' test1.txt 
+crime. test1.txt 
+crime; test1.txt 
+criminal test1.txt test2.txt 
+criminal, test2.txt 
+criticize test2.txt 
+criticized test3.txt 
+cross test1.txt 
+crossed test1.txt 
+crowd test1.txt 
+crowds test2.txt 
+crowns test2.txt 
+cruel test1.txt test2.txt 
+cry test1.txt test2.txt 
+cry, test2.txt 
+cry. test1.txt test2.txt test3.txt 
+crying test2.txt 
+crying, test2.txt 
+crying. test2.txt 
+cup test1.txt test2.txt 
+cupboard test1.txt 
+cupboard, test1.txt 
+curios. test2.txt 
+curious test1.txt test2.txt 
+curiously. test1.txt 
+curtains test1.txt test2.txt 
+customer; test3.txt 
+customers test3.txt 
+customers. test3.txt 
+cuts test2.txt 
+cutting test1.txt test3.txt 
+dad,' test1.txt 
+damage test1.txt test3.txt 
+damaged test1.txt 
+damaged. test1.txt test3.txt 
+damned.' test1.txt 
+damp test1.txt 
+dampness test1.txt 
+dance test1.txt test2.txt test3.txt 
+dance.' test1.txt 
+danced test1.txt test3.txt 
+dancer. test3.txt 
+dancing test1.txt test3.txt 
+danger test1.txt 
+danger. test1.txt 
+danger? test1.txt 
+danger?' test1.txt 
+dangerous test1.txt test2.txt 
+dangerous, test2.txt 
+dangerous. test2.txt test3.txt 
+dangerously test1.txt 
+dare test3.txt 
+dared. test1.txt 
+dark test1.txt test2.txt test3.txt 
+dark, test1.txt test2.txt 
+dark-blue test1.txt 
+dark. test1.txt test2.txt 
+darkest test1.txt 
+darkness test2.txt 
+darkness. test2.txt 
+darling. test1.txt 
+dated test1.txt 
+daughter test2.txt 
+daughter, test1.txt test2.txt 
+daughter. test2.txt 
+daughters test3.txt 
+dawn test1.txt 
+dawn.' test1.txt 
+day test1.txt test2.txt test3.txt 
+day, test1.txt test2.txt 
+day. test2.txt 
+day.' test1.txt test2.txt 
+daylight test1.txt 
+days test1.txt test2.txt test3.txt 
+days' test1.txt test2.txt 
+days, test1.txt test2.txt test3.txt 
+days. test1.txt test2.txt 
+dead test1.txt test2.txt 
+dead, test1.txt test2.txt 
+dead,' test1.txt test2.txt 
+dead. test1.txt test2.txt 
+dead." test1.txt 
+dead.' test1.txt 
+dead...' test1.txt 
+dead? test1.txt 
+dead?' test1.txt 
+deal test1.txt test3.txt 
+dealer. test1.txt 
+dealer?' test1.txt 
+dealing test1.txt 
+dealt.' test2.txt 
+dear test1.txt test2.txt 
+dear!' test2.txt 
+dear, test2.txt 
+dear,' test1.txt test2.txt 
+dear. test2.txt 
+dear.' test1.txt 
+dear? test1.txt 
+dear?' test1.txt 
+dearest test1.txt 
+dearest, test1.txt 
+dearly, test2.txt 
+death test1.txt test2.txt 
+death's test1.txt 
+death, test1.txt test2.txt 
+death. test1.txt 
+death? test1.txt 
+death?' test1.txt 
+deceased test1.txt 
+deceive test1.txt 
+deceives test1.txt 
+decide test1.txt test2.txt 
+decided test1.txt test2.txt test3.txt 
+decided. test2.txt 
+decided: test2.txt 
+decides test1.txt 
+decision test1.txt test3.txt 
+decision. test3.txt 
+decisions test3.txt 
+decisions. test2.txt 
+declared test1.txt 
+decorated test3.txt 
+deep test1.txt test2.txt 
+deep, test1.txt 
+deepest test1.txt 
+deeply test1.txt 
+defend test3.txt 
+defense test1.txt 
+deliberate test1.txt 
+deliberately test1.txt 
+delicate test1.txt 
+delicate. test1.txt 
+delighted test2.txt 
+delighted.' test1.txt 
+deliver test2.txt 
+delivering test2.txt 
+demand test1.txt 
+demanded. test1.txt 
+denied test1.txt 
+depends test1.txt 
+descended test1.txt 
+described test1.txt test2.txt 
+description test1.txt 
+deserted. test1.txt 
+deserve test1.txt 
+design test3.txt 
+design. test3.txt 
+designed test3.txt 
+designer test3.txt 
+designer, test3.txt 
+designer. test3.txt 
+designers test3.txt 
+designers, test3.txt 
+designing test3.txt 
+designs test3.txt 
+designs. test3.txt 
+desiring test1.txt 
+desk test1.txt test2.txt 
+desk, test1.txt test2.txt 
+desk. test2.txt 
+desperate test1.txt 
+destroy test1.txt 
+destroyed test1.txt 
+destroyed, test3.txt 
+detail test2.txt 
+details test1.txt 
+details, test2.txt 
+detect test1.txt 
+detection test1.txt 
+detective test1.txt 
+detective, test1.txt 
+detective,' test1.txt 
+detective. test1.txt 
+detective?' test1.txt 
+detectives test1.txt 
+developments test1.txt 
+devil test1.txt 
+devil! test1.txt 
+devil!' test1.txt 
+devil, test1.txt 
+devoted test1.txt 
+diamonds test3.txt 
+dictated test1.txt 
+did test1.txt test2.txt test3.txt 
+did!' test1.txt 
+did,' test2.txt 
+did. test1.txt test2.txt 
+did.' test2.txt 
+didn't test1.txt test2.txt test3.txt 
+didn't,' test1.txt 
+didn't.' test1.txt 
+die test2.txt 
+die, test2.txt 
+die,' test2.txt 
+die. test1.txt 
+die.' test2.txt 
+died test1.txt test2.txt test3.txt 
+died!' test1.txt 
+died, test1.txt test2.txt 
+died. test2.txt 
+died.' test1.txt test2.txt 
+dies test1.txt test2.txt 
+dies. test1.txt test2.txt 
+dies...' test1.txt 
+difference test1.txt test2.txt 
+difference. test1.txt 
+differences. test3.txt 
+different test1.txt test2.txt test3.txt 
+different. test1.txt test2.txt test3.txt 
+difficult test1.txt test2.txt test3.txt 
+difficult, test2.txt 
+difficult. test1.txt 
+difficult.' test1.txt 
+difficulties. test2.txt 
+difficulty test2.txt 
+dining test1.txt 
+dinner test1.txt test2.txt 
+dinner, test1.txt 
+dinner,' test1.txt 
+dinner. test1.txt test2.txt 
+dinner.' test1.txt 
+diploma test1.txt 
+dipped test1.txt 
+direct, test3.txt 
+direction test1.txt test3.txt 
+directly test1.txt 
+dirty test2.txt 
+disagree, test1.txt 
+disagree. test1.txt 
+disagreed test2.txt 
+disappearance test2.txt 
+disappearance. test2.txt 
+disappeared test1.txt test2.txt 
+disappeared, test2.txt 
+disappeared,' test2.txt 
+disappeared. test2.txt 
+disapproval test1.txt 
+disapproval. test1.txt 
+disaster test1.txt 
+disaster, test3.txt 
+disaster. test3.txt 
+discovered test1.txt test2.txt test3.txt 
+discovered, test1.txt 
+discovery test1.txt 
+discuss test3.txt 
+discussed test2.txt test3.txt 
+discussing test2.txt 
+disgust. test1.txt 
+disgusted test2.txt 
+disgusting.' test1.txt 
+dishonest test2.txt 
+distance test1.txt 
+distant test1.txt 
+distinct test1.txt 
+disturbed. test2.txt 
+divorce test1.txt 
+do test1.txt test2.txt test3.txt 
+do, test1.txt test2.txt 
+do,' test1.txt 
+do. test1.txt test2.txt test3.txt 
+do.' test1.txt test2.txt 
+do? test1.txt test2.txt test3.txt 
+do?' test1.txt test2.txt 
+docks, test2.txt 
+doctor test1.txt test2.txt 
+doctor, test1.txt test3.txt 
+doctor,' test2.txt 
+doctors test1.txt 
+doctors, test1.txt 
+document. test2.txt 
+does test1.txt test2.txt test3.txt 
+doesn't test1.txt test2.txt test3.txt 
+doesn't, test1.txt 
+dog test1.txt 
+dog, test1.txt 
+dog. test2.txt 
+doing test1.txt test2.txt test3.txt 
+doing,' test2.txt 
+doing. test1.txt 
+doing.' test1.txt 
+dollars,' test3.txt 
+dollars. test3.txt 
+don't test1.txt test2.txt test3.txt 
+done test1.txt test2.txt test3.txt 
+done, test1.txt 
+done. test2.txt 
+done? test2.txt 
+door test1.txt test2.txt test3.txt 
+door, test2.txt 
+door,' test2.txt 
+door. test1.txt test2.txt 
+door.' test1.txt 
+door...' test2.txt 
+doorman test1.txt 
+doors test2.txt test3.txt 
+doorway test1.txt test2.txt 
+dose test1.txt 
+doubt test1.txt 
+doubt, test1.txt 
+doubts test1.txt 
+doubts.' test1.txt 
+down test1.txt test2.txt test3.txt 
+down, test1.txt test2.txt 
+down. test1.txt 
+down? test1.txt 
+downstairs test2.txt 
+downstairs, test2.txt 
+downstairs,' test2.txt 
+downstairs. test1.txt test2.txt 
+dozen test1.txt 
+drama test1.txt 
+drama. test1.txt 
+drank test1.txt test2.txt test3.txt 
+drawer test1.txt 
+drawer.' test1.txt 
+drawers. test1.txt 
+dream test1.txt test3.txt 
+dream. test1.txt 
+dreamed test1.txt 
+dreams. test2.txt 
+dreamt test2.txt 
+dreamy test1.txt 
+dress test1.txt test2.txt test3.txt 
+dress, test1.txt 
+dress. test1.txt test2.txt test3.txt 
+dress? test1.txt 
+dressed test1.txt test2.txt test3.txt 
+dressed. test2.txt 
+dresses test3.txt 
+dresses. test3.txt 
+dresses; test3.txt 
+dressing. test3.txt 
+dressmaker test3.txt 
+dried test2.txt 
+drink test2.txt 
+drink. test1.txt test2.txt 
+drink?' test1.txt 
+drinking test2.txt 
+drinking, test1.txt 
+drinks test1.txt test3.txt 
+drive test3.txt 
+driven test1.txt 
+driver test2.txt 
+driver, test2.txt 
+dropped test1.txt 
+drove test1.txt test2.txt test3.txt 
+drug test1.txt test3.txt 
+drug, test3.txt 
+drugs test1.txt 
+drugs, test1.txt 
+drugs.' test1.txt 
+drugs? test1.txt 
+dry test2.txt 
+dry.' test1.txt 
+drying test2.txt 
+during test1.txt test2.txt test3.txt 
+duty test1.txt test3.txt 
+dying test1.txt 
+dying!' test2.txt 
+dying...' test1.txt 
+each test1.txt test2.txt test3.txt 
+ear. test2.txt 
+earlier. test1.txt 
+early test1.txt test2.txt test3.txt 
+early. test1.txt 
+earn test2.txt 
+earned test2.txt test3.txt 
+earned. test2.txt 
+earning test3.txt 
+earnings test3.txt 
+earth test1.txt test2.txt 
+easily test1.txt test2.txt test3.txt 
+easily, test2.txt 
+easily. test3.txt 
+east test3.txt 
+easy test1.txt test2.txt 
+easy!' test2.txt 
+eat test1.txt test2.txt 
+eat. test2.txt 
+eat.' test2.txt 
+eatable test1.txt 
+eaten test1.txt test2.txt 
+eating test1.txt test2.txt 
+eats test1.txt 
+economy test3.txt 
+economy, test3.txt 
+edge test1.txt test2.txt 
+edges. test3.txt 
+effect test1.txt 
+effort?' test2.txt 
+eh? test2.txt 
+eh?' test1.txt test2.txt 
+eight test1.txt test2.txt test3.txt 
+eight. test1.txt 
+eighteen test1.txt test2.txt 
+eighty test3.txt 
+eighty-seven test3.txt 
+either test2.txt 
+either, test1.txt 
+either. test3.txt 
+eleven test1.txt test2.txt 
+eleven, test1.txt 
+else test1.txt test2.txt 
+else"?' test1.txt 
+else's, test1.txt 
+else, test1.txt 
+else. test1.txt test2.txt 
+else.' test1.txt 
+else? test1.txt 
+else?' test1.txt 
+embarrassed, test1.txt 
+embarrassed. test1.txt 
+embarrassing test1.txt 
+emotion. test1.txt 
+emotional test1.txt 
+employ test1.txt 
+employed test2.txt test3.txt 
+emptied test2.txt 
+empty test1.txt test2.txt 
+empty, test2.txt 
+end test1.txt test2.txt test3.txt 
+end, test3.txt 
+end. test2.txt 
+end.' test1.txt 
+ended test2.txt test3.txt 
+ended, test3.txt 
+ended.' test2.txt 
+ending test2.txt 
+enemies?' test1.txt 
+energetically, test1.txt 
+energy test1.txt 
+energy, test1.txt 
+energy. test1.txt 
+engaged test1.txt 
+engaged, test1.txt 
+engaged. test1.txt 
+engagement test1.txt 
+engagement,' test1.txt 
+enjoy test1.txt test2.txt test3.txt 
+enjoyed test1.txt test2.txt test3.txt 
+enormous test1.txt 
+enormous. test1.txt 
+enough test1.txt test2.txt test3.txt 
+enough. test1.txt 
+enough.' test1.txt 
+enough; test3.txt 
+enquiries test2.txt 
+entered test1.txt test2.txt test3.txt 
+entered. test1.txt 
+entertainment test3.txt 
+enthusiastically. test1.txt 
+entirely test1.txt 
+entrance test1.txt 
+entrance. test1.txt 
+envelope test1.txt 
+envelope. test1.txt 
+equipment test3.txt 
+er test1.txt 
+era! test1.txt 
+escape test1.txt 
+escape,' test2.txt 
+escape. test2.txt 
+escaped. test1.txt 
+escapes test1.txt 
+especially test1.txt test2.txt test3.txt 
+even test1.txt test2.txt test3.txt 
+evening test1.txt test2.txt 
+evening, test1.txt test2.txt 
+evening. test2.txt 
+evenings test2.txt 
+events test1.txt 
+ever test1.txt test2.txt test3.txt 
+ever, test1.txt 
+every test1.txt test2.txt test3.txt 
+everybody test3.txt 
+everyone test1.txt test2.txt test3.txt 
+everyone's test3.txt 
+everyone. test3.txt 
+everything test1.txt test2.txt test3.txt 
+everything!' test2.txt 
+everything, test1.txt test3.txt 
+everything,' test1.txt 
+everything. test1.txt test2.txt 
+everything.' test1.txt 
+everything: test1.txt 
+everything?' test1.txt 
+everywhere test1.txt 
+everywhere. test3.txt 
+evil test1.txt 
+evil.' test1.txt 
+evil? test1.txt 
+exact test2.txt 
+exactly test1.txt test2.txt test3.txt 
+exaggerating?' test1.txt 
+examine test1.txt 
+examined test1.txt 
+excellent test1.txt test2.txt 
+excellent. test1.txt 
+except test1.txt 
+exchange test3.txt 
+excited test1.txt test2.txt 
+excitedly test2.txt 
+excitedly, test2.txt 
+excitedly. test2.txt 
+excitement test1.txt test2.txt 
+excitement. test1.txt 
+exciting test1.txt test2.txt test3.txt 
+exciting!' test1.txt 
+exciting, test1.txt 
+exclaimed test1.txt 
+exclaimed, test1.txt 
+exclaimed. test1.txt 
+exclamation, test1.txt 
+excuse test1.txt 
+executor. test1.txt 
+exercise, test1.txt 
+exhausted. test1.txt 
+exhaustion test1.txt 
+exhibition test2.txt 
+existence test1.txt 
+existence. test1.txt 
+exists? test1.txt 
+expand test3.txt 
+expect test1.txt 
+expected test1.txt test2.txt test3.txt 
+expected. test3.txt 
+expected?' test1.txt 
+expensive test2.txt test3.txt 
+expensive, test3.txt 
+experience test3.txt 
+experienced test1.txt test3.txt 
+experiment test1.txt 
+expert test1.txt 
+expertly, test1.txt 
+explain test1.txt test3.txt 
+explain?' test1.txt 
+explained test1.txt test2.txt 
+explained, test1.txt test2.txt 
+explained. test1.txt 
+explanation test1.txt 
+explosions test3.txt 
+expressed test1.txt 
+expression test1.txt 
+expression, test1.txt 
+extra test2.txt test3.txt 
+extraordinary test1.txt 
+extremely test1.txt 
+eye test1.txt test2.txt 
+eye, test1.txt 
+eye. test2.txt 
+eyes test1.txt test2.txt test3.txt 
+eyes, test1.txt test2.txt 
+eyes. test1.txt test2.txt 
+face test1.txt test2.txt test3.txt 
+face, test1.txt test2.txt 
+face. test1.txt test2.txt 
+faces test3.txt 
+faces. test1.txt 
+faces.' test2.txt 
+fact test1.txt 
+fact, test1.txt test2.txt test3.txt 
+fact. test1.txt 
+factories test2.txt test3.txt 
+factories. test2.txt test3.txt 
+factory test3.txt 
+factory, test3.txt 
+factory. test3.txt 
+facts test1.txt 
+facts. test1.txt 
+fail test1.txt 
+fail. test3.txt 
+fail.' test1.txt 
+failed...' test1.txt 
+fails, test1.txt 
+failure test1.txt 
+failure. test1.txt 
+faint test1.txt 
+fair test1.txt test3.txt 
+fair, test1.txt test3.txt 
+fair-haired test1.txt 
+fair-haired?' test1.txt 
+fairly test2.txt 
+faithful test1.txt 
+faithfully test1.txt 
+fall test2.txt 
+fallen test1.txt test2.txt test3.txt 
+falling test1.txt 
+falls test1.txt 
+fame test1.txt 
+fame? test1.txt 
+familiar test1.txt test3.txt 
+families test3.txt 
+families. test3.txt 
+family test1.txt test2.txt test3.txt 
+family, test1.txt test3.txt 
+family,' test1.txt 
+family. test1.txt test2.txt test3.txt 
+family.' test1.txt 
+famous test1.txt test2.txt test3.txt 
+famous; test3.txt 
+fantasy test1.txt 
+far test1.txt test2.txt 
+far-away test2.txt 
+fascinating test1.txt test2.txt test3.txt 
+fashion test3.txt 
+fashion, test3.txt 
+fashion.' test3.txt 
+fashion?' test3.txt 
+fashionable test1.txt test2.txt test3.txt 
+fashionable, test3.txt 
+fashions test3.txt 
+fashions, test3.txt 
+fast test2.txt test3.txt 
+faster test2.txt 
+fat test2.txt 
+fate test1.txt 
+father test1.txt test2.txt test3.txt 
+father's test1.txt 
+father, test1.txt 
+father?' test1.txt 
+fault, test1.txt 
+favour.' test1.txt 
+favourite test3.txt 
+fear test1.txt test2.txt 
+fear. test1.txt 
+fear? test1.txt 
+feed test3.txt 
+feel test1.txt test2.txt test3.txt 
+feeling test1.txt test2.txt test3.txt 
+feeling, test1.txt 
+feelings test1.txt 
+feels test1.txt 
+feet test1.txt test2.txt 
+feet!' test1.txt 
+feet, test1.txt 
+feet. test1.txt test2.txt 
+fell test1.txt test2.txt test3.txt 
+fell. test1.txt test2.txt test3.txt 
+fellow" test1.txt 
+fellow,' test1.txt 
+felt test1.txt test2.txt test3.txt 
+felt, test1.txt 
+female test3.txt 
+festival test1.txt 
+fever test1.txt 
+fever. test1.txt 
+fevers test1.txt 
+few test1.txt test2.txt test3.txt 
+few, test1.txt 
+few,' test2.txt 
+few?' test1.txt 
+fewer test1.txt test2.txt test3.txt 
+fiancee. test1.txt 
+fiancee?' test1.txt 
+field test2.txt 
+fields test2.txt 
+fields. test2.txt 
+fifteen test1.txt test2.txt 
+fiftieth test3.txt 
+fifty test1.txt test2.txt test3.txt 
+fifty, test1.txt 
+fight test3.txt 
+fighting test1.txt test2.txt test3.txt 
+fighting. test3.txt 
+figure test1.txt test2.txt 
+figure, test3.txt 
+figure. test1.txt 
+figures test2.txt 
+figures!' test2.txt 
+figures, test2.txt 
+filled test1.txt test2.txt 
+fills test1.txt 
+film test3.txt 
+film. test3.txt 
+film?' test3.txt 
+films test3.txt 
+films, test3.txt 
+films. test3.txt 
+final test1.txt test3.txt 
+finally test2.txt test3.txt 
+financial test1.txt test3.txt 
+financially, test1.txt 
+find test1.txt test2.txt test3.txt 
+find.' test1.txt 
+find? test1.txt 
+finding test2.txt 
+finds test2.txt 
+fine-looking test2.txt 
+finer test1.txt 
+finger test1.txt 
+finger. test1.txt 
+fingerprints test1.txt 
+fingerprints, test1.txt 
+fingers test1.txt 
+finish test3.txt 
+finish. test1.txt test2.txt 
+finished test1.txt test2.txt test3.txt 
+finished, test2.txt test3.txt 
+finished,' test1.txt 
+finished. test1.txt 
+finished.' test1.txt 
+fire test1.txt test2.txt 
+fire, test2.txt 
+fire. test2.txt 
+fired test1.txt 
+fired?" test1.txt 
+fireplace test1.txt 
+fireplace, test1.txt 
+fireplace. test1.txt 
+fires test1.txt 
+firework test1.txt 
+fireworks test1.txt 
+fireworks, test1.txt 
+fireworks. test1.txt 
+fireworks.' test1.txt 
+fireworks?' test1.txt 
+firm test1.txt 
+firm. test1.txt 
+firmly. test1.txt 
+first test1.txt test2.txt test3.txt 
+first, test1.txt test2.txt test3.txt 
+first. test1.txt 
+first.' test1.txt 
+fit test1.txt 
+five test1.txt test2.txt 
+five-billion-dollar test3.txt 
+five-pound test2.txt 
+five.' test1.txt 
+fix test2.txt 
+fixed test1.txt 
+fixed. test1.txt 
+flash test1.txt 
+flat test1.txt 
+flew test1.txt 
+flight test1.txt 
+flight, test1.txt 
+flight,' test1.txt 
+flight. test1.txt 
+floating test1.txt 
+floor test1.txt test2.txt 
+floor. test1.txt 
+florist's test1.txt 
+flower test1.txt 
+flowers test1.txt test2.txt test3.txt 
+flowers, test1.txt test3.txt 
+flowers. test1.txt test3.txt 
+flying test1.txt 
+folded test1.txt 
+follow test2.txt 
+followed test1.txt test2.txt test3.txt 
+followed. test1.txt 
+following test1.txt test2.txt 
+follows test1.txt 
+follows: test1.txt 
+fond test1.txt 
+food test1.txt test2.txt test3.txt 
+food. test1.txt test2.txt 
+fooled test1.txt 
+foolish test1.txt 
+foot test1.txt 
+for test1.txt test2.txt test3.txt 
+for-now. test1.txt 
+for. test1.txt 
+for.' test1.txt 
+for?' test2.txt 
+force test2.txt 
+forced test1.txt test2.txt 
+forefinger test1.txt 
+forehead, test2.txt 
+forehead. test2.txt 
+foreign test1.txt test3.txt 
+foreigner, test1.txt 
+forever.' test2.txt 
+forged test1.txt 
+forger test1.txt 
+forgery,' test1.txt 
+forgery?' test1.txt 
+forget test1.txt test2.txt test3.txt 
+forgot test2.txt test3.txt 
+forgotten test2.txt 
+forgotten, test2.txt 
+forgotten. test2.txt 
+forgotten.' test1.txt 
+form test1.txt test2.txt 
+formally test1.txt 
+forms test1.txt 
+fortune test1.txt test2.txt 
+fortune. test1.txt 
+forty test1.txt test3.txt 
+forty.' test1.txt 
+forward test1.txt test3.txt 
+forward, test1.txt 
+forward. test1.txt test2.txt 
+forwards. test1.txt 
+fought test3.txt 
+found test1.txt test2.txt test3.txt 
+found. test1.txt 
+four test1.txt test2.txt test3.txt 
+four-year test3.txt 
+four. test1.txt 
+four.' test1.txt 
+fourteen test1.txt test2.txt 
+frame. test1.txt 
+frames test1.txt 
+frankly. test1.txt 
+free test1.txt test2.txt 
+freed test2.txt 
+freed. test2.txt 
+freely. test3.txt 
+friend test1.txt test2.txt 
+friend! test1.txt 
+friend' test2.txt 
+friend's test1.txt test2.txt 
+friend's, test2.txt 
+friend, test1.txt test2.txt 
+friend," test1.txt 
+friend,' test1.txt 
+friend. test1.txt test2.txt 
+friend.' test1.txt 
+friend?' test1.txt 
+friendly test1.txt test2.txt test3.txt 
+friendly. test1.txt test2.txt 
+friends test1.txt test2.txt 
+friends, test1.txt test2.txt test3.txt 
+friends,' test1.txt 
+friends. test1.txt test2.txt test3.txt 
+friends.' test1.txt test2.txt 
+friends?' test1.txt 
+frighten test2.txt test3.txt 
+frightened test2.txt 
+frightened, test2.txt test3.txt 
+frightening test2.txt 
+frightening, test2.txt 
+from test1.txt test2.txt test3.txt 
+from. test1.txt 
+front test1.txt test2.txt test3.txt 
+frown. test1.txt 
+frowned. test1.txt 
+frozen test1.txt 
+fruit test3.txt 
+fruit. test1.txt test3.txt 
+fruit.' test1.txt 
+full test1.txt test2.txt test3.txt 
+fun test1.txt test2.txt test3.txt 
+fun, test1.txt 
+fun. test3.txt 
+function test1.txt 
+funeral test2.txt 
+funeral, test1.txt test2.txt 
+funeral? test1.txt 
+funerals. test1.txt 
+fur test1.txt 
+further test2.txt 
+future test1.txt test2.txt test3.txt 
+future, test2.txt test3.txt 
+future. test3.txt 
+future.' test3.txt 
+gain. test1.txt 
+gambled test2.txt 
+gambler test1.txt 
+gambler!' test2.txt 
+gambler,' test2.txt 
+gambling test2.txt 
+gambling. test2.txt 
+game test2.txt 
+game, test1.txt 
+game.' test1.txt 
+games test1.txt test3.txt 
+gap test1.txt 
+garage test1.txt 
+garage, test1.txt 
+garden test1.txt test2.txt 
+garden, test1.txt 
+garden,' test1.txt 
+garden. test1.txt 
+garden.' test1.txt 
+garden? test1.txt 
+gardener test1.txt 
+gardener, test1.txt 
+gardens test1.txt test2.txt 
+gasped test1.txt 
+gasped. test1.txt 
+gate test1.txt 
+gate!' test1.txt 
+gate, test1.txt 
+gate,' test1.txt 
+gates. test1.txt 
+gave test1.txt test2.txt test3.txt 
+general test1.txt 
+generally test1.txt 
+gentleman test1.txt test2.txt 
+gentleman'. test1.txt 
+gentleman's test2.txt 
+gentleman, test2.txt 
+gentleman. test2.txt 
+gentleman.' test2.txt 
+gentler test2.txt 
+gently test1.txt test2.txt 
+gently, test1.txt test2.txt 
+gently. test1.txt test2.txt 
+genuine,' test1.txt 
+genuine.' test1.txt 
+get test1.txt test2.txt test3.txt 
+gets test2.txt 
+getting test1.txt test2.txt test3.txt 
+ghost test1.txt 
+ghost!' test2.txt 
+ghost. test1.txt test2.txt 
+ghosts test1.txt test2.txt 
+giant. test2.txt 
+girl test1.txt test2.txt 
+girl! test1.txt 
+girl's test1.txt 
+girl, test1.txt test2.txt 
+girl,' test1.txt 
+girl. test1.txt test2.txt 
+girl.' test1.txt test3.txt 
+girl?' test2.txt 
+girlfriends. test3.txt 
+girls test1.txt 
+girls?' test3.txt 
+give test1.txt test2.txt test3.txt 
+given test1.txt test2.txt test3.txt 
+gives test1.txt 
+giving test1.txt test2.txt 
+glad test1.txt test2.txt 
+glass test1.txt 
+glittered test1.txt 
+globe, test1.txt 
+glowing test1.txt 
+go test1.txt test2.txt test3.txt 
+go,' test2.txt 
+go. test1.txt test2.txt test3.txt 
+go.' test1.txt 
+go?' test2.txt 
+goes test1.txt 
+goes. test2.txt 
+going test1.txt test2.txt test3.txt 
+going, test2.txt 
+going,' test1.txt 
+going. test2.txt 
+going.' test1.txt 
+going?' test2.txt 
+gold test1.txt test2.txt 
+gold, test2.txt 
+golden test1.txt 
+gone test1.txt test2.txt 
+gone!' test2.txt 
+gone, test1.txt test2.txt 
+gone. test1.txt test2.txt 
+gone.' test1.txt 
+gone?' test2.txt 
+good test1.txt test2.txt test3.txt 
+good!' test1.txt 
+good, test1.txt 
+good. test1.txt 
+good? test1.txt 
+goodbye test2.txt 
+goodbye. test2.txt 
+goodbyes. test1.txt 
+goodness!' test2.txt 
+goodnight test2.txt 
+gossip?' test1.txt 
+got test1.txt test2.txt test3.txt 
+got, test2.txt 
+government test3.txt 
+government. test3.txt 
+grabbed test2.txt 
+granddaughter test2.txt 
+granddaughter,' test2.txt 
+granddaughter. test2.txt 
+grandfather test1.txt test2.txt 
+grandfather's test1.txt test2.txt 
+grandfather, test1.txt test2.txt 
+grandfather,' test2.txt 
+grandfather. test2.txt 
+grandfather.' test2.txt 
+grandfather?' test1.txt 
+grandmother test2.txt 
+grandmother. test2.txt 
+grandson test2.txt 
+grandson! test2.txt 
+grass test1.txt test2.txt 
+grass, test1.txt 
+grass. test1.txt test2.txt 
+grateful test1.txt test3.txt 
+grateful,' test1.txt 
+grave, test2.txt 
+grave. test2.txt 
+graves test2.txt 
+graves. test2.txt 
+graveyard test2.txt 
+great test1.txt test3.txt 
+great, test3.txt 
+greater test1.txt 
+greatest test1.txt test3.txt 
+greatly. test1.txt 
+greedy test3.txt 
+greedy, test2.txt 
+green test1.txt test2.txt 
+greeted test1.txt 
+grew test2.txt test3.txt 
+grew. test3.txt 
+grey test1.txt test2.txt 
+ground test1.txt test2.txt 
+ground. test3.txt 
+grounds. test1.txt 
+group test1.txt test3.txt 
+groups test3.txt 
+grow test1.txt 
+growing test1.txt test2.txt 
+grown test2.txt test3.txt 
+grown, test3.txt 
+grown. test1.txt 
+guard test1.txt 
+guess. test1.txt 
+guessed test2.txt 
+guessed, test1.txt 
+guest. test3.txt 
+guests test1.txt test3.txt 
+guilty test1.txt test2.txt 
+guilty!' test2.txt 
+guilty. test1.txt test2.txt 
+gun test1.txt test3.txt 
+gun. test1.txt 
+guns. test3.txt 
+habit test1.txt 
+habit, test1.txt 
+had test1.txt test2.txt test3.txt 
+had!' test2.txt 
+had, test1.txt 
+hadn't test1.txt test2.txt test3.txt 
+hair test1.txt test2.txt test3.txt 
+hair, test2.txt 
+hair. test2.txt test3.txt 
+hair... test1.txt 
+half test1.txt test2.txt 
+half-sleep test2.txt 
+half-way test1.txt 
+hall test1.txt test2.txt 
+hall, test1.txt 
+hallway, test2.txt 
+hand test1.txt test2.txt 
+hand, test1.txt test2.txt 
+hand. test1.txt test2.txt 
+hand.' test1.txt 
+handbags, test3.txt 
+handed test1.txt test2.txt 
+handkerchief test1.txt 
+handkerchief, test2.txt 
+hands test1.txt test2.txt 
+hands. test1.txt 
+handsome test1.txt test3.txt 
+handsome, test2.txt 
+handsome-looking test1.txt 
+handwriting test1.txt 
+handwriting, test1.txt 
+handwriting. test1.txt 
+hanging test1.txt 
+hangman's test1.txt 
+hangs test1.txt 
+happen test1.txt test2.txt 
+happen! test1.txt 
+happen", test1.txt 
+happen, test1.txt 
+happen. test1.txt test3.txt 
+happen.' test1.txt 
+happen? test1.txt 
+happen?' test1.txt 
+happened test1.txt test2.txt 
+happened! test1.txt 
+happened, test1.txt test2.txt 
+happened. test1.txt test2.txt 
+happened?" test1.txt 
+happened?' test1.txt 
+happening.' test3.txt 
+happens test1.txt 
+happens. test2.txt 
+happier test2.txt test3.txt 
+happiest test3.txt 
+happily test2.txt 
+happily, test1.txt 
+happily. test1.txt test2.txt 
+happiness test1.txt test2.txt 
+happy test1.txt test2.txt test3.txt 
+happy, test1.txt test3.txt 
+happy. test1.txt test2.txt test3.txt 
+harbor test1.txt 
+hard test1.txt test2.txt test3.txt 
+hard-working test1.txt test2.txt 
+hard. test2.txt 
+hard? test3.txt 
+hardly test1.txt 
+hardly...' test1.txt 
+harm test1.txt 
+has test1.txt test2.txt test3.txt 
+has, test1.txt 
+hasn't test1.txt test2.txt 
+hat test1.txt test2.txt test3.txt 
+hat!' test2.txt 
+hat, test2.txt 
+hat. test1.txt test2.txt 
+hate test1.txt test2.txt 
+hate. test1.txt 
+hated test1.txt test2.txt test3.txt 
+hates test1.txt 
+hats test3.txt 
+hats, test3.txt 
+have test1.txt test2.txt test3.txt 
+have!' test2.txt 
+have, test2.txt 
+have,' test3.txt 
+have. test2.txt 
+have...' test1.txt 
+haven't test1.txt test2.txt 
+haven't. test2.txt 
+having test1.txt 
+he test1.txt test2.txt test3.txt 
+he!' test2.txt 
+he'd test1.txt 
+he'll test1.txt test2.txt 
+he's test1.txt test2.txt 
+he, test1.txt test2.txt 
+he...' test2.txt 
+he...?' test2.txt 
+he? test2.txt 
+he?' test1.txt test2.txt 
+head test1.txt test2.txt 
+head! test1.txt 
+head, test1.txt test2.txt 
+head. test1.txt test2.txt 
+head? test1.txt 
+headache. test1.txt 
+heals test1.txt 
+health, test1.txt 
+health.' test1.txt 
+healthy. test2.txt 
+hear test1.txt test2.txt test3.txt 
+hear,' test1.txt 
+hear. test1.txt 
+heard test1.txt test2.txt test3.txt 
+heard, test2.txt 
+heard. test1.txt test2.txt 
+hearing test1.txt test2.txt 
+hears test1.txt 
+heart test1.txt test2.txt 
+heart, test2.txt 
+heart. test2.txt 
+heart.' test2.txt 
+heart...' test1.txt 
+hearts test2.txt 
+heavily test2.txt 
+heavy test1.txt test2.txt 
+height test1.txt 
+heir test1.txt 
+heir. test1.txt 
+heiress test1.txt 
+heirs test1.txt 
+held test1.txt test2.txt test3.txt 
+held, test2.txt 
+held. test2.txt 
+helicopters test3.txt 
+hell test1.txt 
+hello test2.txt 
+hello, test1.txt 
+hello,' test1.txt 
+help test1.txt test2.txt test3.txt 
+help, test3.txt 
+help. test3.txt 
+help...' test1.txt 
+helped test1.txt test2.txt test3.txt 
+helping test1.txt test2.txt 
+helplessly, test2.txt 
+helplessly. test2.txt 
+helps test1.txt 
+her test1.txt test2.txt test3.txt 
+her! test1.txt 
+her!' test1.txt test2.txt 
+her, test1.txt test2.txt test3.txt 
+her,' test1.txt 
+her. test1.txt test2.txt test3.txt 
+her.' test1.txt test2.txt 
+her...' test2.txt 
+her; test2.txt 
+her? test1.txt test3.txt 
+her?' test1.txt 
+here test1.txt test2.txt 
+here!' test2.txt 
+here, test1.txt test2.txt 
+here,' test1.txt test2.txt 
+here. test1.txt test2.txt 
+here.' test2.txt 
+here...' test1.txt 
+here? test1.txt test2.txt 
+here?' test1.txt 
+hero. test1.txt 
+hero.' test1.txt 
+hers test1.txt test2.txt 
+hers.' test1.txt 
+herself test1.txt test2.txt test3.txt 
+herself! test2.txt 
+herself, test2.txt 
+herself. test1.txt test2.txt 
+herself... test1.txt 
+hesitated. test1.txt 
+hid test1.txt test2.txt 
+hidden test1.txt test2.txt 
+hidden), test1.txt 
+hide test1.txt test2.txt 
+hides test1.txt 
+hiding test1.txt test2.txt 
+hiding, test1.txt 
+high test1.txt test2.txt test3.txt 
+higher test2.txt 
+highly test3.txt 
+hill test1.txt test2.txt 
+hill, test1.txt 
+him test1.txt test2.txt test3.txt 
+him! test2.txt 
+him!' test2.txt 
+him, test1.txt test2.txt 
+him. test1.txt test2.txt test3.txt 
+him.' test1.txt test2.txt 
+him...' test1.txt 
+him; test1.txt 
+him?' test1.txt 
+himself test1.txt test2.txt 
+himself, test1.txt test2.txt 
+himself. test1.txt test2.txt 
+himself?' test1.txt 
+hired test3.txt 
+his test1.txt test2.txt test3.txt 
+his, test1.txt test2.txt 
+his. test1.txt test2.txt 
+his? test1.txt 
+history test2.txt 
+history. test3.txt 
+hit test1.txt test3.txt 
+hit. test3.txt 
+hits test1.txt 
+hitting test1.txt test2.txt 
+hobby, test3.txt 
+hold test1.txt test2.txt 
+holding test1.txt test2.txt 
+holds test1.txt 
+hole test1.txt 
+holiday test3.txt 
+holiday, test1.txt 
+holiday,' test1.txt 
+holiday. test1.txt test3.txt 
+holiday.' test1.txt 
+holiday?' test1.txt 
+home test1.txt test2.txt test3.txt 
+home, test2.txt test3.txt 
+home. test1.txt test2.txt test3.txt 
+home? test1.txt 
+home?' test1.txt test2.txt 
+homeless. test2.txt 
+honest test1.txt test2.txt test3.txt 
+honest! test2.txt 
+honest, test1.txt 
+honest. test2.txt 
+honestly, test1.txt 
+honorable, test1.txt 
+honorable. test1.txt 
+hope test1.txt test2.txt 
+hope!' test1.txt test2.txt 
+hope,' test1.txt 
+hope. test2.txt 
+hope.' test1.txt 
+hoped test1.txt test2.txt 
+hopeful test1.txt 
+hopelessly test1.txt 
+hopes test1.txt test3.txt 
+hoping test1.txt test2.txt 
+horrible test2.txt 
+horror, test1.txt 
+horse test3.txt 
+horse?' test2.txt 
+horses test2.txt 
+horses, test2.txt 
+hospitals test3.txt 
+hospitals, test3.txt 
+hot test1.txt test2.txt test3.txt 
+hot!' test1.txt 
+hotel test1.txt 
+hotel, test1.txt 
+hotel. test1.txt 
+hotel.' test1.txt 
+hotel?' test1.txt 
+hotels test3.txt 
+hour test1.txt test2.txt 
+hour. test1.txt 
+hours test1.txt test2.txt 
+hours! test2.txt 
+hours' test2.txt 
+hours, test2.txt 
+hours. test1.txt test2.txt 
+house test1.txt test2.txt test3.txt 
+house! test2.txt 
+house, test1.txt test2.txt 
+house,' test1.txt 
+house. test1.txt test2.txt test3.txt 
+house.' test1.txt test2.txt 
+house...' test1.txt 
+house?' test1.txt 
+housekeeper, test1.txt 
+houses test2.txt 
+houses, test3.txt 
+houses. test2.txt 
+housewife test3.txt 
+housewife,' test3.txt 
+housewife. test3.txt 
+how test1.txt test2.txt test3.txt 
+how? test3.txt 
+how?' test1.txt 
+however test1.txt 
+however, test2.txt 
+http://english-e-books.net/ test1.txt test2.txt test3.txt 
+huge test1.txt test2.txt 
+human test1.txt 
+human.' test1.txt 
+hundred test1.txt test2.txt test3.txt 
+hundreds test3.txt 
+hung test1.txt 
+hunger test2.txt 
+hunger, test2.txt 
+hungry test2.txt 
+hungry!' test2.txt 
+hungry,' test2.txt 
+hungry. test1.txt 
+hungry?' test2.txt 
+hunting test1.txt 
+hurried test1.txt 
+hurt test1.txt test2.txt test3.txt 
+hurt, test1.txt 
+hurt. test1.txt 
+husband test1.txt test2.txt test3.txt 
+husband's test1.txt 
+husband, test2.txt test3.txt 
+husband,' test1.txt 
+husband. test1.txt 
+husband.' test1.txt 
+husband?' test1.txt 
+hush. test1.txt 
+hysteria.' test1.txt 
+hysterical? test1.txt 
+ice test1.txt 
+ice, test1.txt 
+idea test1.txt test2.txt test3.txt 
+idea! test1.txt 
+idea, test1.txt 
+idea. test1.txt test3.txt 
+idea? test1.txt 
+ideas test1.txt test3.txt 
+ideas, test3.txt 
+ideas. test1.txt test3.txt 
+identify test1.txt 
+idiot test1.txt 
+if test1.txt test2.txt test3.txt 
+ignore test2.txt 
+ignoring test1.txt 
+ill test1.txt test2.txt 
+ill, test2.txt 
+ill. test1.txt test2.txt 
+ill.' test2.txt 
+ill: test1.txt 
+ill?' test1.txt 
+illegal) test2.txt 
+illness test1.txt test2.txt 
+image test3.txt 
+image. test3.txt 
+image; test3.txt 
+imagination! test1.txt 
+imagination, test1.txt 
+imagine test1.txt test3.txt 
+imagine,' test1.txt 
+imagine. test2.txt 
+imbecile test1.txt 
+imbecile, test1.txt 
+immediate test1.txt test3.txt 
+immediately test1.txt test2.txt test3.txt 
+immediately. test1.txt test2.txt 
+immediately.' test1.txt 
+impatiently. test2.txt 
+important test2.txt test3.txt 
+important, test2.txt 
+important. test3.txt 
+important.' test1.txt 
+impossible test1.txt test3.txt 
+imprisoned test2.txt 
+improve. test1.txt 
+in test1.txt test2.txt test3.txt 
+in! test1.txt 
+in, test1.txt test2.txt 
+in,' test1.txt test2.txt 
+in. test1.txt test2.txt test3.txt 
+in.' test2.txt 
+in? test1.txt 
+in?' test1.txt 
+inch test1.txt 
+included test1.txt test3.txt 
+including test1.txt test2.txt test3.txt 
+incredible,' test1.txt 
+indeed test1.txt 
+indeed, test1.txt 
+indeed,' test1.txt 
+indeed. test1.txt 
+indoors. test3.txt 
+industries. test3.txt 
+industry test3.txt 
+industry. test3.txt 
+industry; test3.txt 
+informal test1.txt 
+information test1.txt test2.txt 
+information, test1.txt 
+information. test1.txt test2.txt 
+inherit test1.txt test2.txt 
+inheritance test2.txt 
+inheritance. test2.txt 
+inheriting. test1.txt 
+inherits test1.txt 
+injure test1.txt 
+injury test1.txt 
+innocence test1.txt 
+innocent test1.txt test2.txt 
+innocent! test2.txt 
+innocent, test2.txt 
+innocent. test2.txt 
+inquest test1.txt 
+inquest, test2.txt 
+inside test1.txt test2.txt test3.txt 
+inside. test2.txt 
+inside.' test1.txt 
+insist test1.txt 
+insisted test1.txt 
+insists test1.txt 
+inspect test1.txt 
+inspector test1.txt 
+inspector. test1.txt 
+instance?' test1.txt 
+instead test1.txt 
+instincts test1.txt 
+instructions test1.txt 
+instruments. test3.txt 
+intelligence test1.txt 
+intelligence. test1.txt 
+intelligent, test1.txt 
+intelligent,' test1.txt 
+intelligent. test1.txt 
+intelligent.' test1.txt 
+intend test1.txt 
+intense test1.txt 
+intention test1.txt 
+interest test1.txt test3.txt 
+interest. test1.txt 
+interest.' test1.txt 
+interested test1.txt test2.txt test3.txt 
+interested, test1.txt 
+interested. test3.txt 
+interesting test1.txt test3.txt 
+interesting!' test2.txt 
+interesting, test1.txt 
+interesting,' test2.txt 
+interesting. test1.txt 
+international test3.txt 
+international. test3.txt 
+interrupted test1.txt 
+interrupting test1.txt 
+interview test3.txt 
+interviewed test1.txt 
+interviewed. test3.txt 
+interviewers test3.txt 
+interviewing test3.txt 
+into test1.txt test2.txt test3.txt 
+into. test2.txt 
+introduce test1.txt test3.txt 
+introduced test1.txt test3.txt 
+invalid, test1.txt 
+invent test1.txt 
+invented test1.txt test3.txt 
+invented. test1.txt 
+invention. test1.txt 
+investigate test1.txt 
+investigated test1.txt 
+investigated. test1.txt 
+investigations test1.txt 
+investigations, test1.txt 
+investigations.' test1.txt 
+investing test2.txt 
+investments test2.txt 
+invitation, test1.txt 
+invite test2.txt 
+invited test2.txt 
+involved test1.txt test3.txt 
+irregular test1.txt 
+irrelevant test1.txt 
+is test1.txt test2.txt test3.txt 
+is", test1.txt 
+is, test1.txt 
+is,' test2.txt 
+is. test1.txt test2.txt 
+is.' test1.txt test2.txt 
+is...' test1.txt 
+isn't test1.txt test2.txt test3.txt 
+isn't, test1.txt 
+it test1.txt test2.txt test3.txt 
+it! test1.txt test2.txt 
+it's test1.txt test2.txt test3.txt 
+it, test1.txt test2.txt test3.txt 
+it,' test1.txt test2.txt 
+it. test1.txt test2.txt test3.txt 
+it.' test1.txt test2.txt test3.txt 
+it...' test1.txt 
+it: test1.txt 
+it? test1.txt test2.txt 
+it?' test1.txt 
+its test1.txt test2.txt test3.txt 
+itself test1.txt 
+itself, test1.txt 
+itself. test1.txt 
+jacket test1.txt 
+jacket. test1.txt 
+jackets test3.txt 
+jackets, test3.txt 
+jealous test1.txt 
+jealousy test1.txt 
+jealousy. test1.txt 
+jealousy?' test1.txt 
+jewellery test3.txt 
+jewellery, test3.txt 
+jewellery. test3.txt 
+job test2.txt test3.txt 
+job!' test2.txt 
+job, test2.txt 
+job,' test2.txt 
+job. test2.txt 
+job.' test3.txt 
+jobs test3.txt 
+jobs, test3.txt 
+jobs. test3.txt 
+join test1.txt 
+joined test1.txt test3.txt 
+joke test1.txt 
+joke, test1.txt 
+joke,' test1.txt 
+joke. test1.txt 
+journalist. test3.txt 
+journalists test3.txt 
+journey test1.txt test2.txt 
+journey, test2.txt 
+journey. test2.txt 
+journey.' test2.txt 
+journey?' test2.txt 
+joy test2.txt 
+joy. test2.txt 
+judgment test1.txt 
+jumped test1.txt test3.txt 
+just test1.txt test2.txt test3.txt 
+justice-house. test2.txt 
+justice-room. test2.txt 
+justice. test1.txt 
+keep test1.txt test2.txt test3.txt 
+keeping test2.txt 
+keeps test1.txt test2.txt 
+kept test1.txt test2.txt test3.txt 
+kept. test2.txt 
+keyhole test2.txt 
+keys test2.txt 
+keys. test2.txt 
+kill test1.txt test2.txt 
+killed test1.txt test3.txt 
+killed, test3.txt 
+killed,' test1.txt 
+killed. test1.txt test3.txt 
+killer test1.txt 
+killer, test1.txt 
+killer,' test1.txt 
+killer. test1.txt 
+killing test1.txt 
+kind test1.txt test2.txt test3.txt 
+kind, test1.txt 
+kind. test1.txt 
+kindly test1.txt test2.txt 
+kindness, test1.txt 
+kindness. test2.txt 
+kinds test3.txt 
+kissed test2.txt 
+kitchen test1.txt test2.txt 
+kitchen. test2.txt 
+knee. test3.txt 
+knees test1.txt 
+knees. test1.txt 
+knelt test1.txt 
+knew test1.txt test2.txt test3.txt 
+knew, test1.txt 
+knew. test1.txt test2.txt 
+knock test1.txt test2.txt 
+knocked test2.txt 
+knocking test2.txt 
+knocking, test2.txt 
+know test1.txt test2.txt test3.txt 
+know!' test1.txt 
+know, test1.txt test2.txt 
+know,' test1.txt test2.txt 
+know. test1.txt 
+know.' test1.txt test3.txt 
+know...' test2.txt 
+know? test1.txt 
+know?' test1.txt test2.txt 
+knowing test1.txt test2.txt 
+known test1.txt test2.txt test3.txt 
+known. test1.txt 
+knows test1.txt test2.txt 
+knows. test1.txt 
+knows.' test1.txt 
+knows?' test1.txt 
+label test3.txt 
+lack test1.txt 
+lacks test1.txt 
+ladies test1.txt test3.txt 
+lady test1.txt test2.txt test3.txt 
+lady's test1.txt 
+lady, test1.txt 
+lady. test1.txt test2.txt 
+lady?' test1.txt 
+laid test1.txt 
+lamp test2.txt 
+land. test1.txt 
+landed test3.txt 
+landlady test2.txt 
+landlord test2.txt 
+landlord. test2.txt 
+lane test2.txt 
+lane. test1.txt 
+large test1.txt test2.txt test3.txt 
+large, test2.txt 
+larger test3.txt 
+last test1.txt test2.txt test3.txt 
+last!' test2.txt 
+last, test2.txt test3.txt 
+last. test1.txt test2.txt 
+late test1.txt test2.txt test3.txt 
+late. test1.txt test2.txt 
+lately? test1.txt 
+later test1.txt test2.txt test3.txt 
+later, test1.txt test2.txt test3.txt 
+later. test1.txt test2.txt 
+later?' test1.txt 
+latest test2.txt test3.txt 
+laugh test1.txt test2.txt 
+laugh, test1.txt 
+laugh. test1.txt test2.txt 
+laughed test2.txt test3.txt 
+laughed. test1.txt 
+laughing test2.txt 
+laughing. test1.txt 
+law. test2.txt 
+law.' test1.txt 
+lawn test1.txt 
+lawyer test1.txt test2.txt 
+lawyer's test2.txt 
+lawyer) test2.txt 
+lawyer, test2.txt 
+lawyer. test1.txt test2.txt test3.txt 
+lawyer.' test2.txt 
+lawyer...' test1.txt 
+lawyers test1.txt test3.txt 
+lawyers.' test1.txt 
+lay test1.txt test2.txt 
+lay. test2.txt 
+lazy test2.txt test3.txt 
+lazy, test2.txt 
+lead test2.txt test3.txt 
+leader, test3.txt 
+leaders. test3.txt 
+leads test1.txt 
+leaned test1.txt 
+learned test3.txt 
+learns,' test1.txt 
+learnt test2.txt test3.txt 
+least test1.txt test2.txt 
+least, test1.txt 
+least,' test1.txt 
+least. test1.txt 
+leave test1.txt test2.txt test3.txt 
+leave, test2.txt 
+leave. test1.txt test2.txt test3.txt 
+leave.' test2.txt 
+leaves test1.txt test3.txt 
+leaving test1.txt test2.txt 
+leaving.' test1.txt 
+led test1.txt test2.txt 
+left test1.txt test2.txt test3.txt 
+left, test2.txt 
+left. test1.txt test2.txt 
+left."' test1.txt 
+left?' test1.txt 
+leg, test2.txt 
+legal test1.txt 
+legal. test1.txt 
+legal.' test1.txt 
+legally test2.txt 
+legs test2.txt 
+lend test3.txt 
+lent test2.txt test3.txt 
+less test1.txt 
+lesson test3.txt 
+lesson!' test2.txt 
+lesson, test2.txt 
+lesson: test3.txt 
+let test1.txt test2.txt test3.txt 
+let's test1.txt test2.txt 
+letter test1.txt test2.txt test3.txt 
+letter!' test2.txt 
+letter. test1.txt test2.txt 
+letters test1.txt test2.txt test3.txt 
+letters, test2.txt 
+letters. test1.txt test2.txt 
+letters?' test1.txt 
+level. test1.txt 
+lever test1.txt 
+liar test1.txt 
+liar, test1.txt 
+liar. test1.txt test2.txt 
+liar.' test1.txt 
+library test1.txt 
+library. test1.txt 
+library? test1.txt 
+lids test1.txt 
+lie test1.txt test2.txt 
+lie!' test1.txt 
+lies test1.txt 
+lies,' test1.txt 
+life test1.txt test2.txt test3.txt 
+life".' test1.txt 
+life's test1.txt 
+life, test1.txt test3.txt 
+life,' test2.txt 
+life. test1.txt test2.txt test3.txt 
+life.' test2.txt 
+life; test3.txt 
+lifted test1.txt 
+light test1.txt test2.txt 
+lighted test1.txt 
+lights test1.txt 
+lights.' test1.txt 
+like test1.txt test2.txt test3.txt 
+like, test1.txt test2.txt 
+like. test1.txt 
+like.' test1.txt 
+liked test3.txt 
+likely test1.txt 
+liking test1.txt 
+lilies, test1.txt 
+lilies. test1.txt 
+line test1.txt 
+link test1.txt 
+linked test1.txt 
+linked. test1.txt 
+lips. test1.txt 
+liquid test3.txt 
+list test1.txt test3.txt 
+list, test1.txt 
+list. test1.txt 
+list.' test1.txt 
+listen test1.txt test3.txt 
+listened test3.txt 
+listener. test2.txt 
+listening test2.txt 
+lists test3.txt 
+lit test1.txt test2.txt 
+literature test3.txt 
+literature, test3.txt 
+little test1.txt test2.txt test3.txt 
+little, test1.txt test2.txt 
+little,' test2.txt 
+little. test3.txt 
+live test1.txt test2.txt test3.txt 
+live, test3.txt 
+live. test2.txt 
+lived test1.txt test2.txt test3.txt 
+lived!' test1.txt 
+lived. test2.txt 
+lively test1.txt 
+lives test1.txt test2.txt test3.txt 
+lives, test2.txt 
+living test1.txt test2.txt test3.txt 
+living-room test1.txt 
+living-room, test1.txt 
+local test1.txt test2.txt 
+lock test2.txt 
+locked test2.txt test3.txt 
+locked, test2.txt 
+locked?' test1.txt 
+lodger test2.txt 
+lodger, test2.txt 
+lodgings test2.txt 
+lonely test2.txt 
+lonely. test2.txt 
+lonely.' test1.txt 
+long test1.txt test2.txt test3.txt 
+long, test1.txt test2.txt test3.txt 
+long,' test2.txt 
+long. test3.txt 
+long?' test1.txt test2.txt 
+longer test2.txt 
+longer!' test1.txt 
+longer, test1.txt test2.txt 
+longer,' test2.txt 
+longer. test1.txt test2.txt 
+look test1.txt test2.txt test3.txt 
+look!' test1.txt 
+look, test1.txt 
+look. test2.txt test3.txt 
+looked test1.txt test2.txt test3.txt 
+looking test1.txt test2.txt test3.txt 
+looks test1.txt test2.txt 
+loose test3.txt 
+lords. test3.txt 
+lose test1.txt test2.txt test3.txt 
+losing test1.txt test3.txt 
+loss test1.txt 
+lost test2.txt test3.txt 
+lost. test1.txt test2.txt 
+lost.' test1.txt 
+lost?' test2.txt 
+lot test1.txt test2.txt test3.txt 
+lot. test2.txt 
+lots test1.txt test2.txt test3.txt 
+loud test1.txt test2.txt 
+loudly test2.txt 
+loudly, test2.txt 
+lounge test1.txt 
+lounge. test1.txt 
+love test1.txt test2.txt test3.txt 
+love"?' test1.txt 
+love, test2.txt 
+love. test2.txt 
+loved test1.txt test2.txt test3.txt 
+lovely test1.txt 
+lovely, test1.txt 
+lovely.' test1.txt 
+lover test1.txt 
+loves test1.txt 
+loving test1.txt 
+low test2.txt 
+luck test1.txt test2.txt 
+luck,' test2.txt 
+luck. test2.txt test3.txt 
+lucky test1.txt test2.txt test3.txt 
+lucky!' test1.txt 
+lucky, test1.txt 
+lunch test1.txt 
+lunch. test1.txt 
+lunch.) test1.txt 
+lunching test1.txt 
+luxurious test1.txt 
+lying test1.txt test2.txt 
+lying, test1.txt 
+lying,' test1.txt 
+lying. test1.txt 
+lying? test1.txt 
+ma'am,' test2.txt 
+ma'am?' test2.txt 
+machine test1.txt 
+machine. test1.txt 
+machines test3.txt 
+mad test1.txt test2.txt 
+mad!' test1.txt 
+mad. test1.txt 
+mad?' test1.txt 
+made test1.txt test2.txt test3.txt 
+made. test1.txt 
+made.' test1.txt 
+made?' test1.txt 
+madman test1.txt 
+magazine test3.txt 
+magazines test3.txt 
+magazines. test3.txt 
+magic test3.txt 
+magician test1.txt 
+magician, test1.txt 
+magistrate test2.txt 
+magistrate. test2.txt 
+magistrate.' test2.txt 
+maid test1.txt 
+maid, test1.txt 
+mail. test1.txt 
+main test1.txt test2.txt 
+mainly test3.txt 
+make test1.txt test2.txt test3.txt 
+make-up test1.txt 
+make. test1.txt 
+makes test1.txt test2.txt test3.txt 
+making test1.txt test2.txt test3.txt 
+malaria. test1.txt 
+man test1.txt test2.txt test3.txt 
+man! test2.txt 
+man's test1.txt test2.txt test3.txt 
+man, test1.txt test2.txt 
+man,' test1.txt 
+man. test1.txt test2.txt 
+man.' test1.txt test2.txt 
+man? test1.txt 
+man?' test1.txt 
+managed test1.txt test2.txt 
+manager test3.txt 
+manager, test3.txt 
+managers test3.txt 
+managing test3.txt 
+manner. test1.txt 
+mansion, test1.txt 
+many test1.txt test2.txt test3.txt 
+many, test1.txt 
+marched test1.txt test3.txt 
+marriage test2.txt 
+marriage. test3.txt 
+marriage? test1.txt 
+marriages test1.txt 
+married test1.txt test2.txt test3.txt 
+married, test2.txt test3.txt 
+married? test2.txt 
+marry test1.txt test2.txt 
+marry. test1.txt 
+marrying test1.txt 
+marvelous. test1.txt 
+master test2.txt 
+master. test2.txt 
+material test3.txt 
+materials. test3.txt 
+matter test1.txt 
+matter! test1.txt 
+matter. test1.txt 
+matter...' test1.txt 
+matter?' test1.txt 
+may test1.txt test2.txt test3.txt 
+me test1.txt test2.txt 
+me! test1.txt test2.txt 
+me!' test2.txt 
+me, test1.txt test2.txt 
+me,' test1.txt test2.txt test3.txt 
+me. test1.txt test2.txt 
+me.' test1.txt test2.txt test3.txt 
+me... test1.txt 
+me...' test1.txt 
+me: test1.txt 
+me? test1.txt test2.txt 
+me?' test1.txt test2.txt test3.txt 
+meal test1.txt 
+meal. test1.txt 
+mean test1.txt test2.txt test3.txt 
+mean, test1.txt 
+mean...' test1.txt 
+mean...?' test1.txt 
+mean?' test1.txt test3.txt 
+means test1.txt test3.txt 
+meant test1.txt test2.txt test3.txt 
+meant, test1.txt 
+meantime, test1.txt 
+measure test1.txt 
+meat test2.txt 
+mechanical test1.txt 
+mechanics test1.txt 
+medical test1.txt 
+medicine test2.txt 
+medicine, test1.txt 
+medium. test1.txt 
+meet test1.txt test2.txt test3.txt 
+meeting test1.txt test3.txt 
+meeting, test3.txt 
+meeting. test1.txt 
+meeting.' test2.txt 
+meets test1.txt 
+member.' test1.txt 
+memory test2.txt 
+men test1.txt test2.txt test3.txt 
+men's test1.txt test2.txt 
+men, test2.txt 
+men. test1.txt test2.txt 
+mention test1.txt 
+mentioned test1.txt 
+mentioned. test1.txt test2.txt 
+message test1.txt test2.txt test3.txt 
+messages, test2.txt 
+met test1.txt test2.txt test3.txt 
+met. test1.txt test2.txt 
+metal test2.txt test3.txt 
+method test1.txt 
+method! test1.txt 
+method.' test1.txt 
+middle test1.txt test3.txt 
+middle-aged test1.txt 
+midnight test2.txt 
+midnight, test2.txt 
+midnight. test2.txt 
+might test1.txt test2.txt 
+might've test1.txt 
+miles test2.txt 
+miles, test1.txt 
+milk. test2.txt 
+million test3.txt 
+million. test3.txt 
+millions test1.txt test3.txt 
+mind test1.txt test2.txt 
+mind! test1.txt 
+mind, test1.txt test3.txt 
+mind,' test1.txt 
+mind. test1.txt 
+mind.' test1.txt 
+minds. test3.txt 
+mine test1.txt test2.txt 
+mine, test1.txt 
+mine. test1.txt 
+minute test1.txt test2.txt 
+minute, test1.txt 
+minutes test1.txt test2.txt test3.txt 
+minutes, test2.txt test3.txt 
+minutes. test1.txt test2.txt 
+minutes.' test1.txt 
+miserable test1.txt 
+missed test1.txt test2.txt test3.txt 
+missing test1.txt test2.txt 
+missing, test2.txt 
+missing. test1.txt 
+mistake test1.txt 
+mistake, test1.txt 
+mistake. test1.txt test3.txt 
+mistake.' test1.txt 
+mistaken, test1.txt 
+mistakes, test2.txt 
+mistakes. test1.txt 
+mix test3.txt 
+mixed test1.txt test3.txt 
+model test3.txt 
+modern test1.txt test3.txt 
+modern. test1.txt 
+modest.' test1.txt 
+moment test1.txt test2.txt 
+moment! test2.txt 
+moment's test2.txt 
+moment, test2.txt 
+moment. test1.txt test2.txt test3.txt 
+moments test2.txt test3.txt 
+moments, test2.txt 
+moments. test2.txt 
+mon test1.txt 
+money test1.txt test2.txt test3.txt 
+money! test1.txt test2.txt 
+money!' test2.txt 
+money, test1.txt test2.txt test3.txt 
+money,' test2.txt 
+money. test1.txt test2.txt test3.txt 
+money.' test1.txt test2.txt test3.txt 
+money? test2.txt 
+money?' test2.txt 
+month, test3.txt 
+months test1.txt test2.txt test3.txt 
+months, test3.txt 
+months. test3.txt 
+months.' test1.txt 
+mood test3.txt 
+mood. test3.txt 
+moods. test1.txt 
+moon test1.txt 
+moonlight. test2.txt 
+more test1.txt test2.txt test3.txt 
+more. test1.txt test2.txt 
+more.' test2.txt 
+morning test1.txt test2.txt test3.txt 
+morning! test3.txt 
+morning, test1.txt test2.txt 
+morning,' test1.txt test2.txt 
+morning. test1.txt test2.txt 
+morning.' test1.txt test2.txt 
+morning?' test1.txt 
+mortgage test1.txt 
+mortgage.' test1.txt 
+mortgage? test1.txt 
+mortgaged. test1.txt 
+most test1.txt test2.txt test3.txt 
+most. test1.txt 
+mostly test3.txt 
+mostly.' test1.txt 
+mother test1.txt test2.txt 
+mother!' test2.txt 
+mother's, test1.txt 
+mother, test2.txt 
+mother,' test2.txt 
+mother. test2.txt test3.txt 
+mothers. test3.txt 
+motion test1.txt 
+motionless test1.txt 
+motive test1.txt 
+motive!' test1.txt 
+motive. test1.txt 
+motive? test1.txt 
+motives test1.txt 
+motives. test1.txt 
+motor test3.txt 
+moustache, test3.txt 
+mouth test2.txt 
+mouth, test2.txt 
+mouth. test2.txt 
+move test1.txt test2.txt test3.txt 
+move. test1.txt 
+moved test1.txt test2.txt test3.txt 
+movement test1.txt 
+movement. test1.txt 
+moving test1.txt test2.txt test3.txt 
+moving. test2.txt 
+moving; test2.txt 
+much test1.txt test2.txt test3.txt 
+much!' test2.txt 
+much, test2.txt 
+much,' test2.txt 
+much. test2.txt 
+much.' test1.txt test2.txt 
+murder test1.txt 
+murder. test1.txt 
+murder.' test1.txt 
+murdered test1.txt 
+murderer test1.txt 
+murderer. test1.txt 
+murderer.' test1.txt 
+murderers test1.txt 
+murmured test1.txt 
+murmured, test1.txt 
+murmured. test1.txt 
+music test3.txt 
+music. test3.txt 
+musical test3.txt 
+musicians test3.txt 
+musicians. test3.txt 
+must test1.txt test2.txt test3.txt 
+mustn't test1.txt 
+my test1.txt test2.txt test3.txt 
+myself test1.txt test2.txt 
+myself! test1.txt 
+myself, test1.txt test2.txt 
+myself. test1.txt 
+myself.' test1.txt test2.txt 
+mysteries test2.txt 
+mysterious test1.txt 
+mystery!' test2.txt 
+mystery. test1.txt 
+name test1.txt test2.txt test3.txt 
+name's test2.txt 
+name, test1.txt test3.txt 
+name,' test1.txt 
+name. test1.txt test2.txt test3.txt 
+name.' test1.txt 
+name?' test2.txt 
+named test1.txt 
+names test1.txt test3.txt 
+naming test1.txt 
+narrow test2.txt test3.txt 
+national test3.txt 
+nations test3.txt 
+nature. test1.txt 
+near test1.txt test2.txt 
+nearby test2.txt 
+nearby. test2.txt 
+nearest test1.txt test2.txt 
+nearly test1.txt test2.txt test3.txt 
+neatly test1.txt 
+necessary test1.txt 
+necessary, test3.txt 
+neck test2.txt 
+neck. test2.txt 
+need test1.txt test2.txt test3.txt 
+need, test1.txt 
+need,' test2.txt 
+need.' test1.txt 
+needed test1.txt test2.txt test3.txt 
+needed. test1.txt test3.txt 
+needs test1.txt test2.txt 
+negotiate test3.txt 
+negotiated test3.txt 
+negotiations test3.txt 
+neighbor's, test1.txt 
+neighbors. test1.txt 
+neighbors.' test1.txt 
+neighbour test2.txt 
+neither test1.txt test2.txt 
+nephew test1.txt 
+nervous test1.txt 
+nervous, test1.txt 
+nervous. test3.txt 
+nervous.' test1.txt 
+nervously test2.txt 
+neutral.' test1.txt 
+never test1.txt test2.txt test3.txt 
+never, test1.txt test3.txt 
+new test1.txt test2.txt test3.txt 
+new, test2.txt 
+new. test1.txt 
+news test1.txt test2.txt 
+news, test2.txt test3.txt 
+news. test1.txt test2.txt test3.txt 
+newspaper test1.txt test3.txt 
+newspaper, test1.txt 
+newspaper. test1.txt 
+newspapers test1.txt test3.txt 
+newspapers, test3.txt 
+newspapers? test1.txt 
+newsreader test3.txt 
+next test1.txt test2.txt test3.txt 
+next. test2.txt 
+next...' test1.txt 
+next?' test1.txt 
+nice test1.txt test2.txt test3.txt 
+night test1.txt test2.txt test3.txt 
+night's test1.txt 
+night, test1.txt test2.txt 
+night,' test2.txt 
+night. test1.txt test2.txt test3.txt 
+night.' test2.txt 
+night?' test1.txt test2.txt 
+nightclub, test3.txt 
+nightclubs test3.txt 
+nights test1.txt 
+nights. test1.txt test2.txt 
+nine test1.txt test2.txt 
+nineteen test1.txt test2.txt 
+nineteen-year-old test3.txt 
+no test1.txt test2.txt test3.txt 
+no! test2.txt 
+no!' test2.txt 
+no, test1.txt test2.txt 
+no,' test1.txt test2.txt 
+no. test1.txt 
+no.' test1.txt 
+nobody test1.txt test2.txt test3.txt 
+nobody, test1.txt 
+nod test1.txt 
+nodded test1.txt test2.txt 
+nodded. test1.txt test2.txt 
+nodding test1.txt test2.txt 
+noise test2.txt 
+noise. test1.txt 
+noisy test1.txt test2.txt 
+noisy.' test1.txt 
+none test2.txt 
+nor test2.txt 
+normal test3.txt 
+north test3.txt 
+nose test2.txt 
+nose, test2.txt 
+nose. test1.txt test2.txt 
+not test1.txt test2.txt test3.txt 
+not, test1.txt test2.txt 
+not,' test1.txt test2.txt 
+not. test1.txt test2.txt 
+not.' test1.txt 
+not...' test1.txt 
+not? test1.txt 
+not?' test1.txt test2.txt 
+note test1.txt test2.txt 
+note, test2.txt 
+note. test2.txt 
+notebook, test2.txt 
+notepaper test1.txt 
+nothing test1.txt test2.txt 
+nothing! test1.txt 
+nothing, test1.txt test2.txt 
+nothing. test1.txt test2.txt test3.txt 
+nothing.' test1.txt test2.txt 
+nothing?' test1.txt 
+notice test1.txt test2.txt test3.txt 
+notice. test1.txt 
+noticed test1.txt test2.txt test3.txt 
+novel test1.txt 
+now test1.txt test2.txt test3.txt 
+now! test1.txt 
+now!' test2.txt 
+now"? test1.txt 
+now, test1.txt test2.txt 
+now,' test1.txt test2.txt 
+now. test1.txt test2.txt 
+now.' test1.txt test2.txt 
+now: test2.txt 
+now?' test1.txt test2.txt 
+nowadays, test1.txt 
+number test1.txt test3.txt 
+number. test3.txt 
+numbered test1.txt 
+nurse test1.txt 
+nurses test1.txt test3.txt 
+nurses. test1.txt 
+nurses.' test1.txt 
+nursing test1.txt 
+o'clock test1.txt test2.txt 
+o'clock, test1.txt 
+o'clock,' test1.txt 
+o'clock. test1.txt 
+o'clock? test1.txt 
+obediently. test1.txt 
+object test1.txt 
+observe test1.txt 
+observe. test1.txt 
+observed test1.txt 
+observing test1.txt 
+obstinate test1.txt 
+obvious test1.txt test3.txt 
+obvious. test1.txt 
+obvious.' test1.txt 
+obviously test1.txt test2.txt 
+occasional test1.txt 
+occasions: test3.txt 
+occurred test1.txt 
+occurred.' test1.txt 
+of test1.txt test2.txt test3.txt 
+of, test1.txt 
+of...' test1.txt 
+off test1.txt test2.txt test3.txt 
+off. test1.txt 
+offend test1.txt 
+offer test1.txt test2.txt test3.txt 
+offer. test1.txt test2.txt 
+offered test1.txt test2.txt test3.txt 
+office test1.txt test2.txt test3.txt 
+office, test1.txt test2.txt 
+office,' test2.txt 
+office. test2.txt 
+officer test2.txt 
+officers test3.txt 
+officers. test3.txt 
+offices test3.txt 
+offices, test3.txt 
+official test1.txt 
+often test1.txt test2.txt test3.txt 
+often, test2.txt 
+often. test1.txt 
+oil test1.txt 
+old test1.txt test2.txt test3.txt 
+old!' test2.txt 
+old, test2.txt test3.txt 
+old-fashioned test1.txt 
+old. test3.txt 
+older test2.txt 
+oldest test1.txt 
+on test1.txt test2.txt test3.txt 
+on, test1.txt test2.txt 
+on. test1.txt test3.txt 
+once test1.txt test2.txt test3.txt 
+once, test1.txt 
+once. test1.txt test2.txt 
+once.' test1.txt 
+one test1.txt test2.txt test3.txt 
+one's test1.txt 
+one, test1.txt test3.txt 
+one,' test1.txt test2.txt 
+one. test1.txt test2.txt 
+one.' test1.txt test2.txt 
+one?' test1.txt 
+ones test1.txt test3.txt 
+oneself! test1.txt 
+oneself.' test1.txt 
+only test1.txt test2.txt test3.txt 
+only. test1.txt 
+onto test1.txt test2.txt 
+open test1.txt test2.txt test3.txt 
+open, test2.txt 
+open. test1.txt 
+open.' test1.txt 
+opened test1.txt test2.txt test3.txt 
+opening test1.txt 
+opening. test1.txt 
+openly test1.txt 
+operation test1.txt 
+operation, test1.txt 
+operation. test1.txt 
+opinion test1.txt 
+opinion, test1.txt 
+opinion. test3.txt 
+opinions. test3.txt 
+opportunities test1.txt test3.txt 
+opportunities. test1.txt test2.txt test3.txt 
+opportunity test1.txt test3.txt 
+opportunity! test2.txt 
+opportunity. test3.txt 
+opposite test1.txt 
+or test1.txt test2.txt test3.txt 
+or, test1.txt 
+orange test1.txt test3.txt 
+order test1.txt 
+order, test1.txt 
+ordered test1.txt test2.txt 
+ordered. test2.txt 
+orders test1.txt 
+ordinary test1.txt test3.txt 
+organize test1.txt 
+organized test1.txt 
+original test1.txt 
+other test1.txt test2.txt test3.txt 
+other, test1.txt test2.txt 
+other. test1.txt test2.txt test3.txt 
+other...' test1.txt 
+others test1.txt test3.txt 
+others, test2.txt 
+others. test1.txt 
+ought test1.txt 
+our test1.txt test2.txt test3.txt 
+out test1.txt test2.txt test3.txt 
+out!' test2.txt 
+out, test1.txt test2.txt test3.txt 
+out,' test3.txt 
+out. test1.txt test2.txt test3.txt 
+out.' test1.txt 
+out...' test1.txt 
+out?' test1.txt 
+outside test1.txt test2.txt test3.txt 
+outside, test1.txt test2.txt 
+outside. test1.txt test2.txt 
+outside.' test1.txt 
+outside... test1.txt 
+outside?' test1.txt 
+over test1.txt test2.txt test3.txt 
+overlooking test1.txt 
+own test1.txt test2.txt test3.txt 
+own, test1.txt test2.txt 
+own. test2.txt 
+own?' test2.txt 
+owned test1.txt test2.txt test3.txt 
+owned. test2.txt 
+owner test1.txt 
+pack test2.txt 
+packed test2.txt 
+packet test1.txt 
+packing test2.txt 
+page test1.txt 
+page.' test1.txt 
+paid test1.txt test2.txt test3.txt 
+paid, test1.txt 
+paid. test3.txt 
+pain test1.txt test2.txt 
+pain. test2.txt 
+painful test2.txt 
+painted test1.txt test2.txt 
+painters, test3.txt 
+painting test1.txt 
+painting, test1.txt 
+paintings test1.txt 
+pair test1.txt test2.txt 
+pale test1.txt 
+pale-blue test1.txt 
+palm test1.txt 
+panel test1.txt 
+panel. test1.txt 
+panels. test1.txt 
+paper test1.txt 
+paper. test1.txt test2.txt 
+papers test2.txt 
+papers', test1.txt 
+paragraph test1.txt 
+paragraph. test1.txt 
+parcel test1.txt 
+parcel. test1.txt 
+parcel.' test1.txt 
+pardons, test1.txt 
+pardons,' test1.txt 
+parents test3.txt 
+parliament. test3.txt 
+part test1.txt test2.txt test3.txt 
+particular test2.txt 
+particular. test1.txt 
+parties test3.txt 
+parties, test3.txt 
+parties. test3.txt 
+partner test3.txt 
+parts test3.txt 
+party test1.txt test3.txt 
+party, test1.txt 
+pass test1.txt test2.txt 
+passed test1.txt test2.txt 
+passed, test3.txt 
+passed. test1.txt test2.txt 
+passengers test2.txt 
+passes test1.txt 
+passes.' test1.txt 
+passing, test1.txt 
+passionately test1.txt 
+past test1.txt test2.txt test3.txt 
+past, test1.txt test2.txt 
+past. test1.txt 
+past? test1.txt 
+path test1.txt test2.txt 
+path. test1.txt 
+patience.' test1.txt 
+patient test2.txt 
+patients.' test1.txt 
+pause test1.txt 
+pause, test1.txt 
+paused test1.txt 
+paused, test1.txt 
+pay test1.txt test2.txt test3.txt 
+pay. test2.txt 
+paying test1.txt test2.txt 
+peaceful test1.txt test2.txt 
+pencil-case. test2.txt 
+people test1.txt test2.txt test3.txt 
+people, test2.txt test3.txt 
+people,' test1.txt 
+people. test1.txt test2.txt test3.txt 
+people.' test1.txt 
+people? test1.txt 
+people?" test1.txt 
+peoples', test1.txt 
+percent test3.txt 
+perfect test1.txt test2.txt test3.txt 
+perfect! test1.txt 
+perfectly test1.txt 
+perfectly. test3.txt 
+perform test3.txt 
+performance test2.txt 
+performance. test3.txt 
+performed test3.txt 
+perfume test3.txt 
+perfume, test3.txt 
+perfume. test3.txt 
+perfumes test3.txt 
+perhaps test1.txt test2.txt test3.txt 
+perhaps, test1.txt 
+perhaps. test1.txt 
+peril test1.txt 
+permit test1.txt 
+permitted. test1.txt 
+permitted.' test1.txt 
+person test1.txt test2.txt test3.txt 
+person! test2.txt 
+person. test1.txt test3.txt 
+person.' test3.txt 
+person?' test1.txt 
+personal test1.txt test3.txt 
+persuade test1.txt test2.txt test3.txt 
+persuaded test1.txt test2.txt test3.txt 
+persuading test1.txt 
+persuasive. test2.txt 
+phone test1.txt 
+phone. test1.txt 
+phonebook. test1.txt 
+phoned test1.txt 
+photograph test3.txt 
+photographers test3.txt 
+photographers. test3.txt 
+photographs test1.txt test3.txt 
+photographs, test3.txt 
+phrase test1.txt 
+picked test1.txt test2.txt 
+picking test1.txt test2.txt 
+picture test1.txt test2.txt test3.txt 
+picture, test1.txt 
+picture. test1.txt 
+picture?' test1.txt 
+pictures test3.txt 
+picturing test1.txt 
+piece test1.txt test2.txt test3.txt 
+pieces test1.txt 
+piles test2.txt 
+pillows, test1.txt 
+pilot, test1.txt 
+pink test1.txt 
+pink. test1.txt 
+pistol test1.txt 
+pistol, test1.txt 
+pistol. test1.txt 
+pistol.' test1.txt 
+pistol?' test1.txt 
+pity test1.txt 
+pity. test1.txt 
+place test1.txt test2.txt test3.txt 
+place!' test2.txt 
+place, test1.txt 
+place. test1.txt test2.txt 
+place.' test1.txt test2.txt test3.txt 
+place?' test1.txt 
+placed test1.txt 
+places test1.txt test3.txt 
+places. test2.txt 
+plain test1.txt 
+plan test1.txt test2.txt 
+plan!' test2.txt 
+plan. test1.txt test2.txt test3.txt 
+plane test1.txt 
+planes test3.txt 
+planned test1.txt test2.txt test3.txt 
+planning test1.txt test2.txt 
+planning, test2.txt 
+plans test1.txt test2.txt test3.txt 
+plans, test2.txt 
+plant test2.txt 
+planted test2.txt 
+play test1.txt test2.txt test3.txt 
+play, test2.txt 
+play. test1.txt 
+played test2.txt test3.txt 
+playfully test1.txt 
+playing test1.txt test2.txt 
+pleasant test1.txt test2.txt 
+please test1.txt test2.txt 
+please, test2.txt 
+please.' test1.txt 
+pleased test1.txt test2.txt test3.txt 
+pleasure test2.txt 
+pleasure.' test1.txt 
+plenty test1.txt test3.txt 
+pocket test1.txt test2.txt 
+pocket. test2.txt 
+pockets. test2.txt 
+point test1.txt test3.txt 
+pointed test1.txt 
+pointed. test1.txt 
+pointing test2.txt 
+pointless, test1.txt 
+pointless.' test1.txt 
+poison test1.txt 
+poison, test1.txt 
+poisoned test1.txt 
+poisoned. test1.txt 
+police test1.txt 
+police. test1.txt 
+police?' test1.txt 
+policeman test2.txt 
+policeman. test2.txt 
+policeman?' test2.txt 
+polite test1.txt 
+politely test1.txt 
+political test1.txt 
+politicians test3.txt 
+politicians, test3.txt 
+pony test2.txt 
+pony's test2.txt 
+pony. test2.txt 
+pool test3.txt 
+poor test1.txt test2.txt test3.txt 
+poor, test2.txt 
+poor. test2.txt 
+poor?' test2.txt 
+poorer test3.txt 
+poorer, test3.txt 
+pop test3.txt 
+popular test2.txt test3.txt 
+popular. test3.txt 
+portrait test1.txt 
+portrait.' test1.txt 
+portraits test1.txt 
+position test1.txt test3.txt 
+position, test3.txt 
+positions test3.txt 
+positions. test2.txt 
+possibilities test1.txt 
+possibility test1.txt 
+possibility, test1.txt 
+possible test1.txt test2.txt test3.txt 
+possible, test1.txt 
+possible. test1.txt test3.txt 
+possibly test1.txt 
+post test1.txt 
+post. test1.txt 
+post.' test1.txt 
+posted test1.txt 
+poster: test2.txt 
+pound test2.txt 
+pounds test1.txt test2.txt 
+pounds,' test1.txt 
+pounds. test1.txt 
+pounds.' test1.txt 
+poured test1.txt 
+power test1.txt test3.txt 
+powerful test3.txt 
+powers test1.txt 
+praise test1.txt 
+prepare test2.txt test3.txt 
+prepared test2.txt test3.txt 
+preparing test2.txt 
+present test3.txt 
+present. test1.txt 
+presents test2.txt 
+presidents' test3.txt 
+presume, test1.txt 
+presume.' test1.txt 
+pretend test1.txt test2.txt 
+pretending test1.txt 
+pretty test1.txt test2.txt 
+pretty,' test2.txt 
+pretty. test1.txt test2.txt 
+pretty?' test2.txt 
+prevent test1.txt 
+prevented test1.txt 
+price test1.txt test3.txt 
+prices test3.txt 
+prices, test3.txt 
+pride. test1.txt 
+princesses test3.txt 
+print test3.txt 
+prison test2.txt 
+prison. test3.txt 
+prison.' test2.txt 
+private test2.txt 
+prizes test3.txt 
+probably test1.txt test2.txt test3.txt 
+problem test1.txt test2.txt test3.txt 
+problem, test3.txt 
+problem,' test3.txt 
+problem. test1.txt test2.txt test3.txt 
+problems test1.txt test3.txt 
+problems. test3.txt 
+problems.' test2.txt 
+produce test1.txt test3.txt 
+produced test1.txt test3.txt 
+producer test3.txt 
+producer, test3.txt 
+produces test3.txt 
+product test3.txt 
+production test3.txt 
+products test3.txt 
+products. test3.txt 
+profit test1.txt 
+profits test1.txt 
+profits. test3.txt 
+programme test3.txt 
+programme. test3.txt 
+programmes test3.txt 
+progress test1.txt 
+progress. test1.txt 
+promise test1.txt 
+promise. test1.txt 
+promised test1.txt 
+promised, test2.txt 
+promised. test2.txt 
+proof test1.txt test2.txt 
+proper test1.txt 
+properly test1.txt 
+property test1.txt 
+property.' test1.txt 
+protect test1.txt 
+protected test3.txt 
+protecting test1.txt 
+protested. test1.txt 
+proud test1.txt 
+proudly. test2.txt 
+proved test3.txt 
+proving test3.txt 
+psychological test1.txt 
+psychology. test1.txt 
+pub test2.txt 
+pub!' test2.txt 
+pub. test2.txt 
+public test2.txt test3.txt 
+public, test1.txt 
+publicity test1.txt test3.txt 
+publicity. test3.txt 
+pull test2.txt 
+pulled test1.txt test2.txt 
+punish test3.txt 
+punished test1.txt 
+punished. test1.txt 
+pupils test1.txt 
+pupils. test1.txt 
+puppet test2.txt 
+puppeteers test2.txt 
+puppeteers. test2.txt 
+puppets test2.txt 
+puppets, test2.txt 
+puppets. test2.txt 
+pure test1.txt 
+purposeless. test1.txt 
+purse test2.txt 
+purse. test3.txt 
+push test3.txt 
+pushed test1.txt test2.txt 
+put test1.txt test2.txt test3.txt 
+puts test1.txt 
+putting test1.txt test2.txt 
+puzzled test1.txt 
+pyjamas. test1.txt 
+qualities, test2.txt 
+quality test1.txt 
+quantities test1.txt 
+quantities, test3.txt 
+question test1.txt test2.txt test3.txt 
+question. test1.txt test2.txt 
+question: test1.txt 
+questionable test1.txt 
+questioned. test1.txt 
+questions test1.txt test2.txt test3.txt 
+questions, test1.txt test2.txt test3.txt 
+questions. test1.txt test2.txt test3.txt 
+questions.' test1.txt 
+questions?' test1.txt 
+quick test1.txt 
+quickly test1.txt test2.txt test3.txt 
+quickly! test1.txt 
+quickly!' test1.txt 
+quickly, test1.txt test2.txt 
+quickly,' test2.txt 
+quickly. test1.txt test2.txt test3.txt 
+quiet test1.txt test2.txt test3.txt 
+quiet, test1.txt 
+quiet,' test1.txt 
+quiet? test1.txt 
+quiet?' test1.txt 
+quietly test1.txt test2.txt test3.txt 
+quietly, test1.txt test2.txt 
+quietly. test1.txt 
+quietly: test1.txt 
+quite test1.txt test2.txt test3.txt 
+radio test1.txt test3.txt 
+radio. test1.txt 
+radios test3.txt 
+rain test2.txt 
+raining test2.txt 
+rainy test2.txt 
+raised test1.txt 
+ran test1.txt test2.txt test3.txt 
+rang test1.txt 
+rang. test1.txt 
+rarely test3.txt 
+rat. test2.txt 
+rather test1.txt test2.txt test3.txt 
+rats test2.txt 
+re-entered test1.txt 
+re-read test1.txt 
+reach test3.txt 
+reached test1.txt test2.txt test3.txt 
+reaching test2.txt 
+reacts test1.txt 
+read test1.txt test2.txt test3.txt 
+read, test1.txt test2.txt 
+read. test1.txt test2.txt 
+reading test1.txt test3.txt 
+reading! test1.txt test2.txt test3.txt 
+ready test2.txt test3.txt 
+ready. test3.txt 
+real test1.txt test2.txt test3.txt 
+real!' test1.txt 
+realises test1.txt 
+realize test1.txt test2.txt 
+realized test1.txt test2.txt test3.txt 
+realizes test1.txt 
+really test1.txt test2.txt test3.txt 
+really,' test1.txt 
+really. test1.txt 
+reappeared, test1.txt 
+reason test1.txt 
+reason, test1.txt test3.txt 
+reason. test1.txt test2.txt 
+reason? test1.txt 
+reasons test1.txt 
+reasons. test1.txt test2.txt 
+receipts test1.txt 
+received test1.txt test2.txt 
+recent test3.txt 
+recently test1.txt test2.txt 
+recently, test2.txt 
+recently. test1.txt 
+recently.' test2.txt 
+recognize test2.txt test3.txt 
+recognized test2.txt 
+record test1.txt test3.txt 
+record. test3.txt 
+recorded test1.txt 
+recording test3.txt 
+recordings test3.txt 
+records test3.txt 
+records, test3.txt 
+records. test3.txt 
+recover test1.txt 
+recovered test2.txt 
+red test1.txt test2.txt 
+red, test1.txt test2.txt 
+red-faced test1.txt 
+red. test1.txt test2.txt 
+redder. test1.txt 
+reduced test3.txt 
+reference test1.txt 
+refuse. test3.txt 
+refuse? test3.txt 
+refused test2.txt test3.txt 
+regret. test1.txt 
+regular test3.txt 
+regularly test3.txt 
+relation?' test1.txt 
+relations test1.txt 
+relationship! test2.txt 
+relationship?' test1.txt 
+relationships. test3.txt 
+relative test1.txt test2.txt 
+relative. test1.txt 
+relatives test1.txt 
+relatives?' test1.txt 
+relax test2.txt 
+relaxed test2.txt 
+relaxing test2.txt 
+religion test3.txt 
+religious test3.txt 
+remain test1.txt 
+remained. test1.txt 
+remarked, test1.txt 
+remarked. test1.txt 
+remember test1.txt test2.txt 
+remember, test1.txt 
+remember. test1.txt test2.txt 
+remember?' test2.txt 
+remembered test1.txt test2.txt test3.txt 
+remembered. test1.txt 
+remembering test1.txt 
+remembers.' test1.txt 
+reminded test2.txt 
+remove test1.txt 
+removed test1.txt 
+rent test1.txt test2.txt 
+rent,' test2.txt 
+rent. test2.txt 
+rent?' test2.txt 
+rented test2.txt test3.txt 
+renting test2.txt 
+repay. test1.txt 
+repeat, test1.txt 
+repeated test1.txt test2.txt 
+repeated. test2.txt 
+replied test1.txt test2.txt test3.txt 
+replied, test1.txt test2.txt 
+replied. test2.txt 
+reply test2.txt test3.txt 
+reply, test2.txt 
+reply. test1.txt test2.txt 
+report test1.txt 
+report. test1.txt 
+reported test1.txt 
+request?' test1.txt 
+require test1.txt 
+require.' test1.txt 
+resist test1.txt 
+respectable test1.txt 
+rest test1.txt test2.txt test3.txt 
+rest, test2.txt 
+rest. test1.txt test2.txt 
+rest.' test1.txt 
+restaurant test1.txt test3.txt 
+restaurants test3.txt 
+rested, test2.txt 
+rested. test2.txt 
+resting test2.txt 
+result test1.txt test3.txt 
+result, test1.txt test3.txt 
+results. test3.txt 
+retire test1.txt 
+retired test1.txt 
+retired! test1.txt 
+retired, test1.txt 
+return test1.txt test2.txt test3.txt 
+return, test1.txt 
+return. test2.txt 
+returned test1.txt test2.txt test3.txt 
+returned, test2.txt 
+returned. test1.txt test2.txt 
+returning test2.txt 
+reveal test1.txt 
+revealed. test1.txt 
+revolver test1.txt 
+reward test2.txt 
+rewarded. test2.txt 
+ribbon. test1.txt 
+rich test1.txt test2.txt test3.txt 
+rich, test1.txt test2.txt test3.txt 
+rich. test2.txt 
+rich.' test1.txt 
+rich?' test2.txt test3.txt 
+richer test1.txt test3.txt 
+richer. test3.txt 
+richest test1.txt test3.txt 
+rid test2.txt 
+ride test2.txt test3.txt 
+ride, test2.txt 
+ridiculous test1.txt 
+riding test2.txt 
+right test1.txt test2.txt test3.txt 
+right". test1.txt 
+right, test1.txt test2.txt 
+right,' test1.txt test2.txt 
+right. test1.txt test2.txt test3.txt 
+right." test1.txt 
+right.' test1.txt 
+right... test2.txt 
+right?' test2.txt 
+rings test1.txt 
+risen test1.txt 
+risk test1.txt 
+risk, test1.txt 
+river test2.txt 
+river! test2.txt 
+river. test2.txt 
+rivers test2.txt 
+road test1.txt test2.txt test3.txt 
+road, test2.txt 
+road. test1.txt test2.txt 
+road.' test1.txt 
+roads test2.txt 
+roaring test1.txt 
+robbed test1.txt 
+rock test1.txt 
+rock. test1.txt 
+rolled test1.txt 
+room test1.txt test2.txt 
+room! test2.txt 
+room!' test1.txt 
+room, test1.txt test2.txt 
+room,' test2.txt 
+room. test1.txt test2.txt 
+room.' test1.txt 
+room: test1.txt 
+room? test1.txt 
+rooms test2.txt test3.txt 
+rooms, test2.txt 
+rope...' test1.txt 
+rose test1.txt 
+rose, test1.txt 
+rose; test1.txt 
+rough test2.txt 
+rough-looking test2.txt 
+roughly test2.txt 
+round test1.txt test2.txt test3.txt 
+round, test1.txt 
+round-the-world test1.txt 
+round. test1.txt 
+royal test3.txt 
+rubbed test1.txt test2.txt 
+rubbish test3.txt 
+rude test3.txt 
+rude! test2.txt 
+ruined test1.txt 
+rules test3.txt 
+rumor test1.txt 
+run test1.txt test2.txt 
+running test1.txt test2.txt test3.txt 
+runs test1.txt 
+rushed test3.txt 
+s test3.txt 
+sacked test3.txt 
+sad test1.txt test2.txt 
+sad, test3.txt 
+sad. test1.txt test2.txt 
+sad.' test2.txt 
+saddest test1.txt 
+sadly, test1.txt test2.txt 
+sadly. test1.txt test2.txt 
+sadness test1.txt test2.txt 
+sadness, test2.txt 
+sadness. test1.txt 
+safe test1.txt test2.txt 
+safe, test1.txt test2.txt 
+safe. test1.txt 
+safely test1.txt 
+safely. test1.txt 
+safest test1.txt 
+safety test1.txt 
+said test1.txt test2.txt test3.txt 
+said, test1.txt test2.txt test3.txt 
+said. test1.txt test2.txt test3.txt 
+said: test1.txt test2.txt 
+said?' test1.txt 
+sailor test1.txt 
+sailor. test2.txt 
+sailors test2.txt 
+salary test2.txt 
+sale test2.txt test3.txt 
+sales test3.txt 
+sales? test3.txt 
+same test1.txt test2.txt test3.txt 
+same, test1.txt 
+same,' test1.txt 
+sang. test3.txt 
+sat test1.txt test2.txt test3.txt 
+satisfaction. test1.txt 
+satisfactorily test1.txt 
+satisfactory, test1.txt 
+satisfy test1.txt 
+save test2.txt 
+saved test2.txt 
+saw test1.txt test2.txt test3.txt 
+saw. test2.txt test3.txt 
+say test1.txt test2.txt test3.txt 
+say) test1.txt 
+say, test1.txt test2.txt 
+say. test1.txt test2.txt test3.txt 
+say.' test1.txt 
+say? test1.txt 
+say?' test1.txt 
+saying test1.txt test2.txt 
+saying. test1.txt 
+says test1.txt test2.txt 
+says, test1.txt 
+says,' test1.txt 
+says. test1.txt 
+scandal test1.txt 
+scene test1.txt 
+scene. test1.txt 
+scent test1.txt 
+school test3.txt 
+school". test1.txt 
+school, test3.txt 
+school. test2.txt 
+schools test1.txt 
+schoolteacher test2.txt 
+schoolteacher! test2.txt 
+schoolteacher's test2.txt 
+schoolteacher. test2.txt 
+scratched test2.txt 
+screamed test2.txt 
+screamed. test1.txt 
+sea test1.txt test2.txt 
+sea. test1.txt test3.txt 
+sea.' test1.txt 
+seance. test1.txt 
+seaplane test1.txt 
+seaplane.' test1.txt 
+search test1.txt 
+searching test1.txt test2.txt 
+seaside test1.txt test3.txt 
+seat test2.txt 
+seated test1.txt 
+second test1.txt test3.txt 
+second. test1.txt 
+seconds, test1.txt 
+secret test1.txt test2.txt test3.txt 
+secret!' test2.txt 
+secret, test1.txt test2.txt 
+secret. test1.txt test2.txt test3.txt 
+secret? test1.txt 
+secretly test1.txt test2.txt 
+secrets,' test1.txt 
+secrets. test2.txt 
+secrets.' test2.txt 
+security test2.txt 
+see test1.txt test2.txt test3.txt 
+see! test2.txt 
+see!' test2.txt 
+see, test1.txt 
+see. test1.txt test2.txt 
+see.' test1.txt 
+see?' test3.txt 
+seeing test1.txt test2.txt 
+seem test1.txt test2.txt test3.txt 
+seemed test1.txt test2.txt test3.txt 
+seems test1.txt test2.txt test3.txt 
+seems, test1.txt 
+seen test1.txt test2.txt test3.txt 
+seen?' test1.txt 
+sees test1.txt test2.txt 
+select test1.txt 
+self-satisfaction. test1.txt 
+selfish test2.txt test3.txt 
+sell test1.txt test2.txt test3.txt 
+sell. test1.txt 
+selling test1.txt test2.txt test3.txt 
+send test1.txt test2.txt 
+sending test2.txt 
+sends test1.txt 
+sense. test2.txt 
+sent test1.txt test2.txt test3.txt 
+sentence test1.txt 
+sentenced test2.txt 
+sentimental test1.txt 
+separate test2.txt 
+separated test3.txt 
+separated. test3.txt 
+serious test1.txt test2.txt test3.txt 
+serious, test2.txt 
+serious. test1.txt 
+seriously test1.txt test2.txt 
+seriously, test1.txt 
+servant-girl test2.txt 
+servant-girl, test2.txt 
+servant-girl.' test2.txt 
+servant. test2.txt 
+servants test1.txt 
+servants.' test1.txt 
+serve test1.txt 
+served test1.txt 
+service test1.txt 
+service.' test1.txt 
+services test1.txt 
+set test2.txt 
+setting test2.txt 
+settle test1.txt 
+seven test1.txt test2.txt 
+seventeen test1.txt test2.txt test3.txt 
+seventies, test3.txt 
+seventy test3.txt 
+seventy-year-old test3.txt 
+several test1.txt test2.txt test3.txt 
+sewed test2.txt 
+sewn test2.txt 
+sex test1.txt 
+shadows test1.txt test2.txt 
+shadows, test2.txt 
+shadows. test2.txt 
+shadowy test1.txt test2.txt 
+shake test2.txt 
+shakes test2.txt 
+shaking test1.txt test2.txt 
+shall test1.txt 
+shame. test1.txt 
+shape test1.txt 
+shapes test2.txt 
+share test2.txt test3.txt 
+shared test2.txt 
+sharp test1.txt 
+sharply, test1.txt 
+sharply. test1.txt 
+shawl test1.txt 
+shawl, test1.txt 
+shawl. test1.txt 
+shawl."' test1.txt 
+she test1.txt test2.txt test3.txt 
+she'd test1.txt 
+she'll test1.txt test2.txt 
+she's test1.txt test2.txt 
+she, test1.txt 
+she? test1.txt 
+she?' test1.txt test2.txt 
+sheet test1.txt 
+shilling test2.txt 
+shilling, test2.txt 
+shillings test2.txt 
+shining test1.txt 
+shining,' test2.txt 
+shining. test1.txt 
+shiny test3.txt 
+shirts test3.txt 
+shivered. test1.txt 
+shock test1.txt 
+shock, test1.txt 
+shock. test1.txt test2.txt 
+shock.' test1.txt 
+shock?' test1.txt 
+shocked test2.txt test3.txt 
+shocked, test1.txt test2.txt 
+shocked. test1.txt test2.txt 
+shoes test1.txt 
+shoes. test2.txt test3.txt 
+shook test1.txt test2.txt 
+shook. test1.txt 
+shoot test1.txt 
+shooting test1.txt 
+shoots test1.txt 
+shop test1.txt test2.txt test3.txt 
+shop, test3.txt 
+shop. test1.txt test2.txt test3.txt 
+shops test3.txt 
+shops, test2.txt 
+shops. test3.txt 
+short test1.txt test2.txt test3.txt 
+short, test2.txt 
+short. test3.txt 
+shorter test3.txt 
+shot test1.txt test3.txt 
+shot, test1.txt 
+shot?' test1.txt 
+shots test1.txt 
+shots, test1.txt 
+shots?' test1.txt 
+should test1.txt test2.txt test3.txt 
+should, test2.txt 
+shoulder test1.txt 
+shoulder, test1.txt 
+shoulder. test1.txt test2.txt 
+shout test1.txt 
+shout, test1.txt 
+shouted test2.txt 
+shouted, test2.txt 
+shouting test2.txt 
+shouting. test2.txt 
+shouts test1.txt 
+show test1.txt test2.txt test3.txt 
+show, test3.txt 
+show. test2.txt test3.txt 
+show.' test3.txt 
+show; test3.txt 
+show?' test2.txt 
+showed test1.txt test2.txt test3.txt 
+shower test1.txt 
+showing test1.txt test2.txt 
+shown test1.txt test3.txt 
+shows test1.txt test2.txt test3.txt 
+shows. test2.txt test3.txt 
+shut test1.txt 
+shut, test1.txt 
+shy test2.txt 
+shy, test2.txt 
+shyly test2.txt 
+sick test2.txt 
+sick, test2.txt 
+sick. test1.txt test2.txt 
+side test1.txt test2.txt test3.txt 
+side. test1.txt 
+sight test2.txt 
+sight. test1.txt 
+sign test1.txt test2.txt 
+signed test1.txt test3.txt 
+significant, test1.txt 
+silence test1.txt test2.txt 
+silence, test1.txt 
+silent test1.txt test2.txt 
+silent, test1.txt 
+silent. test2.txt 
+silently test2.txt 
+silk test1.txt 
+silly test1.txt test2.txt test3.txt 
+silly! test1.txt 
+silly!' test1.txt 
+silly. test1.txt 
+silver test2.txt 
+silver. test1.txt 
+similar test2.txt test3.txt 
+simple test1.txt test2.txt test3.txt 
+simple! test1.txt 
+simple, test1.txt test2.txt test3.txt 
+simple,' test1.txt 
+simple. test1.txt test3.txt 
+simple.' test1.txt 
+simple: test1.txt 
+simpler test1.txt test3.txt 
+simply test1.txt test2.txt test3.txt 
+simply. test2.txt 
+since test1.txt test2.txt test3.txt 
+sincerely, test1.txt 
+sing test2.txt test3.txt 
+singer test3.txt 
+singers test3.txt 
+singing, test2.txt 
+single test2.txt 
+sir,' test2.txt 
+sir. test2.txt 
+sir.' test2.txt 
+sister test2.txt 
+sister!' test2.txt 
+sister, test2.txt 
+sister.' test2.txt 
+sit test1.txt test2.txt test3.txt 
+sitting test1.txt test2.txt 
+sitting-room. test1.txt 
+sitting. test1.txt 
+situated, test1.txt 
+situation test1.txt test3.txt 
+situation, test1.txt test3.txt 
+situation. test3.txt 
+situations test3.txt 
+six test1.txt test2.txt test3.txt 
+six.' test1.txt 
+sixpence test2.txt 
+sixtIen test1.txt 
+sixteen test1.txt test2.txt 
+sixty test3.txt 
+sixty; test1.txt 
+sized test2.txt 
+sizes. test2.txt 
+skill test3.txt 
+skills test3.txt 
+skin test2.txt test3.txt 
+skirts test3.txt 
+skirts, test3.txt 
+sky test1.txt test2.txt 
+sky, test3.txt 
+sky. test1.txt 
+sleep test1.txt test2.txt 
+sleep, test2.txt 
+sleep. test2.txt 
+sleeping test1.txt test2.txt 
+sleeping, test2.txt 
+sleeping. test2.txt 
+sleeping.' test2.txt 
+sleeplessness...' test1.txt 
+slept test2.txt 
+slice test2.txt 
+sliding test1.txt 
+slight test1.txt 
+slightly test1.txt 
+slightly. test1.txt 
+slow test1.txt 
+slow, test2.txt 
+slow. test1.txt 
+slowly test1.txt test2.txt test3.txt 
+slowly, test1.txt 
+slowly. test1.txt test2.txt 
+small test1.txt test2.txt test3.txt 
+small, test1.txt test2.txt 
+smaller test2.txt test3.txt 
+smaller.' test2.txt 
+smart test2.txt test3.txt 
+smartly test2.txt 
+smartly, test2.txt 
+smell. test3.txt 
+smelled test3.txt 
+smile test1.txt test2.txt 
+smile, test1.txt test2.txt 
+smile. test1.txt test2.txt 
+smiled test1.txt test2.txt test3.txt 
+smiled, test1.txt 
+smiled. test1.txt 
+smiling test1.txt test2.txt 
+smiling. test1.txt test2.txt 
+smoked test3.txt 
+snowing test2.txt 
+so test1.txt test2.txt test3.txt 
+so!' test2.txt 
+so, test1.txt test2.txt 
+so,' test1.txt test2.txt 
+so. test1.txt 
+so.' test1.txt 
+so?' test1.txt 
+society test3.txt 
+society, test3.txt 
+society. test3.txt 
+sofa test1.txt 
+sofa, test1.txt 
+sofa. test1.txt 
+soft test1.txt 
+softly, test1.txt 
+softly. test1.txt 
+sold test1.txt test2.txt test3.txt 
+soldier. test2.txt 
+soldiers test3.txt 
+solution test3.txt 
+solve test1.txt test3.txt 
+solved test1.txt 
+solved. test1.txt 
+some test1.txt test2.txt test3.txt 
+somebody test1.txt 
+somebody's test1.txt 
+somehow. test1.txt 
+someone test1.txt test2.txt test3.txt 
+someone,' test2.txt 
+something test1.txt test2.txt test3.txt 
+something, test1.txt test3.txt 
+something. test1.txt test2.txt 
+something.' test1.txt 
+sometimes test1.txt test2.txt test3.txt 
+sometimes.' test2.txt 
+somewhere test1.txt test2.txt 
+somewhere.' test1.txt 
+somewhere?' test1.txt 
+son test1.txt test2.txt 
+son, test2.txt 
+son. test1.txt test2.txt 
+song test3.txt 
+song's test3.txt 
+song, test3.txt 
+song. test3.txt 
+songs test3.txt 
+songs, test3.txt 
+songs. test3.txt 
+songwriter, test3.txt 
+sons test3.txt 
+soon test1.txt test2.txt test3.txt 
+soon, test1.txt 
+soon,' test1.txt test2.txt 
+soon. test2.txt 
+soon.' test2.txt 
+sorry test1.txt 
+sorry, test2.txt 
+sorry; test1.txt 
+sort test1.txt test3.txt 
+sorts test2.txt test3.txt 
+soul test1.txt 
+sound test1.txt test3.txt 
+sound. test2.txt 
+sounded test1.txt test2.txt test3.txt 
+sounds test1.txt test3.txt 
+sounds. test1.txt 
+south test1.txt test2.txt test3.txt 
+south-west test3.txt 
+souvenir, test1.txt 
+space test2.txt 
+speak test1.txt test2.txt test3.txt 
+speak, test1.txt 
+speak. test1.txt test2.txt 
+speaking test1.txt test2.txt 
+speaking, test1.txt 
+speaks test1.txt 
+special test1.txt test2.txt test3.txt 
+special. test3.txt 
+specially test3.txt 
+sped test2.txt 
+speed, test2.txt 
+speedboat!' test1.txt 
+speedboat,' test1.txt 
+speedboats test1.txt 
+speeding test1.txt 
+spelled test3.txt 
+spend test2.txt test3.txt 
+spend. test3.txt 
+spending test1.txt test3.txt 
+spent test1.txt test2.txt test3.txt 
+spent. test3.txt 
+spirit test1.txt 
+spiritualist test1.txt 
+spiritualists test1.txt 
+spite test1.txt 
+spoke test1.txt test2.txt 
+spoke. test1.txt test2.txt 
+spoken test2.txt 
+sport test3.txt 
+spot test1.txt test2.txt 
+spread test1.txt test3.txt 
+spring test2.txt 
+spy test3.txt 
+square test3.txt 
+stables, test2.txt 
+stage test1.txt 
+stage, test3.txt 
+stage. test1.txt 
+stage? test3.txt 
+stairs test1.txt 
+stairs, test2.txt 
+stairs. test1.txt test2.txt 
+stammered. test1.txt 
+stand test2.txt 
+standard test1.txt 
+standing test1.txt test2.txt 
+stands test1.txt 
+star test1.txt test3.txt 
+star, test3.txt 
+star. test3.txt 
+star; test3.txt 
+stared test1.txt test2.txt 
+staring test1.txt 
+stars test1.txt test3.txt 
+stars, test3.txt 
+start test1.txt test2.txt test3.txt 
+start, test3.txt 
+started test1.txt test2.txt test3.txt 
+started. test2.txt test3.txt 
+starting test2.txt 
+state. test3.txt 
+stated test1.txt 
+statement test1.txt test2.txt 
+station test1.txt test3.txt 
+station, test3.txt 
+station. test3.txt 
+stations test3.txt 
+stations. test3.txt 
+stay test1.txt test2.txt test3.txt 
+stay, test2.txt 
+stay. test2.txt 
+stay.' test2.txt 
+stay?' test1.txt 
+stayed test1.txt test2.txt 
+staying test1.txt test2.txt 
+staying?' test1.txt 
+stays test1.txt 
+steal test1.txt test2.txt 
+step. test2.txt 
+stepped test1.txt test2.txt 
+steps test1.txt test2.txt 
+steps. test2.txt 
+sternly, test1.txt 
+stick. test2.txt 
+still test1.txt test2.txt test3.txt 
+still. test1.txt 
+stock test3.txt 
+stolen test2.txt 
+stone test1.txt 
+stone!' test1.txt 
+stone, test1.txt 
+stood test1.txt test2.txt 
+stood. test2.txt 
+stop test1.txt test2.txt test3.txt 
+stop, test2.txt 
+stop,' test2.txt 
+stop. test2.txt 
+stopped test1.txt test2.txt test3.txt 
+stopped, test1.txt test2.txt 
+stopping test2.txt 
+stops test1.txt 
+stories test1.txt test3.txt 
+stories! test1.txt test2.txt test3.txt 
+stories. test3.txt 
+storm test2.txt 
+story test1.txt test2.txt test3.txt 
+story, test1.txt test2.txt 
+story. test2.txt 
+story.' test2.txt 
+stove test2.txt 
+straight test1.txt test3.txt 
+straight, test1.txt 
+straightaway. test2.txt 
+strain test1.txt 
+strange test1.txt test2.txt test3.txt 
+strange. test1.txt 
+strange.' test1.txt 
+strangely, test2.txt 
+strangely.' test1.txt 
+stranger test1.txt test2.txt 
+stranger?' test1.txt 
+strangers test2.txt 
+strap. test1.txt 
+stream test1.txt 
+street test1.txt test2.txt 
+street, test2.txt test3.txt 
+street. test2.txt test3.txt 
+streets test2.txt test3.txt 
+streets. test3.txt 
+strong test2.txt test3.txt 
+strong. test1.txt test2.txt 
+stronger test2.txt 
+strongly test1.txt test3.txt 
+strongly. test3.txt 
+stubbom-looking test2.txt 
+stuck test1.txt 
+student test3.txt 
+student. test2.txt 
+students, test3.txt 
+studies test3.txt 
+studies, test3.txt 
+studio test3.txt 
+studios test3.txt 
+study test1.txt test3.txt 
+study.' test3.txt 
+studying test2.txt test3.txt 
+stuff-it's test1.txt 
+stuff.' test1.txt 
+stupid test1.txt test2.txt 
+stupid,' test1.txt 
+stupid-looking test1.txt 
+stupid. test1.txt 
+style test3.txt 
+style, test1.txt test3.txt 
+style. test3.txt 
+styles test3.txt 
+styles. test3.txt 
+stylish test3.txt 
+stylish, test3.txt 
+subject test1.txt test3.txt 
+succeed test1.txt test3.txt 
+succeed), test1.txt 
+succeed, test3.txt 
+succeeded test1.txt 
+success test3.txt 
+success. test1.txt test3.txt 
+successful test1.txt test3.txt 
+successful, test3.txt 
+successful. test1.txt 
+successfully, test1.txt 
+such test1.txt test2.txt test3.txt 
+sudden test1.txt test2.txt 
+sudden. test1.txt 
+suddenly test1.txt test2.txt test3.txt 
+suddenly, test1.txt test2.txt 
+suddenly. test1.txt 
+suffered test1.txt test3.txt 
+suffered, test3.txt 
+suffering test1.txt 
+suggest test1.txt test3.txt 
+suggest, test1.txt 
+suggested test1.txt test2.txt 
+suggested. test1.txt 
+suggestion. test2.txt 
+suggestions, test1.txt 
+suicide. test1.txt 
+suit test2.txt test3.txt 
+suited test3.txt 
+suits test1.txt test3.txt 
+suits; test3.txt 
+summer test2.txt test3.txt 
+summer, test3.txt 
+sun test1.txt test2.txt test3.txt 
+sun. test2.txt test3.txt 
+sun.' test3.txt 
+sunlight. test2.txt 
+sunny test1.txt test2.txt 
+sunshine test1.txt 
+sunshine. test1.txt 
+suntanned test1.txt 
+supply test1.txt 
+supported test3.txt 
+suppose test1.txt test2.txt 
+suppose, test1.txt test2.txt 
+suppose. test1.txt 
+supposing test1.txt 
+sure test1.txt test2.txt test3.txt 
+sure! test1.txt 
+sure, test1.txt 
+sure,' test1.txt 
+sure. test1.txt 
+sure.' test1.txt test2.txt 
+sure... test2.txt 
+sure...' test1.txt 
+sure? test2.txt 
+sure?' test1.txt 
+surprise test1.txt test2.txt test3.txt 
+surprise, test1.txt test2.txt 
+surprise. test1.txt test2.txt 
+surprised test1.txt test2.txt test3.txt 
+surprised, test2.txt test3.txt 
+surprised. test1.txt test2.txt test3.txt 
+surprised; test3.txt 
+surprising test1.txt test2.txt 
+surprisingly test2.txt 
+surrounded test2.txt 
+surrounds test3.txt 
+survive,' test1.txt 
+suspect test1.txt 
+suspect. test1.txt 
+suspected test1.txt 
+suspected, test1.txt 
+suspected. test1.txt 
+suspected... test1.txt 
+suspects test1.txt 
+suspects. test1.txt 
+suspicion?' test1.txt 
+suspicions test1.txt 
+suspicious test1.txt 
+suspicious. test1.txt 
+swam test3.txt 
+sweet test1.txt test2.txt 
+sweet. test1.txt test2.txt 
+sweetest test1.txt 
+sweetheart. test1.txt 
+swim. test1.txt 
+swimming test3.txt 
+switch, test1.txt 
+switched test3.txt 
+sympathize test1.txt 
+sympathy. test1.txt 
+sympathy.' test1.txt 
+sympathy?' test1.txt 
+table test1.txt test2.txt 
+table, test1.txt 
+table. test1.txt test2.txt 
+take test1.txt test2.txt test3.txt 
+take. test1.txt 
+taken test1.txt test2.txt 
+takes test1.txt 
+taking test1.txt test2.txt 
+talk test1.txt test2.txt test3.txt 
+talk. test1.txt 
+talked test1.txt test2.txt 
+talked, test2.txt 
+talking test1.txt test2.txt test3.txt 
+talking!' test2.txt 
+talking, test1.txt test2.txt 
+tall test1.txt test2.txt 
+tall, test1.txt test2.txt 
+task test1.txt 
+taught test1.txt test2.txt test3.txt 
+taxes test1.txt 
+taxes, test3.txt 
+tea test1.txt test2.txt 
+tea, test1.txt 
+tea?' test1.txt 
+teach test2.txt 
+teacher. test2.txt 
+teaching test2.txt 
+team test3.txt 
+tear test1.txt test2.txt 
+tears test1.txt test2.txt 
+tears. test1.txt 
+technically test1.txt 
+teenagers test3.txt 
+teeth test2.txt 
+telegram test1.txt 
+telegram, test1.txt 
+telephone test1.txt 
+telephone,' test1.txt 
+telephone. test1.txt 
+telephone? test1.txt 
+telephone?' test1.txt 
+telephoned test1.txt 
+tell test1.txt test2.txt test3.txt 
+tell,' test1.txt 
+tell. test1.txt 
+tell? test1.txt 
+telling test1.txt test2.txt 
+tells test1.txt test2.txt 
+temper, test1.txt 
+temperature. test2.txt 
+tempted test1.txt 
+ten test1.txt test2.txt test3.txt 
+ten, test1.txt 
+terrace test1.txt 
+terrace. test1.txt 
+terraces test1.txt 
+terrible test1.txt test2.txt 
+terrible. test1.txt test2.txt 
+terribly test1.txt test2.txt 
+terribly, test2.txt 
+terrified. test1.txt 
+tested test1.txt 
+than test1.txt test2.txt test3.txt 
+thank test1.txt test2.txt 
+thanked test2.txt 
+thankful test2.txt 
+thanks test1.txt 
+thanks,' test1.txt 
+that test1.txt test2.txt test3.txt 
+that! test1.txt 
+that!' test1.txt 
+that's test1.txt test2.txt 
+that, test1.txt test2.txt test3.txt 
+that,' test1.txt test3.txt 
+that. test1.txt test2.txt test3.txt 
+that.' test1.txt test2.txt 
+that...' test1.txt 
+that? test1.txt test2.txt 
+that?' test1.txt test2.txt 
+the test1.txt test2.txt test3.txt 
+the...?' test2.txt 
+theatres test2.txt test3.txt 
+their test1.txt test2.txt test3.txt 
+them test1.txt test2.txt test3.txt 
+them! test1.txt 
+them!' test1.txt 
+them, test2.txt test3.txt 
+them. test1.txt test2.txt test3.txt 
+them." test1.txt 
+them.' test1.txt test2.txt test3.txt 
+them? test2.txt 
+them?' test1.txt test2.txt 
+themself test1.txt 
+themselves test1.txt test2.txt 
+themselves. test3.txt 
+then test1.txt test2.txt test3.txt 
+then, test1.txt test2.txt test3.txt 
+then,' test2.txt 
+then. test1.txt 
+then.' test1.txt 
+then?' test1.txt test2.txt 
+there test1.txt test2.txt test3.txt 
+there!' test2.txt 
+there's test1.txt test2.txt 
+there, test1.txt test2.txt 
+there,' test2.txt test3.txt 
+there. test1.txt test2.txt 
+there.' test1.txt 
+there... test1.txt 
+there? test1.txt 
+there?' test1.txt test2.txt 
+therefore test1.txt 
+therefore, test1.txt 
+these test1.txt test2.txt test3.txt 
+these, test1.txt 
+these.' test2.txt 
+they test1.txt test2.txt test3.txt 
+they'd test1.txt 
+they'll test1.txt 
+they're test1.txt 
+they've test1.txt 
+they? test1.txt 
+they?' test1.txt 
+thick.' test1.txt 
+thieves test1.txt 
+thin test1.txt test2.txt 
+thin-faced test1.txt 
+thin-faced.' test1.txt 
+thing test1.txt test2.txt 
+thing, test1.txt 
+thing,' test1.txt 
+thing. test1.txt test2.txt 
+thing.' test1.txt 
+thing? test2.txt 
+things test1.txt test2.txt test3.txt 
+things,' test1.txt 
+things. test1.txt test2.txt 
+think test1.txt test2.txt test3.txt 
+think, test1.txt 
+think,' test1.txt 
+think. test1.txt 
+think.' test1.txt 
+think? test1.txt 
+think?' test1.txt 
+thinking test1.txt test2.txt test3.txt 
+thinking, test1.txt test2.txt 
+thinking. test2.txt 
+thinking.' test1.txt 
+thinks test1.txt 
+thinks. test1.txt test2.txt 
+third test1.txt 
+thirst test2.txt 
+thirteen test1.txt test2.txt 
+thirty test1.txt test3.txt 
+thirty-five test2.txt 
+thirty-five, test2.txt 
+thirty. test1.txt test3.txt 
+this test1.txt test2.txt test3.txt 
+this! test1.txt 
+this, test1.txt test2.txt test3.txt 
+this,' test2.txt 
+this. test1.txt test2.txt test3.txt 
+this." test1.txt 
+this.' test1.txt 
+this: test1.txt 
+this? test1.txt test3.txt 
+this?' test1.txt test3.txt 
+those test1.txt test2.txt test3.txt 
+though test1.txt 
+though, test1.txt 
+though. test1.txt 
+thought test1.txt test2.txt test3.txt 
+thought, test1.txt test2.txt 
+thought. test1.txt test2.txt 
+thought... test2.txt 
+thoughtful test2.txt 
+thoughtful. test1.txt 
+thoughtfully. test1.txt 
+thousand test1.txt 
+thousands test3.txt 
+threatening test1.txt 
+threats. test1.txt 
+three test1.txt test2.txt test3.txt 
+threw test1.txt 
+through test1.txt test2.txt test3.txt 
+through. test2.txt 
+thumb test1.txt 
+tides test1.txt 
+tides, test1.txt 
+tides.' test1.txt 
+tidied test2.txt 
+tidily test1.txt 
+tidy test2.txt 
+tidy. test1.txt 
+tied test1.txt 
+ties. test3.txt 
+tight test3.txt 
+tightly test2.txt 
+till test1.txt 
+time test1.txt test2.txt test3.txt 
+time!' test1.txt 
+time, test1.txt test2.txt test3.txt 
+time,' test1.txt test2.txt 
+time. test1.txt test2.txt test3.txt 
+time.' test1.txt test2.txt 
+time... test1.txt 
+time; test3.txt 
+times test1.txt test2.txt test3.txt 
+times, test1.txt test2.txt 
+times. test1.txt test2.txt 
+tiny test1.txt 
+tired test1.txt test2.txt 
+tired, test2.txt 
+tired,' test2.txt 
+tired. test2.txt 
+tiring test2.txt 
+to test1.txt test2.txt test3.txt 
+to, test1.txt test2.txt 
+to. test1.txt test2.txt 
+to.' test2.txt 
+to?' test2.txt 
+today test1.txt test2.txt test3.txt 
+today's test3.txt 
+today, test1.txt 
+today. test1.txt 
+today.' test2.txt 
+today?' test1.txt 
+together test1.txt test2.txt test3.txt 
+together!' test1.txt 
+together, test2.txt 
+together. test1.txt test2.txt 
+together? test2.txt 
+told test1.txt test2.txt test3.txt 
+told! test2.txt 
+told. test1.txt 
+told.' test1.txt 
+tomorrow test1.txt 
+tomorrow's test1.txt 
+tomorrow, test1.txt test2.txt 
+tomorrow. test1.txt 
+tomorrow: test1.txt 
+tomorrow?' test1.txt test2.txt 
+tone test1.txt 
+tonight, test1.txt 
+tonight,' test2.txt 
+tonight. test1.txt test2.txt 
+tonight.' test1.txt test2.txt 
+tonight?' test1.txt 
+too test1.txt test2.txt test3.txt 
+too, test1.txt test2.txt 
+too,' test1.txt 
+too. test1.txt test2.txt test3.txt 
+too.' test2.txt 
+too?' test1.txt 
+took test1.txt test2.txt test3.txt 
+top test1.txt test2.txt test3.txt 
+top. test3.txt 
+torn test1.txt 
+totally test1.txt 
+touch test1.txt test2.txt 
+touched test1.txt test3.txt 
+tough test3.txt 
+tough. test3.txt 
+touring test1.txt 
+towards test1.txt test2.txt test3.txt 
+town test1.txt test2.txt test3.txt 
+town, test2.txt 
+town. test1.txt test2.txt 
+town.' test1.txt test3.txt 
+town? test2.txt 
+tradition. test3.txt 
+traditional test3.txt 
+tragedy test1.txt 
+tragedy! test1.txt 
+tragedy, test1.txt 
+tragedy. test1.txt 
+tragedy: test1.txt 
+tragic test1.txt 
+train test1.txt 
+train. test1.txt 
+trance. test1.txt 
+transportation, test2.txt 
+transported test2.txt 
+travel test2.txt test3.txt 
+travel,' test1.txt 
+travel. test2.txt 
+travelled test1.txt test2.txt test3.txt 
+traveller test2.txt 
+traveller, test2.txt 
+travellers test2.txt 
+travelling test1.txt test2.txt 
+travels test1.txt 
+travels. test1.txt 
+tray test1.txt 
+treat test2.txt 
+treated test2.txt 
+tree test1.txt 
+trees, test1.txt 
+trees. test2.txt 
+trembling test1.txt 
+trial test2.txt 
+trial, test2.txt 
+trick test2.txt 
+tricked test1.txt test2.txt 
+tricked, test1.txt 
+tricks test1.txt 
+tricks.' test1.txt 
+tried test1.txt test2.txt test3.txt 
+tried, test1.txt 
+tried. test1.txt 
+tries test1.txt 
+trip test1.txt 
+trips test1.txt 
+trouble test1.txt test2.txt 
+trouble, test3.txt 
+trouble. test2.txt 
+trouble.' test2.txt 
+troubles, test1.txt 
+trousers test2.txt 
+true test1.txt test2.txt test3.txt 
+true, test1.txt 
+true,' test1.txt 
+true. test3.txt 
+true.' test1.txt 
+true?' test1.txt 
+truly test1.txt test2.txt 
+trust test1.txt test2.txt test3.txt 
+trust, test1.txt 
+trust,' test1.txt 
+trust?' test2.txt 
+trusted test2.txt 
+truth test1.txt test2.txt 
+truth, test1.txt 
+truth,' test1.txt 
+truth. test1.txt 
+truth.' test1.txt 
+try test1.txt test2.txt test3.txt 
+trying test1.txt test2.txt test3.txt 
+turn test1.txt test2.txt 
+turn, test1.txt 
+turned test1.txt test2.txt test3.txt 
+turned, test2.txt 
+turned. test1.txt 
+turning test1.txt test2.txt 
+twelve test1.txt test2.txt 
+twentieth test3.txt 
+twenty test1.txt test2.txt 
+twenty-first test3.txt 
+twenty-four test1.txt test2.txt 
+twenty-one test2.txt 
+twenty-seven test3.txt 
+twenty-two. test1.txt 
+twirled test1.txt 
+twisted test1.txt 
+two test1.txt test2.txt test3.txt 
+two, test1.txt 
+two. test1.txt 
+two.' test2.txt 
+two?' test1.txt 
+type test1.txt test2.txt 
+type. test1.txt 
+type? test1.txt 
+types test3.txt 
+typical test1.txt test3.txt 
+typical,' test1.txt 
+ugliness test2.txt 
+ugly test1.txt test2.txt 
+ugly, test2.txt 
+unable test1.txt 
+unanswered. test1.txt 
+unattractive test2.txt 
+unbelievable. test1.txt 
+uncertain. test2.txt 
+uncertainly. test2.txt 
+uncle test1.txt 
+uncle, test1.txt 
+uncomfortable test2.txt 
+uncomfortable. test2.txt 
+uncomfortable.' test1.txt 
+undated. test1.txt 
+under test1.txt test2.txt 
+underclothes. test1.txt 
+understand test1.txt test2.txt test3.txt 
+understand! test1.txt 
+understand, test1.txt 
+understand,' test3.txt 
+understand. test1.txt 
+understand.' test1.txt 
+understand?' test1.txt 
+understanding. test1.txt 
+understood test2.txt test3.txt 
+understood.' test1.txt 
+unexpected test1.txt 
+unexpected, test1.txt 
+unexpected. test1.txt 
+unexpectedly test2.txt 
+unfortunate test1.txt 
+unhappily. test1.txt 
+unhappiness test1.txt 
+unhappy test1.txt test2.txt 
+unhappy, test1.txt 
+unhappy. test1.txt 
+unhappy? test1.txt 
+uniforms test3.txt 
+unique! test1.txt 
+unique, test1.txt 
+university test3.txt 
+unkindly. test2.txt 
+unknown test1.txt 
+unless test1.txt test2.txt 
+unless, test1.txt 
+unlike test1.txt test3.txt 
+unlikely test1.txt 
+unlucky test2.txt 
+unnatural test1.txt 
+unnecessary test1.txt 
+unnecessary,' test1.txt 
+unpleasant test1.txt 
+unsure test2.txt 
+untidy test1.txt test2.txt 
+untidy, test1.txt 
+untidy-looking test2.txt 
+untidy. test1.txt test2.txt 
+until test1.txt test2.txt 
+unusual test1.txt test2.txt test3.txt 
+unusual, test1.txt 
+unusual.' test1.txt 
+unusually test2.txt 
+unwelcome test2.txt 
+unwelcome,' test2.txt 
+unwell test2.txt 
+up test1.txt test2.txt test3.txt 
+up, test1.txt test2.txt test3.txt 
+up,' test1.txt 
+up. test1.txt test2.txt 
+up?' test1.txt 
+upon test1.txt 
+upset test1.txt test2.txt test3.txt 
+upset, test2.txt 
+upset. test2.txt 
+upsetting test2.txt 
+upstairs test1.txt test2.txt 
+upstairs!' test2.txt 
+upstairs, test1.txt test2.txt 
+upstairs,' test2.txt 
+upstairs. test2.txt 
+urgently. test1.txt 
+us test1.txt test2.txt test3.txt 
+us), test1.txt 
+us, test1.txt 
+us,' test1.txt 
+us. test1.txt 
+us.' test1.txt 
+us? test2.txt 
+use test1.txt test2.txt test3.txt 
+used test1.txt test2.txt test3.txt 
+useless test1.txt 
+useless. test1.txt 
+using test1.txt test3.txt 
+usual test1.txt 
+usual, test1.txt test3.txt 
+usual. test1.txt test2.txt 
+usual.' test1.txt 
+usual?' test2.txt 
+usually test1.txt 
+valuable test1.txt test2.txt 
+value test3.txt 
+valued test1.txt 
+valueless. test1.txt 
+van. test2.txt 
+vans test2.txt 
+vans. test2.txt 
+various test1.txt 
+vegetables test1.txt 
+vegetables, test1.txt 
+version test1.txt 
+very test1.txt test2.txt test3.txt 
+very-popular test1.txt 
+victim test1.txt 
+video test3.txt 
+video. test3.txt 
+video; test3.txt 
+videos test3.txt 
+videos, test3.txt 
+videos; test3.txt 
+view. test1.txt 
+view.' test3.txt 
+viewers test3.txt 
+viewers, test3.txt 
+village test2.txt test3.txt 
+village, test2.txt 
+village. test2.txt 
+villages test2.txt 
+violent, test2.txt 
+violently test2.txt 
+violently, test1.txt 
+violently. test1.txt 
+vision test1.txt 
+visit test1.txt test2.txt 
+visit. test1.txt 
+visit.' test1.txt 
+visited test3.txt 
+visiting test2.txt 
+visitor, test2.txt 
+visitor. test2.txt 
+visitors test1.txt 
+visitors. test2.txt 
+vivid test1.txt 
+voice test1.txt test2.txt 
+voice, test1.txt 
+voice. test1.txt test2.txt test3.txt 
+voices test1.txt test2.txt 
+von test3.txt 
+vote test3.txt 
+waist test3.txt 
+wait test1.txt test2.txt test3.txt 
+wait. test1.txt test2.txt 
+waited test1.txt test2.txt test3.txt 
+waiting test1.txt test2.txt 
+waiting, test1.txt 
+waiting. test1.txt 
+waits test1.txt 
+wake test1.txt test2.txt 
+walk test2.txt test3.txt 
+walked test1.txt test2.txt test3.txt 
+walking test1.txt test2.txt test3.txt 
+walking. test2.txt 
+walks test1.txt 
+wall test1.txt test2.txt 
+wall. test1.txt 
+wall: test1.txt 
+walls, test1.txt 
+want test1.txt test2.txt test3.txt 
+want, test1.txt 
+want?' test3.txt 
+wanted test1.txt test2.txt test3.txt 
+wanted, test3.txt 
+wanted. test2.txt test3.txt 
+wanting test1.txt 
+wants test1.txt 
+war test3.txt 
+war, test3.txt 
+war. test3.txt 
+war; test3.txt 
+warm test1.txt test2.txt 
+warm,' test1.txt 
+warm. test2.txt 
+warmly test2.txt 
+warmly. test1.txt 
+warning test1.txt 
+warrant test1.txt test2.txt 
+wars test3.txt 
+was test1.txt test2.txt test3.txt 
+was, test1.txt test2.txt test3.txt 
+was. test2.txt 
+was.' test1.txt 
+was? test1.txt 
+was?' test1.txt test2.txt 
+wash test2.txt 
+wasn't test1.txt test2.txt test3.txt 
+waste test2.txt 
+wasted test2.txt 
+wastepaper test1.txt 
+watch test1.txt test2.txt test3.txt 
+watch. test1.txt test2.txt 
+watch.' test1.txt 
+watchdogs, test1.txt 
+watched test2.txt test3.txt 
+watches test1.txt 
+watches, test1.txt 
+watching test1.txt test2.txt test3.txt 
+water test2.txt 
+water,' test3.txt 
+waved test1.txt 
+wax test2.txt 
+waxworks test2.txt 
+waxworks,' test2.txt 
+waxworks. test2.txt 
+way test1.txt test2.txt test3.txt 
+way!' test2.txt 
+way, test1.txt test3.txt 
+way,' test1.txt 
+way. test1.txt test2.txt test3.txt 
+way.' test1.txt test2.txt test3.txt 
+way? test1.txt 
+way?' test1.txt 
+ways test1.txt test3.txt 
+ways, test3.txt 
+ways. test3.txt 
+we test1.txt test2.txt test3.txt 
+we'd test1.txt 
+we'll test1.txt test2.txt 
+we're test1.txt test2.txt 
+we've test1.txt 
+weak test1.txt test2.txt 
+weak, test2.txt 
+weak,' test2.txt 
+weak. test2.txt 
+weak?' test1.txt 
+weaker test1.txt test2.txt 
+weaker. test2.txt 
+weakly. test2.txt 
+wear test1.txt test3.txt 
+wear. test3.txt 
+wearing test1.txt test2.txt 
+wears test1.txt 
+weather test1.txt test2.txt 
+wedding test3.txt 
+wedding. test3.txt 
+week test1.txt test2.txt 
+week! test3.txt 
+week, test1.txt test2.txt 
+week. test2.txt 
+weekend test1.txt 
+weekends test1.txt 
+weeks test2.txt test3.txt 
+weeks' test2.txt 
+weeks, test1.txt test3.txt 
+weeks. test2.txt 
+weight test1.txt 
+weight. test3.txt 
+welcome test2.txt test3.txt 
+welcomed test2.txt 
+welcoming test1.txt 
+well test1.txt test2.txt test3.txt 
+well! test3.txt 
+well, test1.txt test2.txt test3.txt 
+well,' test2.txt 
+well-arranged test1.txt 
+well-dressed test2.txt 
+well-kept, test1.txt 
+well-worn test1.txt 
+well-worn, test1.txt 
+well. test1.txt test2.txt test3.txt 
+well.' test1.txt test2.txt 
+went test1.txt test2.txt test3.txt 
+went, test2.txt 
+were test1.txt test2.txt test3.txt 
+were!' test1.txt 
+were, test1.txt test3.txt 
+weren't test1.txt test3.txt 
+west test3.txt 
+wet test2.txt 
+wet. test2.txt 
+what test1.txt test2.txt test3.txt 
+what's test2.txt 
+what...' test1.txt 
+what?' test1.txt 
+whatever test1.txt test3.txt 
+wheelchair test1.txt 
+wheelchair. test1.txt 
+wheels, test2.txt 
+when test1.txt test2.txt test3.txt 
+when?' test1.txt 
+whenever test1.txt 
+where test1.txt test2.txt test3.txt 
+whether test1.txt test2.txt 
+which test1.txt test2.txt test3.txt 
+while test1.txt test2.txt test3.txt 
+while, test2.txt 
+while. test2.txt 
+whispered test1.txt test2.txt 
+whispered, test1.txt 
+white test1.txt test2.txt test3.txt 
+white, test1.txt 
+whiter test1.txt 
+who test1.txt test2.txt test3.txt 
+who...?' test1.txt 
+who? test1.txt 
+whoever test1.txt 
+whole test1.txt test2.txt test3.txt 
+whom test1.txt test2.txt 
+whose test1.txt test2.txt test3.txt 
+why test1.txt test2.txt test3.txt 
+why, test1.txt test2.txt 
+why? test1.txt 
+wide test1.txt test2.txt test3.txt 
+wide. test2.txt 
+wider. test1.txt 
+widowed test2.txt 
+wife test1.txt test2.txt test3.txt 
+wife! test2.txt 
+wife!' test2.txt 
+wife's test1.txt 
+wife, test1.txt test2.txt 
+wife. test1.txt 
+wild test3.txt 
+wildly test2.txt 
+will test1.txt test2.txt test3.txt 
+will, test1.txt 
+will. test1.txt 
+will.' test1.txt test2.txt 
+will? test1.txt 
+will?' test1.txt 
+willing test1.txt 
+win test2.txt 
+wind test2.txt 
+window test1.txt test2.txt 
+window, test1.txt 
+window. test1.txt test2.txt 
+window.' test1.txt 
+windows test1.txt 
+windows. test1.txt test2.txt 
+winds, test2.txt 
+wine test1.txt 
+winked test2.txt 
+winner test3.txt 
+winning test1.txt 
+winter test1.txt test3.txt 
+winter. test1.txt 
+wise test1.txt test3.txt 
+wish test1.txt test2.txt 
+wish, test1.txt 
+wish. test1.txt 
+wished test1.txt test2.txt 
+wishes test1.txt 
+with test1.txt test2.txt test3.txt 
+with, test1.txt 
+with. test1.txt 
+within test1.txt test2.txt test3.txt 
+without test1.txt test2.txt test3.txt 
+witness test1.txt 
+witnessed test1.txt 
+witnessed, test1.txt 
+witnessed.' test1.txt 
+wives test3.txt 
+woke test1.txt test2.txt 
+woken test2.txt 
+woman test1.txt test2.txt test3.txt 
+woman's test1.txt test3.txt 
+woman, test2.txt test3.txt 
+woman-hater.' test1.txt 
+woman. test1.txt test2.txt 
+woman.' test3.txt 
+woman; test3.txt 
+woman? test1.txt 
+women test1.txt test3.txt 
+women's test3.txt 
+women, test3.txt 
+women,' test3.txt 
+women. test3.txt 
+won test2.txt test3.txt 
+won!' test2.txt 
+won't test1.txt test2.txt 
+won, test2.txt 
+wonder test2.txt 
+wonder, test1.txt 
+wonder. test1.txt 
+wondered test1.txt 
+wondered. test3.txt 
+wonderful test1.txt test2.txt test3.txt 
+wonderful,' test1.txt 
+wonderful.' test1.txt 
+wooden test1.txt test2.txt 
+word test1.txt test2.txt 
+word, test1.txt test2.txt 
+word. test1.txt test2.txt 
+word?' test1.txt 
+words test1.txt test2.txt test3.txt 
+words, test1.txt 
+wore test1.txt test2.txt test3.txt 
+wore. test3.txt 
+work test1.txt test2.txt test3.txt 
+work, test2.txt test3.txt 
+work,' test1.txt test2.txt 
+work. test1.txt test2.txt test3.txt 
+work.' test2.txt 
+work?' test1.txt test3.txt 
+worked test1.txt test2.txt test3.txt 
+worked. test2.txt 
+workers test3.txt 
+workers. test3.txt 
+working test2.txt test3.txt 
+working. test2.txt test3.txt 
+workmen's test2.txt 
+works test1.txt 
+world test1.txt test3.txt 
+world! test3.txt 
+world's test3.txt 
+world, test1.txt test3.txt 
+world,' test2.txt test3.txt 
+world-famous test1.txt test2.txt 
+world. test2.txt test3.txt 
+world: test3.txt 
+worn test3.txt 
+worried test1.txt test2.txt test3.txt 
+worried, test1.txt test2.txt 
+worried. test1.txt test2.txt test3.txt 
+worry test1.txt test2.txt test3.txt 
+worry, test2.txt 
+worry,' test3.txt 
+worrying test2.txt test3.txt 
+worse. test1.txt 
+worst test3.txt 
+worth test1.txt 
+worth. test1.txt 
+would test1.txt test2.txt test3.txt 
+would- test1.txt 
+would-be test1.txt 
+would.' test1.txt 
+wouldn't test1.txt test2.txt test3.txt 
+wreath test1.txt 
+wrist test1.txt 
+wrist. test1.txt 
+wristwatch test1.txt 
+wristwatch?' test1.txt 
+wristwatches.' test1.txt 
+write test1.txt test2.txt test3.txt 
+write. test2.txt 
+writer test3.txt 
+writer, test3.txt 
+writers,' test3.txt 
+writing test1.txt test2.txt test3.txt 
+writing-table test1.txt 
+writing. test1.txt test3.txt 
+written test1.txt test2.txt 
+written, test1.txt 
+written: test1.txt 
+wrong test1.txt 
+wrong!' test1.txt 
+wrong, test2.txt 
+wrong. test2.txt test3.txt 
+wrong.' test1.txt 
+wrong?' test1.txt test2.txt 
+wrote test1.txt test2.txt test3.txt 
+yachts test1.txt 
+yard test2.txt 
+yard. test2.txt 
+yards test1.txt 
+year test1.txt test3.txt 
+year! test2.txt test3.txt 
+year!' test2.txt 
+year's test3.txt 
+year, test3.txt 
+year,' test1.txt 
+year. test2.txt test3.txt 
+years test1.txt test2.txt test3.txt 
+years! test1.txt 
+years' test2.txt 
+years, test1.txt test2.txt test3.txt 
+years,' test2.txt 
+years. test2.txt test3.txt 
+years.' test1.txt 
+yes! test1.txt 
+yes, test1.txt test2.txt 
+yes,' test1.txt test2.txt 
+yes. test1.txt 
+yes.' test1.txt 
+yes?' test1.txt 
+yesterday, test1.txt 
+yesterday. test1.txt test2.txt 
+yesterday.' test1.txt 
+yesterday?' test1.txt 
+yet test1.txt test2.txt 
+yet, test1.txt 
+yet,' test1.txt 
+yet. test1.txt 
+yet.' test1.txt 
+you test1.txt test2.txt test3.txt 
+you! test1.txt test2.txt 
+you!' test1.txt test2.txt 
+you'd test1.txt test2.txt 
+you'll test1.txt test2.txt 
+you're test1.txt test2.txt test3.txt 
+you've test2.txt 
+you, test1.txt test2.txt 
+you,' test1.txt test2.txt 
+you. test1.txt test2.txt 
+you.' test1.txt test2.txt 
+you...' test1.txt 
+you? test2.txt 
+you?' test1.txt test2.txt 
+young test1.txt test2.txt test3.txt 
+young, test2.txt 
+younger test2.txt test3.txt 
+your test1.txt test2.txt 
+yours test1.txt test2.txt 
+yours, test1.txt 
+yours.' test1.txt test2.txt 
+yours?' test1.txt 
+yourself test2.txt 
+yourself, test1.txt 
+yourself. test1.txt 
+yourself.' test1.txt 
+yourself?' test2.txt 
