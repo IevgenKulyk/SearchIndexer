@@ -10,9 +10,10 @@ FileParser::~FileParser()
 {
 }
 
-std::vector<std::string> FileParser::parseFile(std::string FilePath)
+std::vector<std::pair<std::string, int>> FileParser::parseFile(std::string FilePath)
 {
-	std::vector<std::string> result;
+	std::vector<std::pair<std::string, int>> result;
+	int number = 0;
 	std::ifstream file(FilePath);
 
 	std::string currentLine;
@@ -22,8 +23,14 @@ std::vector<std::string> FileParser::parseFile(std::string FilePath)
 		while (currentStream)
 		{
 			std::string temp;
+			std::pair<std::string, int> element;
 			currentStream >> temp;
-			result.push_back(temp);
+			if (temp.length())
+			{
+				element.first = temp;
+				element.second = number++;
+				result.push_back(element);
+			}
 		}
 	}
 

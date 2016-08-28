@@ -1,121 +1,66 @@
 #include "Indexer.h"
 
-
 Indexer::Indexer()
 {
+	db = new Database(std::string(":memory:"));
 }
-
 
 Indexer::~Indexer()
 {
+	delete db;
 }
 
 void Indexer::InitFromLinearFile(std::string FilePath)
-{
+{	
+	db ->createNewTable(FilePath);
+
 	FileParser parser;
-	std::vector<std::string> words = parser.parseFile(FilePath);
-	addWordsToIndexer(words,FilePath);
-}
-
-void Indexer::addWord(std::string word, const std::string& FilePath)
-{
-	try{
-		std::set<std::string>& files = fastSearchAccess.at(word);
-		files.insert(FilePath);
-	}
-	catch (std::out_of_range)
+	std::vector<std::pair<std::string, int>> words = parser.parseFile(FilePath);
+	for (auto element : words)
 	{
-		std::set<std::string> firstFile;
-		firstFile.insert(FilePath);
-		fastSearchAccess[word] = firstFile;
+		db->insertDataInTable(element.first, element.second, FilePath);
 	}
-}
-
-void Indexer::addWordsToIndexer(const std::vector<std::string>& words,const std::string& FilePath)
-{
-	for (const std::string& word : words)
-	{
-		if (word.length())
-			addWord(word, FilePath);
-	}
-}
-
-std::string Indexer::SearchWordInFilesByIndexer(std::string word)
-{
-	std::string result;
-
-	try{
-		auto answer = fastSearchAccess.at(word);
-		result = "Found in: ";
-		for (auto x : answer)
-		{
-			result += x + ", ";
-		}
-		result = result.substr(0, result.length() - 2);
-	}
-	catch (std::out_of_range)
-	{
-		result = "No match found!";
-	}
-
-	return result;
-}
-
-void Indexer::replaceSpacesWithStars(std::string& FilePath)
-{
-	std::replace(FilePath.begin(), FilePath.end(), ' ', '*');
-}
-
-void Indexer::replaceStarsWithSpaces(std::string& FilePath)
-{
-	std::replace(FilePath.begin(), FilePath.end(), '*', ' ');
 }
 
 void Indexer::DumpIndexerToDisk(std::string IndexerFilePath)
 {
-	std::ofstream file(IndexerFilePath);
-	for (auto entry : fastSearchAccess)
-	{
-		std::string outputLine = entry.first + " ";
-		for (auto searchFile : entry.second)
-		{
-			std::string temp = searchFile;
-			replaceSpacesWithStars(temp);
-			outputLine += temp + ' ';
-		}
-		outputLine += "\n";
-		file << outputLine;
-	}
+	sqlite3* dump;
+	remove(IndexerFilePath.c_str());	
+	if (sqlite3_open(IndexerFilePath.c_str(), &dump))
+		throw std::string("Unable to dump to disk");
+
+	sqlite3_backup *pBackup = sqlite3_backup_init(dump, "main", db ->getHandle(), "main");
+	sqlite3_backup_step(pBackup, -1);
+	sqlite3_backup_finish(pBackup);
+	sqlite3_close(dump);
 }
 
-void Indexer::InitByIndexerDump(std::string FilePathOfDump)
+void Indexer::InitFromDump(std::string DumpName)
 {
-	fastSearchAccess.clear();
-	std::ifstream file(FilePathOfDump);
+	sqlite3* dump;
+	
+	if (sqlite3_open(DumpName.c_str(), &dump))
+		throw std::string("Unable to read dump");
 
-	std::string currentLine;
-	while (std::getline(file, currentLine))
+	sqlite3_backup *pBackup = sqlite3_backup_init(db->getHandle(), "main", dump , "main");
+	sqlite3_backup_step(pBackup, -1);
+	sqlite3_backup_finish(pBackup);
+	sqlite3_close(dump);
+}
+
+std::string Indexer::SearchWord(std::string word)
+{
+	std::string result = word + " Found at: ";
+	unsigned int empty = result.length();
+	std::vector<std::string> TableNames = db->getAllTableNames();
+	for (auto Name : TableNames)
 	{
-		std::istringstream currentStream(currentLine);
-		bool i = false;
-		std::string theWord;
-		
-		while (currentStream)
+		if (db->Search(word, Name) == "found")
 		{
-			std::string temp;
-			currentStream >> temp;
-			if (i == false)
-			{
-				theWord = temp;
-				i = true;
-			}
-			else
-			{
-				std::string currentFile = temp;
-				replaceStarsWithSpaces(currentFile);
-				if (currentFile.length() > 1)
-					addWord(theWord, currentFile);
-			}			
-		}
+			result += Name + " ";
+		}		
 	}
+	if (result.length() == empty)
+		result = "No matches found!";
+	return result;
 }

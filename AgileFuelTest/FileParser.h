@@ -9,7 +9,7 @@ class FileParser
 {
 public:
 	FileParser();
-	std::vector<std::string> parseFile(std::string);
+	std::vector<std::pair<std::string, int>> parseFile(std::string);
 	~FileParser();
 };
 
